@@ -72,7 +72,15 @@ char *get_lesson()	/* Ask user for desired lesson */
 
     nocbreak();
 
-    (void)gets(response);
+    (void)fgets(response, STR_SIZE + 1, stdin);
+    {
+	int i;
+	for (i = 0; response[i] != '\0'; i++) {
+	    if (response[i] == '\r' || response[i] == '\n') {
+		response[i] = '\0';
+	    }
+	}
+    }
 
     cbreak();
     for (lp = response; *lp == ' ' || *lp == '\t'; lp++) ;

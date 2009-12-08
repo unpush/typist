@@ -48,17 +48,18 @@
 #MAB=-arch m68k -arch i386 -arch hppa -arch sparc
 
 # following options for SGI IRIX
-LIBS=-ltermcap
-DEBUG=-O -s
+#LIBS=-ltermcap
+#DEBUG=-O -s
 
 ##### INSTALL PARAMETERS #####
-LIBS=-ltermcap
-DEBUG=-O -s
-LESSONDIR=/usr/local/lib/typist
-TARGETDIR=/usr/local/bin
-MANPATH=/usr/local/man
+LIBS=-lncurses
+DEBUG=-O2 -Wall -s
+PREFIX=/usr/local
+LESSONDIR=$(PREFIX)/lib/typist
+TARGETDIR=$(PREFIX)/bin
+MANPATH=$(PREFIX)/man
 # NeXT ONLY!!  To make FAT binary.
-MAB=
+#MAB=
 
 CFLAGS=$(DEBUG) $(MAB) -DTERMIO
 # -DKEYTYPE=\"e\"
@@ -73,7 +74,7 @@ CFLAGS=$(DEBUG) $(MAB) -DTERMIO
 ## -DVANISHCHAR		if the character after an error vanishes.
 
 LDFLAGS=$(DEBUG) $(MAB)
-CC=cc
+CC=gcc
 
 #-----------------------------------------------------------------------
 

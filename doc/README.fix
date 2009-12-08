@@ -1,0 +1,16 @@
+2005-06-10  rltm  <rltm9940@yahoo.co.jp>
+
+	* src/screen.c:
+	暗黙の宣言の警告が表示されるので unistd.h と string.h を
+	インクルードするようにした。
+
+2004-02-08  rltm  <rltm9940@yahoo.co.jp>
+
+	* src/lesson.c: 
+	gets 関数はオーバーフローの危険性があり最近のシステムでは
+	警告が出る場合があるので回避するために fgets に変更。
+
+	* src/Makefile:
+	Makefile のデフォルト設定を Linux 向けに編集。
+	Makefile に PREFIX を追加してインストール先を指定しやすくした。
+	Makefileとtypist.hの二つを編集すればインストール先を変更できます。
