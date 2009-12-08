@@ -1,15 +1,17 @@
-# ÆüËÜ¸ìÂÐ±þÈÇ ÆüËÜ¸ì¥­¡¼¥Ü¡¼¥ÉÍÑ
-# ·Á¼°: ¥³¡¼¥¹Ì¾  ¥ì¥Ã¥¹¥ó¿ô  ¥³¡¼¥¹Ì¾¾Î  ¥Ñ¥¹
-# ¥Ñ¥¹¤Ï¥ª¥×¥·¥ç¥Ê¥ë¡£%¤Ï¥­¡¼¥Ü¡¼¥É¥¿¥¤¥×Ì¾¤ÇÃÖ´¹¤µ¤ì¤ë¡£
-t 16 "É¸½à¥³¡¼¥¹    "
-u 13 "É¸½à¥É¥ê¥ë    "
-v 20 "½¸Ãæ¥É¥ê¥ë    "
-m 11 "¼ÂÀï¥É¥ê¥ë    "
-s  4 "¥¹¥Ô¡¼¥É¥¢¥Ã¥×"
-q  5 "Â®½¬¥³¡¼¥¹    "
-r 14 "¾åÃ£¥³¡¼¥¹    "
-n  3 "¿ô»úÆþÎÏ¥³¡¼¥¹"
-k 17 "¤«¤ÊÆþÎÏ¥³¡¼¥¹" kana
-j  7 "¤«¤Ê¼ÂÁ©¥³¡¼¥¹" jissen
-# ¥Ø¥ë¥×¥Õ¥¡¥¤¥ë¤¢¤ê
+# “ú–{Œê‘Î‰ž”Å “ú–{ŒêƒL[ƒ{[ƒh—p
+# Œ`Ž®: ƒR[ƒX–¼  ƒŒƒbƒXƒ“”  ƒR[ƒX–¼Ì  ƒpƒX
+# ƒpƒX‚ÍƒIƒvƒVƒ‡ƒiƒ‹B%‚ÍƒL[ƒ{[ƒhƒ^ƒCƒv–¼‚Å’uŠ·‚³‚ê‚éB
+a 20 "ƒ[ƒ}Žš“ü—ÍƒR[ƒX" roma
+b 14 "ƒ[ƒ}ŽšŽÀ‘HƒR[ƒX" romasp
+k 17 "‚©‚È“ü—ÍƒR[ƒX@@" kana
+j 14 "‚©‚ÈŽÀ‘HƒR[ƒX@@" jissen
+t 16 "‰p•¶•W€ƒR[ƒX@@"
+u 13 "‰p•¶•W€ƒhƒŠƒ‹    "
+v 20 "‰p•¶W’†ƒhƒŠƒ‹    "
+m 11 "‰p•¶ŽÀíƒhƒŠƒ‹    "
+s  4 "‰p•¶ƒXƒs[ƒhƒAƒbƒv"
+q  5 "‰p•¶‘¬KƒR[ƒX    "
+r 14 "‰p•¶ã’BƒR[ƒX    "
+n  3 "ƒeƒ“ƒL[“ü—ÍƒR[ƒX"
+# ƒwƒ‹ƒvƒtƒ@ƒCƒ‹‚ ‚è
 ?help

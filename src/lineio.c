@@ -7,8 +7,8 @@
 	Original: D. Jason Penney (penneyj@slc.com)
 	Tuned for ECIP NeXT: Takeshi Ogihara
 	Ver.1.0   1992-07-14
-	Ver.2.0   1997-04-21	Kana Exercise
-	by Takeshi Ogihara  (ogihara@seg.kobe-u.ac.jp)
+	Ver.2.0   1997-04-21	Kana Exercise  by Takeshi Ogihara
+	Ver.3.0   2007-06-01	by Takeshi Ogihara
 ------------------------------------------------------ */
 
 #include <stdio.h>
@@ -16,15 +16,36 @@
 #include <ctype.h>
 #include <string.h>
 
-#include "typist.h"
 #include "lineio.h"
+#include "typist.h"
+#include "dictionary.h"
+#include "http.h"
+
+#define  L_EOF		(-1)	/* EOF */
+#define  L_EOLESSON	(-2)	/* EOF */
+#define  L_IFT		(-3)	/* #if / #ifnot (true) */
+#define  L_IFF		(-4)	/* #if / #ifnot (false) */
+#define  L_ELT		(-5)	/* #elif (true) and #else */
+#define  L_ELF		(-6)	/* #elif (false) */
+#define  L_END		(-7)	/* #endif */
+#define  L_PARAM	(-8)	/* #param */
+
 
 static int	nestlevel = 0;
 
 
-BoolType seek_lesson(fp, lname)
-	FILE *fp;
-	char *lname;
+static int copy_keystr(const char *buf, char *dest)
+{
+    int x, i;
+    for (x = 0; buf[x] == ' ' || buf[x] == '\t'; x++)
+	;
+    for (i = 0; buf[x] > ' '; x++, i++)
+	dest[i] = buf[x];
+    dest[i] = 0;
+    return x;
+}
+
+BoolType seek_lesson(FILEsIO *fp, const char *lname)
 {
 	StrType	buffer;
 	char	target[16];
@@ -34,23 +55,24 @@ BoolType seek_lesson(fp, lname)
 
 	sprintf(target, "%c%d*", toupper(lname[0]), atoi(&lname[1]));
 	n = strlen(target);
-	while (fgets(buffer, STR_SIZE, fp)) {
+	while (iogets(buffer, STR_SIZE, fp)) {
 	    if (buffer[0] == '*' && strncmp(buffer+1, target, n) == 0)
 		return TRUE;
 	}
 	return FALSE;
 }
 
-static int get_line(fp, buffer)
+static int get_line(FILEsIO *fp, StrType buffer)
 /* Read a line from the lesson file */
-	FILE *fp;
-	StrType buffer;
 {
+    enum{
+	iff_none = 0, iff_if, iff_ifnot, iff_elif
+    };
     int lng;
-    int	i, j, ifflag, sw;
-    char key[16];
+    int	i, ifflag, sw;
+    char key[16], val[16];
 
-    if (feof(fp) || ferror(fp) || fgets(buffer, STR_SIZE, fp) == NULL) {
+    if (iogets(buffer, STR_SIZE, fp) == NULL) {
 	buffer[0] = '\0';
 	return L_EOF;
     }
@@ -68,38 +90,39 @@ static int get_line(fp, buffer)
 	return L_ELT;
     if (strncmp(&buffer[1], "endif", 5) == 0)
 	return L_END;
-    ifflag = i = 0;
+    if (strncmp(&buffer[1], "param", 5) == 0) {
+	i = copy_keystr(&buffer[6], key);
+	i = copy_keystr(&buffer[6+i], val);
+	add_dictionary(key, val);
+	return L_PARAM;
+    }
+    ifflag = iff_none;
+    i = 0;
     if (strncmp(&buffer[1], "if", 2) == 0) {
 	if (strncmp(&buffer[3], "not", 3) == 0)
-	    ifflag = 2, i = 6;
+	    ifflag = iff_ifnot, i = 6;
 	else
-	    ifflag = 1, i = 3;
+	    ifflag = iff_if, i = 3;
     }else if (strncmp(&buffer[1], "elif", 4) == 0)
-	ifflag = 3, i = 5;
-    if (ifflag == 0)
+	ifflag = iff_elif, i = 5;
+    if (ifflag == iff_none)
 	return lng;
 
-    for ( ; buffer[i] == ' ' || buffer[i] == '\t'; i++) ;
-    for (j = 0; buffer[i] > ' '; )
-	    key[j++] = buffer[i++];
-    key[j] = 0;
-    sw = (strcmp(key, Keytype) == 0);
+    (void)copy_keystr(&buffer[i], key);
+    sw = (strcmp(key, keyboard_type) == 0);
     switch (ifflag) {
-    case 1: /* if */
+    case iff_if: /* if */
 	    return (sw ? L_IFT : L_IFF);
-    case 2: /* ifnot */
+    case iff_ifnot: /* ifnot */
 	    return (sw ? L_IFF : L_IFT);
-    case 3: /* elif */
+    case iff_elif: /* elif */
 	    return (sw ? L_ELT : L_ELF);
     }
     return lng; /* never */
 }
 
 
-static int skip_endif(fp, buffer, srch)
-	FILE	*fp;
-	StrType	buffer;
-	BoolType srch;
+static int skip_endif(FILEsIO *fp, StrType buffer, BoolType srch)
 {
 	int	lng, r;
 
@@ -120,9 +143,7 @@ static int skip_endif(fp, buffer, srch)
 	return lng; /* L_EOF or L_EOLESSON */
 }
 
-int get_lesson_line(fp, buffer)
-    FILE	*fp;
-    StrType	buffer;
+int get_lesson_line(FILEsIO *fp, StrType buffer)
 {
     int	lng;
     int	r;
@@ -152,11 +173,10 @@ int get_lesson_line(fp, buffer)
 		/* else L_END */
 		if (nestlevel > 0) --nestlevel;
 		break;
-		r = skip_endif(fp, buffer, FALSE);
-		
 	case L_END:
 		if (nestlevel > 0) --nestlevel;
 		break;
+	case L_PARAM:
 	default: break;
 	}
     }

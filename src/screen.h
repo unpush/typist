@@ -2,81 +2,152 @@
 	screen.h  fot typist
 ---------------------------------------------------------
 	Ver.2.0   1997-05-20	Kana Exercise
-	by Takeshi Ogihara  (ogihara@seg.kobe-u.ac.jp)
+	by Takeshi Ogihara
+	Modification for MinGW    May 2007   by OHKUBO Takuya
+	Ver.3.0   2007-07-19	by Takeshi Ogihara
 ------------------------------------------------------ */
 
 #include <ctype.h>
+#include <stdarg.h>
 
-# ifdef __STDC__
-# include <stdarg.h>
+/* ==================================
+Function/Macro List
+
 int add_ch(int);
-void add_str(char *);
-void add_fmt(char *fmt, ... );
+void add_str(const char *);
+void add_kch(unsigned long);
+void add_fmt(const char *fmt, ... );
+int get_kch(void);
 void stand_out(int);
 void stand_end(int);
-# else   /* __STDC__ */
-# include <varargs.h>
-extern int add_ch();
-extern void add_str();
-extern void add_fmt();
-extern void stand_out();
-extern void stand_end();
-# endif  /* __STDC__ */
+
+void init_screen();
+void end_screen();
+void cbreak_mode();
+void move_cursor(int y, int x);
+void put_bs(int c);
+void clear_screen();
+void get_ch();
+void put_2bs(unsigned long);
+
+================================== */
+
+/* This code allows 4 types of terminal control:
+  1. old-type DOS
+  2. Borland C++ (and other C on Windows, maybe)
+  3. MinGW (Minimalist GNU for Win32)
+  4. UNIX like curses & termio
+
+!! Definition of functions and macros are separated because of simplicity.
+
+*/
+#if !defined(MSDOS) && !defined(__BORLANDC__) && !defined(__MINGW32__)
+#define UNIX_CURSES
+#endif
 
 #define  ALLATTR	0
 #define  STANDOUT	1
 #define  UNDERLINE	2
 #define  BOLD		3
 
-
-#ifdef  MSDOS
-
-/* This header info. is only for MS-DOS terminals. */
-
+/* ===================== MSDOS ===================== */
+#if defined(MSDOS)
 #include <conio.h>
+#include <io.h>
 
-#ifdef __STDC__
+int add_ch(int);
+void add_str(const char *);
+void add_kch(unsigned long);
+void add_fmt(const char *fmt, ... );
 int get_kch(void);
-#else
-extern int get_kch();
-#endif
+void stand_out(int);
+#define  stand_end(x)	add_str("\033[m")
 
 #define  init_screen()	{ }
-#define  cbreak()	{ }
-#define  nocbreak()	{ }
 #define  end_screen()	{ }
-#define  move(y, x)	add_fmt("\033[%d;%dH", (y)+1, (x)+1)
-#define  clear_screen()	add_str("\033[2J")
+#define  cbreak_mode(x)	{ }
+#define  move_cursor(y, x)	add_fmt("\033[%d;%dH", (y)+1, (x)+1)
 #define  put_bs(c)	add_fmt("\b%c\b", (c))
-#define  put_2bs(s)	add_fmt("\b\b%c%c\b\b", *(s), *((s)+1))
+#define  clear_screen()	add_str("\033[2J")
 #define  get_ch()	getch()
+void put_2bs(unsigned long);
 
-#else /* MSDOS */
+#endif /* end of MSDOS */
 
-#ifdef __STDC__
+/* ==================== BORLANDC ==================== */
+#if defined(__BORLANDC__)
+#include <conio.h>
+#include <io.h>
+
+#define  add_ch(cc)	putch(cc)
+#define  add_str(x)	cputs(x)
+void add_kch(unsigned long);
+#define add_fmt		cprintf
+#define get_kch(void)	getch()
+void init_screen(void);
+void stand_out(int);
+void stand_end(int);
+
+#define  cbreak_mode(x) { }
+#define  end_screen()	{ }
+#define  move_cursor(y, x)	gotoxy((x)+1, (y)+1)
+#define  put_bs(c)	cprintf("\b%c\b", (c))
+#define  clear_screen()	clrscr()
+#define  get_ch()	getch()
+void put_2bs(unsigned long);
+
+#endif /* end of __BORLANDC__ */
+
+/* ==================== MINGW32 ==================== */
+#if defined(__MINGW32__)
+#include <curses.h>
+
+#define  add_ch(c)      do { addch(c);  refresh(); } while(0)
+#define  add_str(s)     do { addstr(s); refresh(); } while(0)
+void add_kch(unsigned long);
+void add_fmt(const char *fmt, ... );
+#define  get_kch()      getch()
+#define  stand_out(c)   standout()
+#define  stand_end(c)   standend()
+
+#define  init_screen()	initscr()
+#define  end_screen()	endwin()
+#define  cbreak_mode(x) ((x) ? cbreak() : nocbreak())
+#define  move_cursor(y, x)	do { move(y, x); refresh(); } while(0)
+#define  put_bs(c)      add_fmt("\b%c\b", (c))
+#define  clear_screen()	clear()
+#define  get_ch()       getch()
+void put_2bs(unsigned long);
+
+#define  gets(s)        do { echo(); getstr(s); noecho(); } while(0)
+
+#endif /* end of __MINGW32__ */
+
+/* ================== UNIX_CURSES ================== */
+#if defined(UNIX_CURSES)
+#include <curses.h>
+
 void raw_mode(int);
+void goto_screen(int, int);
+
+int add_ch(int);
+void add_str(const char *);
+void add_kch(unsigned long);
+void add_fmt(const char *fmt, ... );
+#define  get_kch()	get_ch()
+void stand_out(int);
+void stand_end(int);
+
 void init_screen(void);
 void end_screen(void);
-void clear_screen(void);
-void goto_screen(int, int);
+
+#define  cbreak_mode(x) raw_mode(x)
+#define  move_cursor(y, x)	goto_screen(y, x)
+
 void put_bs(int);
-void put_2bs(char *);
+void clear_screen(void);
 int get_ch(void);
-#else
-extern void raw_mode();
-extern void init_screen();
-extern void end_screen();
-extern void clear_screen();
-extern void goto_screen();
-extern void put_bs();
-extern void put_2bs();
-extern int get_ch();
-#endif
+void put_2bs(unsigned long);
 
-#define  init_scr()	init_screen()
-#define  cbreak()	raw_mode(1)
-#define  nocbreak()	raw_mode(0)
-#define  move(y, x)	goto_screen(y, x)
-#define  get_kch()	get_ch()
+#endif /* end of UNIX_CURSES */
 
-#endif /* not MSDOS */

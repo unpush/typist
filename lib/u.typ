@@ -1,34 +1,67 @@
 *U1*
-			¥ì¥Ã¥¹¥óU1¤Ø¤è¤¦¤³¤½
+                        ƒŒƒbƒXƒ“U1‚Ö‚æ‚¤‚±‚»
 
-¥¿¥Ã¥Á¥¿¥¤¥×¤ÎÊıË¡¤Ï¤â¤¦Ê¬¤«¤Ã¤Æ¤¤¤Ş¤¹¤«¡©
-¤Ş¤º¡¢¥Û¡¼¥à¥İ¥¸¥·¥ç¥ó¤ÎÎó¤Î¥É¥ê¥ë¤«¤é»Ï¤á¤Ş¤·¤ç¤¦¡£\T
-(1) ¤ä¤Ã¤Æ¤ß¤è¤¦:\I
+ƒ^ƒbƒ`ƒ^ƒCƒv‚Ì•û–@‚Í‚à‚¤•ª‚©‚Á‚Ä‚¢‚Ü‚·‚©H
+‚Ü‚¸Aƒz[ƒ€ƒ|ƒWƒVƒ‡ƒ“‚Ì—ñ‚ÌƒhƒŠƒ‹‚©‚çn‚ß‚Ü‚µ‚å‚¤B\T
+(1) ‚â‚Á‚Ä‚İ‚æ‚¤:\I
 has half hag gad gash glass sash ash slash shall flash
 had hall gas gaff gall glad dash ask slag shad ah\D
 *
 *U2*
-			Lesson U2\T
-(1) ¥Û¡¼¥à¥İ¥¸¥·¥ç¥ó¤Î¾å¤ÎÎó¤Ë´·¤ì¤è¤¦:\I
+                        Lesson U2\T
+(1) ƒz[ƒ€ƒ|ƒWƒVƒ‡ƒ“‚Ìã‚Ì—ñ‚ÉŠµ‚ê‚æ‚¤:\I
 juj kik lol ;p; jyj
 frf ded sws aqa ftf\D
-(2) Ã±¸ì...\I
+(2) ’PŒê...\I
 jug part ye aqua their hearty dry great why whose youth
 kit free use type last lower drug light wheat proper your
 lot dear its rear were pretty grip quiet where proud yellow
 hear sweep old easy writer fresh group equip who please yes\D
-(3) ¥Û¡¼¥à¥İ¥¸¥·¥ç¥ó¤Î²¼¤ÎÎó¤Ë´·¤ì¤è¤¦:\I
+(3) ƒz[ƒ€ƒ|ƒWƒVƒ‡ƒ“‚Ì‰º‚Ì—ñ‚ÉŠµ‚ê‚æ‚¤:\I
 jmj k,k l.l ;/; jnj
 fvf dcd sxs aza fbf\D
-(4) ¤Ş¤¿Ã±¸ì...\I
+(4) ‚Ü‚½’PŒê...\I
 man come body vacant many tax ribbon lining believing
 name can beam make examine none native baby commission
 vain sex not cancel even mention woman brick quicken
 become zero cave lazy benzine opening very branch textile\D
 *
 *U3*
-			Lesson U3\T
-(1) ÂçÊ¸»ú¤È¶çÆÉÅÀ¤ÎÆşÎÏ:\I
+                        Lesson U3\T
+                        ƒL[ƒ{[ƒh‚Ìİ’è
+
+ƒL[ƒ{[ƒh‚É‚Í‚¢‚­‚Â‚©‚Ìí—Ş‚ª‚ ‚è‚Ü‚·‚ªATypist ‚Í‚»‚Ì‚¤‚¿A‰pŒêŒ—‚Å
+ˆê”Ê“I‚È 101ƒL[ƒ{[ƒh‚ÆA“ú–{Œê—p‚Ì JIS106 ƒL[ƒ{[ƒh‚É‘Î‰‚µ‚Ä‚¢‚Ü‚·B
+
+#if e
+Œ»İA101ƒL[ƒ{[ƒh‚Ìİ’è‚Å“®ì‚µ‚Ä‚¢‚Ü‚·B
+
+‚±‚ÌƒL[ƒ{[ƒh‚Å‚ÍA‰üsƒL[‚Ì‹ß‚­‚É '[' ‚Æ ']' ‚ª—×‚è‡‚Á‚Ä”z’u‚³‚êA”
+š‚Ì '2' ‚ÆƒVƒtƒgƒL[‚Å '@' ‚ª“ü—Í‚Å‚«‚é‚Í‚¸‚Å‚·B
+#else
+Œ»İA106ƒL[ƒ{[ƒh‚Ìİ’è‚Å“®ì‚µ‚Ä‚¢‚Ü‚·B
+
+‚±‚ÌƒL[ƒ{[ƒh‚Å‚ÍA‰üsƒL[‚Ì‹ß‚­‚É '[' ‚Æ ']' ‚ªc‚É•À‚ñ‚Å”z’u‚³‚êA”
+š‚Ì '2' ‚ÆƒVƒtƒgƒL[‚Å '"' ‚ª“ü—Í‚Å‚«‚é‚Í‚¸‚Å‚·B
+#endif
+‚»‚¤‚Å‚È‚¢ê‡AƒL[ƒ{[ƒh‚Ìƒ^ƒCƒv‚ğ -k ƒIƒvƒVƒ‡ƒ“‚Åw’è‚µ‚ÄA Typist‚ğ
+‹N“®‚µ’¼‚·•K—v‚ª‚ ‚è‚Ü‚·B
+
+@@@@-kj     106ƒL[ƒ{[ƒhiJIS‚É€‹’j
+@@@@-ke     101ƒL[ƒ{[ƒhiå‚É‘ŠOƒ[ƒJj
+
+#if j
+—á‚¦‚ÎA101ƒL[ƒ{[ƒh‚Ìİ’è‚É‚·‚é‚É‚ÍAŸ‚Ì‚æ‚¤‚ÈƒRƒ}ƒ“ƒh‚Å‹N“®‚µ‚Ü‚·B
+	typist -ke
+#else
+—á‚¦‚ÎA106ƒL[ƒ{[ƒh‚Ìİ’è‚É‚·‚é‚É‚ÍAŸ‚Ì‚æ‚¤‚ÈƒRƒ}ƒ“ƒh‚Å‹N“®‚µ‚Ü‚·B
+	typist -kj
+#endif
+‚±‚Ìİ’è‚Íˆê‰ñs‚¦‚ÎAİ’è—pƒtƒ@ƒCƒ‹‚É‹L˜^‚³‚ê‚Ü‚·‚Ì‚ÅAŸ‰ñ‚©‚ç‚Íw’è‚·
+‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB
+
+¡‚·‚® Typist ‚ğI—¹‚µ‚½‚¢ê‡‚É‚ÍAControl-C ‚ğ“ü—Í‚µ‚Ä‰º‚³‚¢B\T
+(1) ‘å•¶š‚Æ‹å“Ç“_‚Ì“ü—Í:\I
 Do you live in Scranton, Pennsylvania?\D
 (2)\I
 Mary Brown and Nancy Smith are in New York City.\D
@@ -37,10 +70,10 @@ Violet, Helen, Dora, Jennie, and Elsie are staying at the Hotel Commodore.\D
 (4)\I
 I have lived in Los Angeles, San Francisco, Portland, Chicago, St. Louis, and
 Denver; Robert has lived in Boston, Philadelphia, Jersey City, and Utica.\D
-(5) ¿ô»ú¤ÎÆşÎÏ:\I
+(5) ”š‚Ì“ü—Í:\I
 j7j k8k l9l ;0; j6j
 f4f d3d s2s a1a f4f\D
-(6) µ­¹æ¤ÎÆşÎÏ:\I
+(6) ‹L†‚Ì“ü—Í:\I
 #if e
 j&j k*k l(l ;); j^j
 f$f d#d s@s a!a f%f\D
@@ -59,7 +92,7 @@ The cards should be made up in the following sizes: 4 5/16 x 8 3/16 and
 #' #2 #3 #4 #5\D
 *
 *U4*
-			Lesson U4\T
+                        Lesson U4\T
 (1)\I
 #if e
 ;'; ;"; ;/; ;?; ;[; ;:; ;-; ;_;\D
@@ -77,9 +110,7 @@ Now is the time for all good men to come to the aid of their party.\D
 2 coats @ $20.00 5 hats @ $4.00\D
 *
 *U5*
-			Lesson U5
-
-             (S ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+                    Lesson U5  (S ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 sas ses sis sos sus sc scr sh sk sl sm sn sp spl spr st str sw\D
 (2)\I
@@ -99,9 +130,7 @@ sible to avoid many types of accidents by a little forethought.
 Don't be careless.  Do your share to avoid mishaps.\P
 *
 *U6*
-			Lesson U6
-
-            (R ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+                    Lesson U6  (R ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 rar rer rir ror rur br cr dr fr gr pr shr tr thr\D
 (2)\I
@@ -117,14 +146,12 @@ The orange grower must have favorable weather conditions.\P
 (4)\I
      Some people break promises as readily as they make them.
 As a result, they acquire a reputation for unreliability.  It
-is particularly important to be reliable in the business wold.
+is particularly important to be reliable in the business world.
 A person or firm that comes to be regarded as unreliable has a
 poor chance of success.\P
 *
 *U7*
-			Lesson U7
-
-             (L ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+                    Lesson U7  (L ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 lal lel lil lol lul ly bl cl fl gl pl sl\D
 (2)\I
@@ -141,14 +168,12 @@ He held the floor until a relatively late hour.\P
      Play is most important to a child.  All of us must play
 a little.  All work and no play makes Jack a dull boy, the
 old saying goes.  Play affords relaxation.  Some people claim
-their work is so entralling that they do not need to play.
+their work is so enthralling that they do not need to play.
 Psychologists say that the stress of modern life demands that
 all adults have some hobby away from their daily pursuit.\P
 *
 *U8*
-			Lesson U8
-
-            (D¤ÈT ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+                    Lesson U8  (D‚ÆT ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 dad ded did dod dud dr ld nd rd
 tat tet tit tot tut th tr ct ft lt nt pt st\D
@@ -172,9 +197,7 @@ selection over and over again until it can be written easily
 and accurately.\P
 *
 *U9*
-			Lesson U9
-
-             (M¤ÈN ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+                    Lesson U9  (M‚ÆN ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 am em im om um mb mp ment
 an en in on un ng nk\D
@@ -190,7 +213,7 @@ Please inform us if you are interested in an engine.
 Banks will extend financial aid to the business man.
 Unless your invoice is paid, no shipment can be made.
 The amount of your investment in common stocks is $800.\P
-(8)\I
+(4)\I
      The employer must consider any increase in cost that
 enters into the manufacture of his product.  Unless he includes
 such cost in his selling price, he is unlikely to show a profit.
@@ -198,9 +221,7 @@ The installation of a cost system that enables the employer
 to break down his costs to a unit basis is a prime necessity.\P
 *
 *U10*
-			Lesson U10
-
-           (com¤Ècon ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+                    Lesson U10  (com‚Æcon ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 com recom decom discom incom uncom
 con recon decon discon incon uncon\D
@@ -224,9 +245,7 @@ he says but what he does.  Consider this well and you will
 never be confused in estimating a man's worth.\P
 *
 *U11*
-			Lesson U11
-
-           (sion¤Ètion ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+                    Lesson U11  (sion‚Ætion ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 asion esion ision osion usion
 ation etion ition otion ution\D
@@ -249,9 +268,9 @@ an enemy of success.  We are told that this is an age of
 specialization, and specialization demands concentration.\P
 *
 *U12*
-			Lesson U12
+                        Lesson U12
 
-   (ter, ther, tor, ture, ster, der ¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Î¥É¥ê¥ë)\T
+   (ter, ther, tor, ture, ster, der ‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌƒhƒŠƒ‹)\T
 (1)\I
 ater oter etor utor ider ather other eture uture ister
 eter uter itor ader oder ether uther iture aster oster
@@ -275,12 +294,12 @@ A business letter should not be a literary masterpiece, but
 that is not to say that it should not have style.\P
 *
 *U13*
-			Lesson U13
+                        Lesson U13
 
-¤³¤ì¤¬ºÇ¸å¤Î¥É¥ê¥ë¤Ç¤¹¡£¤³¤³¤Ç¤Ï¡¢
-	qu, ch, wh, dw, sw, tw, de, des, dis, ex, self, tran,
-	cial, cious, ology, ship, tive
-¤Î¥³¥ó¥Ó¥Í¡¼¥·¥ç¥ó¤Ë¤Ä¤¤¤ÆÎı½¬¤·¤Ş¤¹¡£\T
+‚±‚ê‚ªÅŒã‚ÌƒhƒŠƒ‹‚Å‚·B‚±‚±‚Å‚ÍA
+        qu, ch, wh, dw, sw, tw, de, des, dis, ex, self, tran,
+        cial, cious, ology, ship, tive
+‚ÌƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚É‚Â‚¢‚Ä—ûK‚µ‚Ü‚·B\T
 (1)\I
 quick each white sweet dwell exist desire transfer
 quest touch where swell dwarf expose desert transact
@@ -332,7 +351,7 @@ information that I may have.
 Very truly yours,\P
 *
 (6)\I
-Strive for typing accuracy.  Speed without accuracy is of little value.  
+Strive for typing accuracy.  Speed without accuracy is of little value.
 Rhythm is the secret of typing skill.  Don't write one part of a word
 faster than another.  Slow down so that you can maintain a regular rhythm.
 

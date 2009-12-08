@@ -9,26 +9,33 @@
 	Ver.1.3   1994-12-09	REPEAT & BELL
 	Ver.1.41  1997-04-13	ANSI C
 	Ver.2.0   1997-05-20	Kana Exercise
-	by Takeshi Ogihara  (ogihara@seg.kobe-u.ac.jp)
+	Ver.3.0   2007-09-06	by Takeshi Ogihara
 ------------------------------------------------------ */
 
 #include <stdio.h>
 #include <stdlib.h>
-#ifdef  MSDOS
+#include <string.h>
+#if defined(MSDOS) || defined(__BORLANDC__)
 # include <process.h>
 # include <time.h>
 #endif
 
 #include "typist.h"
+#include "fileinfo.h"
+#include "http.h"
+#ifdef JPN
+#include "kana.h"
+#endif
 
 char *LessonDir = LESSONDIR;
+BoolType isHttp = FALSE;
 #ifdef KEYTYPE
-char *Keytype = KEYTYPE;
+char *keyboard_type = KEYTYPE;
 #else
 # ifdef JPN
-char *Keytype = "j";
+char *keyboard_type = "j";
 # else
-char *Keytype = "e";
+char *keyboard_type = "e";
 # endif
 #endif
 
@@ -38,43 +45,41 @@ BoolType loud = FALSE;	/* without BEEP */
 BoolType loud = TRUE;	/* use BEEP */
 #endif
 
-static void usage()
+static void usage(void)
 {
 #ifdef JPN
-    printf("\
-»È¤¤Êı: typist [¥ª¥×¥·¥ç¥ó] [lesson]\n\
-¥ª¥×¥·¥ç¥ó:\n\
-    -q       ²»¤ò½Ğ¤µ¤Ê¤¤¤ÇÎı½¬\n\
-    -V       ¥Ğ¡¼¥¸¥ç¥ó¾ğÊó\n\
-    -Ldir    ¥ì¥Ã¥¹¥ó¥Ç¡¼¥¿¤Î¤¢¤ë¥Ç¥£¥ì¥¯¥È¥ê¤ò»ØÄê\n\
-    -ks      ¥­¡¼¥Ü¡¼¥É¤Î¼ïÎà¤ò»ØÄê (s = e/j/k)\n\
-Lesson:  Îı½¬¤·¤¿¤¤¥ì¥Ã¥¹¥óÌ¾(t1, s3 ¤Ê¤É)\n");
+    printf(
+"g‚¢•û: typist [ƒIƒvƒVƒ‡ƒ“] [lesson]\n"
+"ƒIƒvƒVƒ‡ƒ“:\n"
+"    -q       ‰¹‚ğo‚³‚È‚¢‚Å—ûK\n"
+"    -V       ƒo[ƒWƒ‡ƒ“î•ñ\n"
+"    -Ldir    ƒŒƒbƒXƒ“ƒf[ƒ^‚Ì‚ ‚éƒfƒBƒŒƒNƒgƒŠ‚ğw’è\n"
+"             Web‚ÌƒfƒBƒŒƒNƒgƒŠ‚ğw’è‚·‚éê‡: -Lhttp://www.edu/typlib\n"
+"    -ks      ƒL[ƒ{[ƒh‚Ìí—Ş‚ğw’è (s = e/j/k)\n"
+"    lesson:  —ûK‚µ‚½‚¢ƒŒƒbƒXƒ“–¼(t1, s3 ‚È‚Ç)\n");
 #else
-    printf("\
-Usage: typist [options] [lesson]\n\
-Options:\n\
-    -q       quiet mode\n\
-    -V       print current version\n\
-    -Ldir    specify lesson-data directory\n\
-Lesson:  Lesson-name you want to do.\n");
+    printf(
+"Usage: typist [options] [lesson]\n"
+"Options:\n"
+"    -q       quiet mode\n"
+"    -V       print current version\n"
+"    -Ldir    specify lesson-data directory\n"
+"             For a web directory, e.g. -Lhttp://www.edu/typlib\n"
+"    lesson:  Lesson-name you want to do.\n");
 #endif
     exit(1);
 }
 
-static void version()
+static void version(void)
 {
-    printf("\
-Typist...\n\
-    Original:  26 Nov 91,   D. Jason Penney (penneyj@slc.com)\n\
-    Tuned for Japanese Users on Unix WS and MS-DOS PC:\n\
-	       Takeshi Ogihara (ogihara@seg.kobe-u.ac.jp)\n\
-    Ver. 2.0  1997-05-20\tKana exercise\n");
+    printf("typist on terminal...\n"
+    "  Original:  26 Nov 91,   D. Jason Penney (penneyj@slc.com)\n"
+    "  Tuned for Japanese Users on Unix, Linux, DOS and Windows\n"
+    "  Ver. 3.0  2007-08-27\t (C) Takeshi Ogihara\n");
     exit(0);
 }
 
-int main(argc, argv)
-    int argc;
-    char *argv[];
+int main(int argc, char **argv)
 {
     int i;
     char *lesson = NULL;
@@ -92,7 +97,7 @@ int main(argc, argv)
 	switch (argv[i][1]) {
 	case 'q':
 	    loud = FALSE;  break;
-	case 'L':  /* DEBUG */
+	case 'L':
 	    if (argv[i][2] <= ' ') {
 		printf("Error: -L needs dir\n");
 		exit(1);
@@ -104,7 +109,7 @@ int main(argc, argv)
 		printf("Error: -k needs keyboard type\n");
 		exit(1);
 	    }
-	    Keytype = &argv[i][2];
+	    keyboard_type = &argv[i][2];
 	    break;
 	case 'V':
 	    version(); break;
@@ -113,19 +118,23 @@ int main(argc, argv)
 	    usage(); break;
 	}
     }
+
+    isHttp = (strncmp(LessonDir, "http://", 7) == 0);
+    if (isHttp)
+	init_sock();
     if (!get_index()) {
 #ifdef JPN
-	printf("¥¨¥é¡¼: ¥ì¥Ã¥¹¥ó¤Î¾ğÊó¤¬ÆÉ¤ß¹ş¤á¤Ş¤»¤ó.\n");
-	printf("\t¥Ç¥£¥ì¥¯¥È¥ê %s ¤¬´Ö°ã¤Ã¤Æ¤¤¤Ş¤¹.\n", LessonDir);
+	printf("ƒGƒ‰[: ƒŒƒbƒXƒ“‚Ìî•ñ‚ª“Ç‚İ‚ß‚Ü‚¹‚ñ.\n");
+	printf("\tƒfƒBƒŒƒNƒgƒŠ %s ‚ªŠÔˆá‚Á‚Ä‚¢‚Ü‚·.\n", LessonDir);
 #else
 	printf("Error: can't get index for lessons.\n");
 	printf("\tDirectory %s may be wrong.\n", LessonDir);
 #endif
 	exit(1);
     }
-#ifdef JPN
-    if (!init_kanamap()) {
-	printf("¥¨¥é¡¼: ¤«¤Ê¥­¡¼¥Ş¥Ã¥×¾ğÊó¤¬ÆÉ¤ß¹ş¤á¤Ş¤»¤ó.\n");
+#if defined(KANA_LESSON)
+    if (!init_kanamap(LessonDir, keyboard_type)) {
+	printf("ƒGƒ‰[: ‚©‚ÈƒL[ƒ}ƒbƒvî•ñ‚ª“Ç‚İ‚ß‚Ü‚¹‚ñ.\n");
 	exit(1);
     }
 #endif
@@ -135,5 +144,7 @@ int main(argc, argv)
     }
     
     typist(lesson);
+    if (isHttp)
+	final_sock();
     return 0;
 }

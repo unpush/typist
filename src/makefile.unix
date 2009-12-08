@@ -7,8 +7,9 @@
 #	Original: D. Jason Penney (penneyj@slc.com)
 #	Tuned for ECIP NeXT: Takeshi Ogihara
 #	Ver.1.0   1992-07-14
-#	Ver.2.0   1997-04-21	Kana Exercise
-#	by Takeshi Ogihara  (ogihara@seg.kobe-u.ac.jp)
+#	Ver.2.0   1997-04-21	Kana Exercise  by Takeshi Ogihara
+#	Makefile for MinGW   May 2007   by OHKUBO Takuya
+#	Ver.3.0   2007-08-23	by Takeshi Ogihara
 # ------------------------------------------------------
 
 
@@ -48,19 +49,27 @@
 #MAB=-arch m68k -arch i386 -arch hppa -arch sparc
 
 # following options for SGI IRIX
-LIBS=-ltermcap
-DEBUG=-O -s
+#LIBS=-ltermcap
+#DEBUG=-O -s
+
+# following options for MinGW
+#LIBS=-lpdcurses
+#DEBUG=-mno-cygwin -g -O
 
 ##### INSTALL PARAMETERS #####
 LIBS=-ltermcap
-DEBUG=-O -s
+DEBUG=-O -s -Wall -ansi
 LESSONDIR=/usr/local/lib/typist
 TARGETDIR=/usr/local/bin
 MANPATH=/usr/local/man
-# NeXT ONLY!!  To make FAT binary.
+# 0=Unicode, 1=ShiftJIS, 2=EUC_JP
+JPNCODE=-DKANA_CODE=1
+# Apple / NeXT ONLY!!  To make FAT binary.
 MAB=
+#-arch i386 -arch ppc
 
-CFLAGS=$(DEBUG) $(MAB) -DTERMIO
+CFLAGS=$(DEBUG) $(MAB) $(JPNCODE) -DMACKEYBOARD
+# -DTERMIO
 # -DKEYTYPE=\"e\"
 # -DLESSONDIR=\"$(LESSONDIR)\"
 # -DVANISHCHAR
@@ -71,16 +80,19 @@ CFLAGS=$(DEBUG) $(MAB) -DTERMIO
 ## -DTERMIO		for SYS/V Unix with termio(7).
 ## -DSILENT		if you hate click beep
 ## -DVANISHCHAR		if the character after an error vanishes.
+## -DMACKEYBOARD	if you use Kana-Lessens with Apple Mac's keyboard
 
 LDFLAGS=$(DEBUG) $(MAB)
 CC=cc
 
 #-----------------------------------------------------------------------
 
-SRCFILES=main.c typist.c typist.h lesson.c lineio.c fileinfo.c \
-		sound.c screen.c kana.c
-OBJFILES=main.o typist.o lesson.o lineio.o fileinfo.o sound.o \
-		screen.o kana.o
+SRCFILES=main.c tutor.c kanatutor.c lesson.c lineio.c \
+		fileinfo.c sound.c screen.c kanamap.c \
+		r2k.c r2k_tab.c dictionary.c http.c
+OBJFILES=main.o tutor.o kanatutor.o lesson.o lineio.o \
+		fileinfo.o sound.o screen.o kanamap.o \
+		r2k.o r2k_tab.o dictionary.o http.o
 
 #-----------------------------------------------------------------------
 
@@ -104,6 +116,15 @@ $(LESSONDIR):
 	mkdir $(LESSONDIR)
 	chmod 755 $(LESSONDIR)
 
-main.o typist.o lesson.o lineio.o fileinfo.o sound.o kana.o: typist.h
-lesson.o lineio.o: lineio.h
-screen.o typist.o: screen.h
+main.o: base.h typist.h fileinfo.h kana.h
+fileinfo.o: base.h typist.h fileinfo.h http.h
+kanamap.o: base.h typist.h kana.h http.h
+lesson.o: base.h typist.h fileinfo.h lineio.h dictionary.h screen.h http.h
+lineio.o: base.h typist.h lineio.h dictionary.h http.h
+screen.o: base.h typist.h screen.h
+tutor.o: base.h typist.h fileinfo.h tutor.h screen.h dictionary.h
+kanatutor.o: base.h typist.h tutor.h screen.h kana.h r2k.h
+r2k.o: base.h kana.h r2k.h
+r2k_tab.o: base.h kana.h r2k.h
+dictionary.o: base.h dictionary.h
+http.o: http.h base.h

@@ -1,5 +1,5 @@
 *V1*
-			Lesson	V1\T
+                        Lesson V1\T
 (1)\I
 r r r r frf frf frf u u u u juj juj juj juj
 frf juj frf juj frf juj frf juj frf juj frf juj\D
@@ -14,10 +14,8 @@ urf urf urf juf juf juf fuj fuj fuj fru fru fru
 fur fur fur ruf ruf ruf urf urf urf jur jur jur\D
 *
 *V2*
-			Lesson V2
-
-		       (D K E I)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V2  (D K E I)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 fff jjj fff jjj fff jjj fff jjj fff jjj fff jjj
 frf juj frf juj frf juj frf juj frf juj frf juj
 
@@ -49,10 +47,8 @@ did red ire fee rid deer rude fire feed juke rider
 rid fee ire red did juke fire rude juke deed freed\D
 *
 *V3*
-			Lesson V3
-
-			(T Y G H)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V3  (T Y G H)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 fff jjj ddd kkk frf juj ded kik fff jjj ddd kkk
 frf juj ded kik fur fur kid kid red red ire ire\D
 kid kid kid juke juke juke dire dire dire fire
@@ -92,10 +88,8 @@ did they get the right dried fruit there yet
 did they get the right dried fruit there yet\D
 *
 *V4*
-			Lesson V4
-
-			(S L W O)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V4  (S L W O)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ded kik ftf jyj fgf jhj frf juj ded kik
 ded kik ftf jyj fgf jhj frf juj ded kik ftf jyj\D
 (2) S and L\I
@@ -114,15 +108,14 @@ go go go to to to do do do of of of so so so is is is
 too too too low low low set set set wit wit wit wit
 sit sit sit lit lit lit wit wit wit low low low low\D
 (6)\I
-wool wool wool suit suit suit full full full wood wood
-hole hole hole wool wool wool suit suit suit good good
-
-style style style order order order those those
+wool wool wool suit suit suit full full full
+hole hole hole wood wood wood good good good
+style style style order order order those those\D
+(7)\I
 loose loose loose style style style order order
-
 desire desire desire rulers rulers rulers worker
 worker worker worker desire desire desire rulers\D
-(7)\I
+(8)\I
 hold your wrists low while you strike the keys
 we desire the right goods for our wool suits
 if you will go with us you will see the fleet
@@ -130,10 +123,8 @@ we will try to fill your order for the wool suits
 if we get the right goods we will fill your order\D
 *
 *V5*
-			Lesson V5
-
-		        (A ; Q P)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V5  (A ; Q P)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ded kik ftf jyj fgf jhj frf juj ftf jyj fgf jhj
 ded kik sws lol ded kik sws lol frf juj ftf jyj fgf jhj\D
 (2) A and ;\I
@@ -153,30 +144,28 @@ apt apt apt; put put put; sip sip sip; hip hip hip;
 sip sip sip; hip hip hip; apt apt apt; put put put;
 
 quip quip quip; quit quit quit; aqua aqua aqua;
-aqua aqua aqua; quip quip quip; quit quit quit;
-
-paid paid paid; pair pair pair; pass pass pass;
-pair pair pair; pass pass pass; paid paid paid;\D
+aqua aqua aqua; quip quip quip; quit quit quit;\D
 (7)\I
-quote quote quote; paper paper paper; quite quite;
-paper paper paper; quite quite quite; quote quote;
+paid paid paid; pair pair pair; pass pass pass;
+pair pair pair; pass pass pass; paid paid paid;
 
+quote quote quote; paper paper paper; quite quite;
+paper paper paper; quite quite quite; quote quote;\D
+(8)\I
 prefer prefer prefer; prepay prepay prepay; quires;
 prepay prepay prepay; prefer prefer prefer; quires;
 
 postage postage postage; quarter quarter quarter;
 poultry poultry poultry; quality quality quality;\D
-(8)\I
+(9)\I
 two quires of high quality paper were shipped today;
 we shall pay you well to prepare the reports for us;
 we quote a low figure for our high quality paper;
-we prefer to prepay the postage for the two quires;
+we prefer to prepay the postage for the two quires;\D
 *
 *V6*
-			Lesson V6
-
-               (•∑•’•»•≠°º§«¬Á ∏ª˙§Ú∆˛Œœ)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                    Lesson V6  (ÉVÉtÉgÉLÅ[Ç≈ëÂï∂éöÇì¸óÕ)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
 
@@ -200,7 +189,7 @@ Harry Harry Harry; Taffy Taffy Taffy; Quail Quail;\D
 Uriah Uriah Uriah; Yetta Yetta Yetta; Ollie Ollie;
 Yetta Yetta Yetta; Ollie Ollie Ollie; Uriah Uriah;
 
-WAlter WAlter Walter; Esther Esther Esther; Isaiah;
+Walter Walter Walter; Esther Esther Esther; Isaiah;
 Esther Esther Esther; Walter Walter Walter; Isaiah;
 
 Arthur Arthur Arthur; Lester Lester Lester; Quezon;
@@ -213,63 +202,61 @@ Kate says; Kate says she will stay till Friday;
 Paul will take Willa to the Park Sherry Theater;\D
 *
 *V7*
-			Lesson V7
-
-		    (•∑•’•»•Ì•√•Ø§» :)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                    Lesson V7  (ÉVÉtÉgÉçÉbÉNÇ∆ :)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj\D
-(2) Shift Lock Drill\I
+(2) ÉVÉtÉgÉçÉbÉNÇégÇ¡Çƒ\I
 It is GOOD WORK; It is GOOD WORK; It is GOOD WORK;
 It is GOOD WORK; It is GOOD WORK; It is GOOD WORK;\D
-(3)\I
+(3)ÉVÉtÉgÉçÉbÉNÇëfëÅÇ≠êÿÇËë÷Ç¶ÇÊÇ§\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 The TITLE of the REPORT is:  HOUSES FOR SALE
-The TITLE of the REPORT is:  HOUSES FOR SALE
-
+The TITLE of the REPORT is:  HOUSES FOR SALE\D
+(4)\I
 aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
 We quote LOW FIGURES for HIGHEST QUALITY paper;
 We quote LOW FIGURES for HIGHEST QUALITY paper;\D
-(4)\I
+(5)\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 The PARK POSTER reads:  KEEP OFF THE GRASS
 The PARK POSTER reads:  KEEP OFF THE GRASS\D
+(6)\I
 aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
 Paul quoted the old adage:  THE THRIFTY ARE WISE
-Paul quoted the old adage:  THE THRIFTY ARE WISE
-
+Paul quoted the old adage:  THE THRIFTY ARE WISE\D
+(7)\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 You should STRIKE ALL THE KEYS with EQUAL POWER;
 You should STRIKE ALL THE KEYS with EQUAL POWER;\D
-(5)\I
+(8)\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 GOOD WORK will lead to a HAPPT LIFE for you;
 GOOD WORK will lead to a HAPPT LIFE for you;\D
+(9)\I
 aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
 The DAILY DRILLS will HELP YOU type with EASE;
-The DAILY DRILLS will HELP YOU type with EASE;
-
+The DAILY DRILLS will HELP YOU type with EASE;\D
+(10)\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 GOOD SALARIES are USUALLY PAID to FAST TYPISTS;
 GOOD SALARIES are USUALLY PAID to FAST TYPISTS;\D
 *
 *V8*
-			Lesson V8
-
-                   (•‘•Í•™•…§Úª»§™§¶)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                    Lesson V8  (ÉsÉäÉIÉhÇégÇ®Ç§)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
 
 He will pay Jed Squire for the sugar this week;\D
-(2) The Period\I
+(2) ÉsÉäÉIÉhÇë≈Ç∆Ç§\I
 . . . . . . l.l l.l l.l l.l l.l l.l l.l l.l l.l
 Hit it lightly.  Hit it lightly.  Hit it lightly.
 Hit it lightly.  Hit it lightly.  Hit it lightly.\D
 (3)\I
-Strike all the keys with pep.  Strike the keys
-as though they were red hot.  This is just how the
-fast typist works.
+Strike all the keys with pep.  Strike the keys as
+though they were red hot.  This is just how the fast
+typist works.
 
 Type with thought.  Put forth your greatest efforts.
 Let these two ideas guide you while you type.
@@ -278,10 +265,9 @@ You should follow the daily drills as you are told.
 These drills will show you that it is quite easy
 to type well.
 
-Start your daily work without delay.  Keep at it
-regularly.  It is steady work that will take you
-to your goal.\P
-(4) Keyboard Review\I
+Start your daily work without delay.  Keep at it regularly.
+It is steady work that will take you to your goal.\P
+(4) äÓëbó˚èK\I
 for fat few fur foe fit fed fee for fat fir few fro;
 fro few fir fat for fee fig foe fop fit fur fat fad;
 
@@ -295,10 +281,8 @@ up us use uses urge ugly usage upper uproar upright;
 us up use urge uses urge urges udder utters upstart;\D
 *
 *V9*
-			Lesson V9
-
-			(V and M)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V9  (V Ç∆ M)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
 
@@ -311,11 +295,11 @@ over over over; gave gave gave; have have have;
 home home home; seem seem seem; time time time;
 
 ever ever ever; more more more; item item item;
-live live live; vast vast vast; five five five;
-
+live live live; vast vast vast; five five five;\D
+(4)\I
 You must devote more time to your daily work.
 You should go over every item with more thought.\D
-(4) Paragraph Practice\I
+(5) ï∂èÕÇ≈ó˚èK\I
 You will surely make good if you give more time to
 your daily work here.  You must make ever effort
 to make good.
@@ -328,12 +312,13 @@ have faith.
 Skillful typists make very good salaries.  All
 types of firms require them.  So try your utmost to
 develop your skill.\P
-(5) Exercises on G, H, T, and Y\I
+(6) G, H ÇÃó˚èK\I
 go got get gas gag gap gay gig gray greed great;
 go gig gay gap gas gag get gas gray great greed;
 
 her has had his hit hot hut hat hay hag had his;
 his had hag hay hat hut hot hit his had has her;\D
+(7) T, Y ÇÃó˚èK\I
 to try tip tap two tag too to try tip tap two;
 to two tap tip try too try to top tap tag try;
 
@@ -341,10 +326,8 @@ you yes yet yap yell year yoke your yowl yore;
 yap yet yes you yore yowl your yoke year yell;\D
 *
 *V10*
-			Lesson V10
-
-			(B and N)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V10  (B Ç∆ N)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 fgf jhj fvf jmj fgf jhj fvf jmj fgf jhj fvf jmj
 
@@ -360,11 +343,11 @@ bun bun bun; nip nip nip; fib fib fib; win win win;
 fib fib fib; win win win; bun bun bun; nip nip nip;
 
 bent bent bent; nine nine nine; vent vent vent;
-mend mend mend; vine vine vine; blow blow blow;
-
+mend mend mend; vine vine vine; blow blow blow;\D
+(5)\I
 We require more time to turn out a very good job.
 Be prompt.  Never shirk.  Make promptness a habit.\D
-(5) Practice Paragraph\I
+(6) ï∂èÕÇ≈ó˚èK\I
 Never put off until tomorrow any job you should
 finish today.  Try to be prompt at all times.  No one
 likes to be kept waiting.
@@ -378,13 +361,13 @@ Remember this:  every boy and girl is able to
 learn typing.  All they have to do is to put forth
 their very best efforts.  This means thinking while
 training every finger to strike the right key.\P
-(6) Words with D, E, K, and I\I
+(7) D, E, K, I Çä‹ÇﬁíPåÍ\I
 do dot due dye day dew dab den dim dog die dig dry dip
 do dig dry dip die dog dim dab den dew day dye due dot
 
 ebb eke err eve end egg ever even edge earn east evil
 err eke eve end ebb eel evil east earn edge envy easy\D
-(7)\I
+(8)\I
 kid kin kit keg key king kind know knee knot knew
 key keg kid kit kin knew knot knee knob king kind
 
@@ -392,10 +375,8 @@ it is in if ire ill ink inn imp idle item isle iron
 if in is it imp inn ill ire ink item idle iron isle\D
 *
 *V11*
-			Lesson V11
-
-                        (C and ,)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V11  (C Ç∆ ,)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 fvf jmj fbf jnj fvf jmj fbf jnj fvf jmj fbf jnj
 
@@ -434,7 +415,7 @@ stopped.\P
 sub sum see sun set sit sin sip she ship shall shame
 sit sin sip set sub sum see sod sob slip sweep super
 
-won win who why wet wasweak wear west well what when
+won win who why wet was weak wear west well what when
 was wet why who win won what well wear west when what\D
 (8)\I
 lad lid lot let log lie lag lug lip last sate sawn
@@ -444,10 +425,8 @@ own out owl old one oak out oil off over oven open
 off oil out oak one old owl our own open ours over\D
 *
 *V12*
-			Lesson V12
-
-			(X and .)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V12  (X Ç∆ .)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj fvf jmj fbf jnj fvf jmj
 ded kik sws lol aqa ;p; dcd k,k dcd k,k fvf jmj\D
 (2)\I
@@ -469,11 +448,11 @@ fixes fixes fixes; mixes mixes mixes; taxes taxes;
 mixes mixes mixes; fixes fixes fixes; boxes boxes;
 
 expert expert expert; expect expect expect; excels;
-exceed exceed exceed; excuse excuse excuse; excels;
-
+exceed exceed exceed; excuse excuse excuse; excels;\D
+(7)\I
 Dr. Lux, tax expert, will examine the tax returns.
 Mr. Cox examined the mixture with extreme care.\D
-(7) Practice Paragraph\I
+(8) ï∂èÕÇ≈ó˚èK\I
 Mr. Roxbury and Mr. Saxton will examine the six
 boxes of wax with extreme care.  These boxes were
 returned by Prof. Maxton of Knoxville College.
@@ -487,7 +466,7 @@ Sixteen boxes of explosives were packed with the
 most extreme care and shipped by Fox Express Company.
 These explosives are to be used in secret experiments
 for the U. S. Government.\P
-(8) Drill on A, Q, ;, P\I
+(9) A, Q, ;, P ÇÃó˚èK\I
 act ant and ask apt any art all age anle acid aged
 age all art any ask act add axe ant aged able acid
 
@@ -498,10 +477,8 @@ pin pup put; pull palm pant; pint pile push; punch;
 put pin pup; pant pull palm; push pick pile; paper;\D
 *
 *V13*
-			Lesson V13
-
-			(Z and /)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V13  (Z Ç∆ /)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 fvf jmj fbf jnj dcd k,k sxs l.l dcd k,k sxs l.l\D
 (2)\I
@@ -532,21 +509,20 @@ dizzy dizzy dizzy; blaze blaze blaze; amaze amaze;
 The lazy zebra at the zoo quickly drank the mixture.
 Ship five dozen boxes of zinc trays by Zale Express.\P
 (7)\I
-The slant is controlled by the semicolon finger.
-It is used in such abbreviations as n/c, which means
-NO CHARGE; and c/o, which means CARE OF.
+The slant is controlled by the semicolon finger.  It is
+used in such abbreviations as n/c, which means NO CHARGE;
+and c/o, which means CARE OF.
 
-If you work with zeal and zest, you will soon be a
-competent typist.  The ability to type well is a
-very valuable asset.
+If you work with zeal and zest, you will soon be a competent
+typist.  The ability to type well is a very valuable asset.
 
 You can develop your typing skill quickly by the proper
 habits of work.  You should realize that poor work is a
 mere waste of time.  Try to be exact.
 
-Every business firm is dependent on the services of
-competent typists.  You are now equipping yourself with
-a skill for which there is a constant demand.\P
+Every business firm is dependent on the services of competent
+typists.  You are now equipping yourself with a skill for
+which there is a constant demand.\P
 (8)\I
 bag big bug bit bud bed bid bun bale bend bank bask
 but bid bed bun bid big bag bud bask bale band bank
@@ -561,10 +537,8 @@ man mix mat mad made mail main make mark mask mine
 mad met mix men mask mark made main male made mint\D
 *
 *V14*
-			Lesson 14
-
-		   (•Ø•®•π•¡•Á•Û•ﬁ°º•Ø)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                    Lesson 14  (ÉNÉGÉXÉ`ÉáÉìÉ}Å[ÉN)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 fvf jmj fbf jnj dcd k,k sxs l.l aza ;/; aza ;/;
 
@@ -597,14 +571,14 @@ Where is Max?  Where is Mary?  What is Cora sewing?
 Where is Sam?  Where is Paul?  What is Zeke fixing?
 
 Can Max swim?  Can he dance?  Can he play tennis?
-Can he dance?  Deos he swim?  Do you like tennis?\D
+Can he dance?  Does he swim?  Do you like tennis?\D
 (6)\I
 Did you open the mail?  Did you read the note?
 Did you read the note?  Did you open the mail?
 
 Can Van do the work?  Will he require aid?  Who knows?
 Can Jim complete it?  Is he quite capable?  Who knows?\D
-(7) Practice Paragraph\I
+(7) ï∂èÕÇ≈ó˚èK\I
 Do you set aside a definite amount of time each
 day for practice?  Do you start work promptly?  Can
 you make the various machine adjustments quickly?
@@ -628,10 +602,8 @@ zip zoo zest zeal zinc zero lazy zone zoom zinc zealot
 zoo zip zoom zone lazy zinc zeal zest zero zone zealot\D
 *
 *V15*
-			Lesson V15
-
-		      (1, 4, 5, 6, 7)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V15  (1, 4, 5, 6, 7)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 fvf jmj fbf jnj dcd k,k sxs l.l aza ;/; aza ;/;\D
 (2)\I
@@ -679,7 +651,7 @@ Your order of December 11 was shipped on February 14.
 
 Policy No. 141174 will expire on Monday, November 14.
 Policy No. 471714 will expire on Friday, December 17.\D
-(8) Practice Paragraph\I
+(8) ï∂èÕÇ≈ó˚èK\I
 Henry Clay, American statesman and orator, was
 born in Hanover County, Virginia, in 1777.
 
@@ -696,10 +668,8 @@ house where Betsy Ross, designer of the flag, lived
 is now preserved as a shrine.\P
 *
 *V16*
-			Lesson V16
-
-		      (1, 4, 5, 6, 7 ∫∆§”)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                    Lesson V16  (1, 4, 5, 6, 7 çƒÇ—)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 Jun 1; Jul 4; Apr 7; Nov 4; Mar 17; Aug 7, 1741
 Jul 4; Jun 1; Mar 4; Oct 7; Apr 14; Sep 4, 1471\D
 (2) 5 and 6\I
@@ -740,10 +710,8 @@ and 2 Dr. Strangeloves.  Air protection consisted of 14
 bombers, 175 fighters, 6 helicopters, and 75 paratroop planes.\P
 *
 *V17*
-			Lesson 17
-
-			(3 and 8)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson 17  (3 Ç∆ 8)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 f4f j7j f5f j6j f4f j7j f5f j6j f4f j7j f5f j6j
 417 147 517 157 617 167 617 171 714 471 651 174\D
 (2)\I
@@ -753,12 +721,11 @@ possible...business...shorthand...it is...
 it can...to it...in the...to use...to have
 if you...from you...why not\D
 (3)\I
-Typing is a very valuable skill to acquire.  It is
-valuable for personal use and as a means of getting
-an office job.\P
-(4)\I
-This skill is yours to use; it cannever be taken from you.
+Typing is a very valuable skill to acquire.  It is valuable
+for personal use and as a means of getting an office job.
 
+This skill is yours to use; it can never be taken from you.\P
+(4)\I
 So why not put forth your best efforts to become a
 good typist?  You can become a good typist if you
 put your mind to it.  You should also, if possible,
@@ -789,33 +756,28 @@ d3d k8k d3d k8k d3d k8k 183 381 813 318 138 381
 pie 3 dye 3 pie 3 dye 3 Fiji 8 Fiji 8 Fiji 8 Fiji 8
 The sum of 13 and 83 and 153 and 75 and 47 is 371.
 The sum of 47 and 75 and 153 and 83 and 13 is 371.\D
-(8) Practice Paragraph\I
-John Jacob Astor was born in 1763 and died in
-1848.  He came to America from England in 1784 and
-set up a prosperous fur trade.  In 1811 he founded
-the settlement of Astoria near the mouth of the
-Columbia River.
+(8) ï∂èÕÇ≈ó˚èK\I
+John Jacob Astor was born in 1763 and died in 1848.  He came to
+America from England in 1784 and set up a prosperous fur trade.
+In 1811 he founded the settlement of Astoria near the mouth of
+the Columbia River.
 
-Alexander Graham Bell was born in Scotland on
-March 3, 1847.  He invented the telephone in 1876.
-The Bell Telephone Company was organized in 1877.
-Mr. Bell also invented the gramophone in 1887.
+Alexander Graham Bell was born in Scotland on March 3, 1847.
+He invented the telephone in 1876.  The Bell Telephone Company
+was organized in 1877.  Mr. Bell also invented the gramophone
+in 1887.
 
-John Quincy Adams, sixth President of the
-United States, was born in Massachusetts on July 11,
-1767.  In 1817 he was appointed Secreatry of State.
-He died in 1848.
+John Quincy Adams, sixth President of the United States, was born
+in Massachusetts on July 11, 1767.  In 1817 he was appointed
+Secretary of State.  He died in 1848.
 
-Oliver Wendell Holmes, American jurist, was born
-in Massachusetts on March 8, 1841; graduated from
-Harvard in 1861; from Harvard Law School in 1866;
-admitted to the Massachusetts Bar in 1867.\P
+Oliver Wendell Holmes, American jurist, was born in Massachusetts
+on March 8, 1841; graduated from Harvard in 1861; from Harvard
+Law School in 1866; admitted to the Massachusetts Bar in 1867.\P
 *
 *V18*
-			Lesson 18
-
-			(2 and 9)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson 18  (2 Ç∆ 9)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 f4f j7j f5f j6j d3d k8k f4f j7j f5f j6j d3d k8k
 or4 ru7 it5 by6 ie3 ok8 or4 ru7 it5 by6 ie3 ok8
 
@@ -852,7 +814,7 @@ s2s l9l s2s l9l s2s l9l s2s l9l s2s l9l s2s l9l s2s l9l
 19 lbs. apples; 29 lbs. Cheddar Cheese; 2 lbs. bananas;
 
 low 2 fro 9 low 2 fro 9 low 2 fro 9 low 2 fro 9 29 192;
-9 lbs. Smaked Tongue; 2 lbs. tomatoes; 9 lbs. avocados;
+9 lbs. Smoked Tongue; 2 lbs. tomatoes; 9 lbs. avocados;
 2 lbs. Cooked Tongue; 9 lbs. avocados; 2 lbs. tomatoes;\D
 (7)\I
 s2s l9l s2s l9l 219 921 192 s2s l9l s2s 191 291 129
@@ -864,12 +826,12 @@ George Washington was born on February 22, 1732.
 Horatio Alger was born in 1834 and died in 1899.\D
 (8)\I
 Christopher Latham Sholes was the inventor of the first practical
-typewriter.  He was born in Columbia County, Pennsylvania, 
+typewriter.  He was born in Columbia County, Pennsylvania,
 February 14, 1819.
 
-James Monroe, fifth President of The United States, was born on 
+James Monroe, fifth President of The United States, was born on
 April 28, 1758.  In 1782 he entered politics.  In 1799 he was appointed
-Governor of Virginia.  In 1811 he became Secreatry of State; in 1814,
+Governor of Virginia.  In 1811 he became Secretary of State; in 1814,
 Secretary of War; in 1816, President of The United States.
 
 On September 1, 1939, Germany launched undeclared war on Poland.
@@ -878,14 +840,12 @@ December 8, 1941, The United States declared war against the Axis.
 
 Samuel F. B. Morse, inventor and artist, was born in 1791 and died in
 1872.  In 1829 he went to Europe for three years.  For 12 years he
-worked on perfecting the electrical telegraph, which was exhibited at New
-York University in 1837.\P
+worked on perfecting the electrical telegraph, which was exhibited at
+New York University in 1837.\P
 *
 *V19*
-			Lesson V19
-
-                     (0 §»•œ•§•’•Û)\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V19  (0 Ç∆ÉnÉCÉtÉì)\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 f4f j7j f5f j6j d3d k8k s2s l9l f4f j7j f5f j6j
 s2s l9l d3d k8k f4f j7j f5f j6j f4f j7j f5f j6j
 
@@ -898,16 +858,12 @@ of the...for the...on the...you may...before the\D
 (3)\I
 Your typewriter is equipped with a bell which
 rings to warn you that you are approaching the end
-of the line\P
-(4)\I
-Your typewriter is equipped with a bell which rings
-to warn you that you are approaching the end of the
-line.
+of the line.
 
 On some machines, the bell rings five spaces before
 the margin stop is reached; on other machines, it
-rings when there are six or seven spaces left.
-
+rings when there are six or seven spaces left.\P
+(4)\I
 The ring of the bell permits you to keep your eyes
 on the copy.  When you hear the bell, finish the
 word you are typing and throw the carriage for the
@@ -947,7 +903,7 @@ The hyphen is used also to divide words between syllables at the end
 of a line.  When the bell rings, finish the word if it is short--less
 than six letters.  If the word is longer, divide it at the end of a syllable.
 
-The hyphens in the following words show where they could be divided 
+The hyphens in the following words show where they could be divided
 at the end of a line:  after-noon, state-ment, hesi-tate, cer-ti-fi-
 cate, exami-na-tion.
 
@@ -961,8 +917,8 @@ it free of charge any day except Sunday between
 10 a.m. and 4 p.m.\P
 *
 *V20*
-			Lesson V20\T
-(1) •¶•©°º•ﬂ•Û•∞•¢•√•◊\I
+                        Lesson V20\T
+(1) ÉEÉHÅ[É~ÉìÉOÉAÉbÉv\I
 f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
 s2s l9l ;-; ;=; d3d k8k f4f j7j ;0; ;-; ;0; ;-;
 
@@ -974,16 +930,13 @@ touching...slightly...position...right-hand...of the
 for the...all the...with the...you have\D
 (3)\I
 You type capital letters by holding down a key
-called the shift key while you strike the letter key.\P
-(4)\I
-You type capital letters by holding down a key
 called the shift key while you strike the letter key.
 
 There are two shift keys.  Hold down the left
 shift key for typing right-hand capitals; hold down
 the right shift key for typing left-hand capitals.
-Always use the fourth finger for the shift key.
-
+Always use the fourth finger for the shift key.\P
+(4)\I
 Keep your wrists low but not touching the frame
 of the machine.  Raise the other fingers slightly as
 you depress the shift key with the fourth finger.

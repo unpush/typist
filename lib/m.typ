@@ -1,5 +1,5 @@
 *M1*
-			Lesson M1\B
+                        Lesson M1\B
 (1) Warming-Up Drill\I
 If you can do so, will you kindly let us know by return mail.\D
 (2) Continuous Copy\I
@@ -48,14 +48,14 @@ way over all upsets.\D
 months.  Maybe Mr. Smith remembers that most building became
 better in September but both November and December seemed to
 be much behind.  Monday morning my mail box became blocked
-by urgen requests of many families that small-sized homes
+by urgent requests of many families that small-sized homes
 be built.  Some jobs may begin to come now from the Chamber
 of Commerce members.\P
 (10) Rhythmic Review\I
 I said, "Never promise to take much money to such places."\D
 *
 *M2*
-			Lesson M2\B
+                        Lesson M2\B
 (1) Warming-Up Drill\I
 How do I lose if I read a book that doesn't have much in it?\D
 (2) Balanced Keyboard Drill\I
@@ -64,17 +64,16 @@ ess ean ist ian cel apo col ary tra neo sur ity sub ele mis\D
 (3) Four-letter words (a to d)\I
 Dear Dan,
 
-     Yes, I came out of the corn, back to the city, both to
-draw and to do copy on the new cars.  To date I am able to
-put cash in the bank and bear a bill or two.  The new deed
-has done it.
+     Yes, I came out of the corn, back to the city, both to draw
+and to do copy on the new cars.  To date I am able to put cash in
+the bank and bear a bill or two.  The new deed has done it.
 
-     The city has been busy but cold for two days.  Dear baby
-has been to see her best aunt.  A band came by the door.
-Baby let the bird cage drop down with a blow.  The bird died.
-Boys put its dead body deep in a dark card case.  Baby also
-has a ball and blue book to drop.  I put the boat away.  Its
-deck did burn, but I care not as it does not cost a cent.
+     The city has been busy but cold for two days.  Dear baby has
+been to see her best aunt.  A band came by the door.  Baby let the
+bird cage drop down with a blow.  The bird died.  Boys put its
+dead body deep in a dark card case.  Baby also has a ball and blue
+book to drop.  I put the boat away.  Its deck did burn, but I care
+not as it does not cost a cent.
 
      Come, call on me at the club.
 
@@ -98,26 +97,24 @@ Yours sincerely,\P
 (5) Four-letter words (h to l)\I
 Dear Hal,
 
-     Just a line to say I am lost if I cannot fly.  I have to
-keep on here.  I knew it was but a hope last May.  It was just
-my last idea in June.  Yet I held my head high and did not lose
-hope.
+     Just a line to say I am lost if I cannot fly.  I have to keep on
+here.  I knew it was but a hope last May.  It was just my last idea
+in June.  Yet I held my head high and did not lose hope.
 
-     Why not fly up in the air a half hour or less and look at
-my lake and our home on the hill?  I left it late last July with
-one item on my list.  Bill gave me half an hour of help.  Like
-the lady of the lake I met the king.  Bill was a kind king, too.
+     Why not fly up in the air a half hour or less and look at my lake
+and our home on the hill?  I left it late last July with one item on my
+list.  Bill gave me half an hour of help.  Like the lady of the lake I
+met the king.  Bill was a kind king, too.
 
-     To lead off into the air and see all our lake so long and
-lots of land so low, was to live a high hour.  I kept my hand
-at my ear so as to help hear.  In the air my hair was a loss.
-It did not kill me.  I have to fly to know life can be less hard.
-I like to hold on and help Bill.  I love to fly.
+     To lead off into the air and see all our lake so long and lots of land
+so low, was to live a high hour.  I kept my hand at my ear so as to help hear.
+In the air my hair was a loss.  It did not kill me.  I have to fly to know
+life can be less hard.  I like to hold on and help Bill.  I love to fly.
 
 Yours sincerely,\P
 *
 *M3*
-			Lesson M3\B
+                        Lesson M3\B
 (1) Warming-Up Drill\I
 He says he hasn't been very blue once in his two weeks here.\D
 (2) Balanced Keyboard Drill\I
@@ -126,40 +123,37 @@ ante than ance ling para less plea lent leas post rece cata\D
 (3) Four-letter words (m to p)\I
 Dear "Pie,"
 
-     I open most of my mail and meet the news.  I note that
-you say Mrs. Page is a mere name but you met the Miss Page.
+     I open most of my mail and meet the news.  I note that you
+say Mrs. Page is a mere name but you met the Miss Page.
 
-     You must need the car.  Once the pass is open I can move
-the car over to you.  Do you mind if I make it part of a nice
-plan to meet Miss Page, too?  Mrs. Page was only a mile past
-us.  Her son was my age and I made the mile at noon to play a
-bit.  She paid us for milk.  She did not mean much to me, but
-her son did.
+     You must need the car.  Once the pass is open I can move the
+car over to you.  Do you mind if I make it part of a nice plan to
+meet Miss Page, too?  Mrs. Page was only a mile past us.  Her son
+was my age and I made the mile at noon to play a bit.  She paid us
+for milk.  She did not mean much to me, but her son did.
 
-     Next we had more fun up the pass near the poor old No.
-Nine mine.  I can mark many a mile we once ran.  I must mail
-this note or I may miss the post.
+     Next we had more fun up the pass near the poor old No.  Nine
+mine.  I can mark many a mile we once ran.  I must mail this note
+or I may miss the post.
 
 Yours sincerely,\P
 (4) Four-letter words (r to s)\I
 Dear Ross,
 
-     It is a real rain.  The road is so soft my car can but
-roll, stop, and roll on.  Are you on the ship?  If I get as
-far as the ship, can we sail in such a rain?  If we try to
-sail, the ship is sure to rock or ride on one side.  If I get
-sick, it is up to you to stay by and show us how to save the
-ship.  Ann has some sort of song to sing in the rain.  She
-said she sent it to you.
+     It is a real rain.  The road is so soft my car can but roll, stop,
+and roll on.  Are you on the ship?  If I get as far as the ship, can we
+sail in such a rain?  If we try to sail, the ship is sure to rock or ride
+on one side.  If I get sick, it is up to you to stay by and show us how to
+save the ship.  Ann has some sort of song to sing in the rain.  She said
+she sent it to you.
 
-     Did you read of our sale?  We set out a big sign.  Now
-any sort of suit and any size seem to sell.  We are not rich
-but we can soon step out or be sold out, if any such rate is
-to rule.
+     Did you read of our sale?  We set out a big sign.  Now any sort of
+suit and any size seem to sell.  We are not rich but we can soon step out
+or be sold out, if any such rate is to rule.
 
-     Ann has not seen the ship as yet.  Rain or no rain, Ann
-says to send her out.  All the rest of us say the same.  Can
-you ring me in my room at the shop?
+     Ann has not seen the ship as yet.  Rain or no rain, Ann says to send
+her out.  All the rest of us say the same.  Can you ring me in my room at
+the shop?
 
 Yours sincerely,\P
 (5) Pointed Paragraph (i u)\I
@@ -180,7 +174,7 @@ workers, he said sadly that ideas are missed less than first-
 class friends and good-natured wishers.\P
 *
 *M4*
-			Lesson M4\B
+                        Lesson M4\B
 (1) Warming-Up Drill\I
 Get any piece, since I can't guess the color he always used.\D
 (2) Balanced Keyboard Drill\I
@@ -189,38 +183,36 @@ ette hter here mber ough over eive with ived just ever mono\D
 (3) Four-letter words (t to z)\I
 Dear Tris,
 
-     It is so very warm at this time of year, I told my wife
-that you and I wish to go west for a week or two.  Did I
-tell you what a wind we had?  I went to town to vote for the
-one man whom I want.  I took a well-used tire.  When it went
-down on a bad turn, in the woods, I had to walk.  Then the
-wind more than set in, and I had to wait by a wall.  It got
-our old tree.
+     It is so very warm at this time of year, I told my wife that
+you and I wish to go west for a week or two.  Did I tell you what
+a wind we had?  I went to town to vote for the one man whom I want.
+I took a well-used tire.  When it went down on a bad turn, in the
+woods, I had to walk.  Then the wind more than set in, and I had to
+wait by a wall.  It got our old tree.
 
-     I saw two men and set them to work on the car, till
-they told me it was no use.  If I were to turn it in, is it
-true that you can take your car?  I want a wide view and I
-want to talk with you.  Thus I wait upon your word.  Wire
-yes if you will take this trip.
+     I saw two men and set them to work on the car, till they told
+me it was no use.  If I were to turn it in, is it true that you can
+take your car?  I want a wide view and I want to talk with you.
+Thus I wait upon your word.  Wire yes if you will take this trip.
 
 Yours sincerely,\P
 (4) Five-letter words (a to c)\I
 Dear "Cab,"
 
-     Could you apply to the court to allow my claim as agent
-for Mr. Blank?  I could bring in his books and see about his
-bills.  If asked, he can cover the costs by checks on a bank
-that did not break.
+     Could you apply to the court to allow my claim as agent for
+Mr. Blank?  I could bring in his books and see about his bills.
+If asked, he can cover the costs by checks on a bank that did not
+break.
 
-     Will you allow your child to come alone to see me?  He
-can have every apple he can carry.  By the way, being clean
-and above board, you must be above bad cases, but you began
-to bring in off-color cases after April.
+     Will you allow your child to come alone to see me?  He can
+have every apple he can carry.  By the way, being clean and above
+board, you must be above bad cases, but you began to bring in off-
+color cases after April.
 
-     I agree you do not cross the law, but why let men win
-in a black cause on any basis?  Why not build up your cases
-from among men of our own class?  Close the awful cases you
-now carry along to court, and begin again.
+     I agree you do not cross the law, but why let men win in a
+black cause on any basis?  Why not build up your cases from among
+men of our own class?  Close the awful cases you now carry along
+to court, and begin again.
 
 Sincerely yours,\P
 (5) Pointed Paragraph (r t)\I
@@ -234,7 +226,7 @@ strong brother has been hurt.  Further, there are arrests
 and the sort of extra details that enter into true stories.\P
 *
 *M5*
-			Lesson M5\B
+                        Lesson M5\B
 (1) Warming-Up Drill\I
 Some women who could write her won't raise a hand to help.\D
 (2) Balanced Keyboard Drill\I
@@ -261,22 +253,19 @@ Sincerely yours,\P
 (4) Five-letter words (i to p)\I
 Dear Madam,
 
-     I have your two later notes of March 1.  Maybe it is a
-large order for you to leave for the north in the month of
-March.
+     I have your two later notes of March 1.  Maybe it is a large order
+for you to leave for the north in the month of March.
 
-     Our place is miles away, but the real issue is that mu-
-sic means much to us.  A night of music, even one piece of
-music, has often meant more to me than my local paper and all
-the power I have known.  If I can plant a love of music in all
-parts of this place so that all who hear you sing can learn to
-love it, it will mean more to me than money.
+     Our place is miles away, but the real issue is that music means
+much to us.  A night of music, even one piece of music, has often meant
+more to me than my local paper and all the power I have known.  If I
+can plant a love of music in all parts of this place so that all who
+hear you sing can learn to love it, it will mean more to me than money.
 
-     I never laugh at money, but isn't it plain in these
-lines that price ought to be the least of all the items?  The
-point is that our plans for your party are more important.  If
-you read our other offer in the light of our love for music,
-we might not seem so far away.
+     I never laugh at money, but isn't it plain in these lines that
+price ought to be the least of all the items?  The point is that our
+plans for your party are more important.  If you read our other offer
+in the light of our love for music, we might not seem so far away.
 
 Yours sincerely,\P
 (5) Pointed Paragraph (u y)\I
@@ -295,7 +284,7 @@ dangerous, or anxious double duty on this survey, write a
 quotable account yourself for the Journal.\P
 *
 *M6*
-			Lesson M6\B
+                        Lesson M6\B
 (1) Warming-Up Drill\I
 They were often too tired to be certain they heard the hour.\D
 (2) Balanced Keyboard Drill\I
@@ -304,44 +293,38 @@ hand part king itio hing tory ding enti ting thou ving very\D
 (3) Five-letter words (q to s)\I
 Dear Alice,
 
-     I shall start my river story since you have shown you like
-my style.
+     I shall start my river story since you have shown you like my style.
 
-     The scene is a state in the South.  A sweet girl speaks of
-the sound and sight of the river.  Seven men without shame raise
-the stock sales and the boy tries to spend too much at the store.
-In order to make a quiet and quick slide down the river, the men
-seize the boat while the others, who are quite ready to serve the
-girl, sleep.
+     The scene is a state in the South.  A sweet girl speaks of the
+sound and sight of the river.  Seven men without shame raise the stock
+sales and the boy tries to spend too much at the store.  In order to make
+a quiet and quick slide down the river, the men seize the boat while the
+others, who are quite ready to serve the girl, sleep.
 
-     It seems the girl has sense, for on a sheet of paper she
-writes that her stock of gold is within reach from a round stone
-under the small shade tree.  She does not quote the boy, but does
-refer to the sorry end of his short study, and in her reply to his
-folks she will state how the gold may still be spent in the right
-way, which will stamp the story as real.
+     It seems the girl has sense, for on a sheet of paper she writes that
+her stock of gold is within reach from a round stone under the small shade
+tree.  She does not quote the boy, but does refer to the sorry end of his
+short study, and in her reply to his folks she will state how the gold may
+still be spent in the right way, which will stamp the story as real.
 
 Yours sincerely,\P
 (4) Five-letter words (t to z)\I
 Dear Mrs. White,
 
-     I wish to thank you for the words you wrote three weeks ago,
-and I trust you will write again on the wrong and waste of war.
+     I wish to thank you for the words you wrote three weeks ago, and I
+trust you will write again on the wrong and waste of war.
 
-     As I watch the wheels of events today, I think you value a
-thing it has taken me a third of my years to see.  In its total
-trade the world is one whole, and each part in touch with the
-other at most times.
+     As I watch the wheels of events today, I think you value a thing it
+has taken me a third of my years to see.  In its total trade the world is
+one whole, and each part in touch with the other at most times.
 
-     The usual farm woman won't see a trade table or understand
-its terms, for she is tired with her efforts to train and teach
-her young.  She has tried to throw her value into her home, which
-to her is worth so much.  War can not be put under until these
-women see there is but one world, which truly is their world.
-
-     Where will you be while the thick wheat is harvested?  If
-not across the water, would you visit us, using your voice to
-teach us these things?
+     The usual farm woman won't see a trade table or understand its terms,
+for she is tired with her efforts to train and teach her young.  She has
+tried to throw her value into her home, which to her is worth so much.
+War can not be put under until these women see there is but one world,
+which truly is their world.
+     Where will you be while the thick wheat is harvested?  If not across
+the water, would you visit us, using your voice to teach us these things?
 
 Yours sincerely,\P
 (5) Pointed Paragraph (n m)\I
@@ -355,7 +338,7 @@ movements of modern machines to Canada, long term payments,
 and columns of numbers meant much more to him than to me.\P
 *
 *M7*
-			Lesson M7\B
+                        Lesson M7\B
 (1) Warming-Up Drill\I
 Though I don't seem to hear the doctor, I know he is early.\D
 (2) Balanced Keyboard Drill\I
@@ -406,7 +389,7 @@ grow to what sizes?  Analyze and quote one great citizen's
 query as to zeppelins.  Criticize the quality of jazz music.\P
 *
 *M8*
-			Lesson M8\B
+                        Lesson M8\B
 (1) Warming-Up Drill\I
 At the last minute he wrote that he knew it was done again.\D
 (2) Balanced Keyboard Drill\I
@@ -414,44 +397,38 @@ trans ition there lease craft hyper etter esque ceive where\D
 (3) Six-letter words (l to r)\I
 Dear Rollin,
 
-     I did notice a number of the pretty places I passed in
-the air nearly two months ago, and I can at length locate
-the best.  If prices remain rather low, I will not return
-for any person or be prompt at orders.  I can play a record
-or two, and not regret there is no report to be looked at.
-I want to be myself and regard nature, not people.
+     I did notice a number of the pretty places I passed in the air
+nearly two months ago, and I can at length locate the best.  If prices
+remain rather low, I will not return for any person or be prompt at orders.
+I can play a record or two, and not regret there is no report to be looked
+at.  I want to be myself and regard nature, not people.
 
-     To obtain this latter result is the proper reason for
-making this quiet trip.  So far from the public, matter in
-the papers will be old and market policy of little moment.
-It will please me to have you with us longer than the others.
-I was really living for the period when I would be placed with
-you both.  Your mother has a lovely manner.  I am glad to
+     To obtain this latter result is the proper reason for making this
+quiet trip.  So far from the public, matter in the papers will be old and
+market policy of little moment.  It will please me to have you with us
+longer than the others.  I was really living for the period when I would
+be placed with you both.  Your mother has a lovely manner.  I am glad to
 oblige so recent a member of our office, too.
 
-     This letter is being mailed Monday, and in two days we
-shall go.
+     This letter is being mailed Monday, and in two days we shall go.
 
 Yours sincerely,\P
 (4) Six-letter words (s to z)\I
 Dear Sylvia,
 
-     I wonder if my sister talked to you on Sunday of the
-thirty things we wanted to do this summer?  We were trying
-all the spring season at school to secure a supply of sim-
-ple but strong materials for a camp in the valley.
+     I wonder if my sister talked to you on Sunday of the thirty things we
+wanted to do this summer?  We were trying all the spring season at school
+to secure a supply of simple but strong materials for a camp in the valley.
 
-     It struck me as we were taking a walk down the street
-that we would surely be unable to do as we stated unless you
-took a sudden notion to help.  It seemed to me on second
-thought we should give thanks to you for giving tongue to our
-wishes last winter, for you turned the folks in our favor.
+     It struck me as we were taking a walk down the street that we would
+surely be unable to do as we stated unless you took a sudden notion to help.
+It seemed to me on second thought we should give thanks to you for giving
+tongue to our wishes last winter, for you turned the folks in our favor.
 
-     My sister was saying that girls from twenty states had
-signed our pledge, so we are united.  Though this is off the
-subject, I saw a pretty yellow and silver dress within a win-
-dow on Main Street toward our corner.  Would you think it
-suitable for the writer?
+     My sister was saying that girls from twenty states had signed our
+pledge, so we are united.  Though this is off the subject, I saw a pretty
+yellow and silver dress within a window on Main Street toward our corner.
+Would you think it suitable for the writer?
 
 Sincerely yours,\P
 (5) Pointed Paragraph (a q)\I
@@ -463,9 +440,10 @@ that quaint land of quite Spanish art and adobe was adequate
 and equally unique.  Squeezed in quiet, antiquated adobe
 quarters, I began quickly and without qualms to qualify as
 an artist.  After quarrels and questions over my queer tech-
-niques, I acquired my quota of opaque plaques.*
+niques, I acquired my quota of opaque plaques.\P
+*
 *M9*
-			Lesson M9\B
+                        Lesson M9\B
 (1) Warming-Up Drill\I
 Instead of having us tonight he is making ready for Tuesday.\D
 (2) Balanced Keyboard Drill\I
@@ -491,21 +469,20 @@ Yours sincerely,\P
 (4) Seven-letter words (g to o)\I
 Dear Mrs. White,
 
-     I have been holding on, but this January I am getting out.
-My wife herself may have told you of our opening.  However, I go
-at ten o'clock this morning, and your husband is still out.  He is
-to do my general work himself, and may not imagine there is any
-measure of justice in that.  We married men are obliged to do as
-ordered.
+     I have been holding on, but this January I am getting out.  My wife
+herself may have told you of our opening.  However, I go at ten o'clock
+this morning, and your husband is still out.  He is to do my general work
+himself, and may not imagine there is any measure of justice in that.
+We married men are obliged to do as ordered.
 
-     I am leaving a hundred matters.  He has my opinion on each.
-Tell him the minutes of the last meeting of the members are on my
-table.  Tell him I haven't an invoice, but have instead an October
-bill, for our new machine parts.  He may mention this item to the
-manager, as he has neither its history nor my letters of inquiry.
+     I am leaving a hundred matters.  He has my opinion on each.  Tell him
+the minutes of the last meeting of the members are on my table.  Tell him
+I haven't an invoice, but have instead an October bill, for our new machine
+parts.  He may mention this item to the manager, as he has neither its
+history nor my letters of inquiry.
 
-     I find nothing else to include.  We shall miss you greatly,
-and we shall be looking for you at our new home.
+     I find nothing else to include.  We shall miss you greatly, and we
+shall be looking for you at our new home.
 
 Yours sincerely,\P
 (5) Seven-letter words (p to z)\I
@@ -515,23 +492,21 @@ Dear Patrick,
 I am writing tonight without waiting to go through various reports on our
 present program.  If I had thought that you would be willing to give me an
 extra day, perhaps I would have come myself.
-
      As soon as this letter has reached you, and you have finished reading the
 several items about which I have written, I hope you can give extra working
 time to my request for special records. These items will suggest a new plan as
 I picture it.  I shall add them to this note.
-
      It is my purpose to prepare a fast station-to-station service that should
 be in running order soon.  I suppose it could be started next month.  Let me
 ask, also, whether we could receipt each payment, as we receive it, on a
-regular form similar to those in the package shipped you Tuesday.  I am pleased
-with your showing.  You have been like a soldier on duty in any and all
-weather.  Success is your teacher.
+regular form similar to those in the package shipped you Tuesday.  I am
+pleased with your showing.  You have been like a soldier on duty in any and
+all weather.  Success is your teacher.
 
 With my best regards,\P
 *
 *M10*
-			Lesson M10\B
+                        Lesson M10\B
 (1) Warming-Up Drill\I
 He would separate the whole business and buy out their half.\D
 (2) Balanced Keyboard Drill\I
@@ -539,21 +514,18 @@ inter itude circu gious right cious after extra micro sible\D
 (3) Continuous Copy; Eight-letter words(a to m)\I
 Dear Thomas,
 
-     First, I consider of definite interest anything from
-the business of as good a customer as you.  As director of
-our division, I am to continue handling building material.
-My judgment on all the evidence, which I send herewith
-enclosed in a second envelope, is one of complete approval.
-Let me have a contract covering the earliest delivery date.
-Are you advising me what increase in your discount is to be
-expected?
+     First, I consider of definite interest anything from the business
+of as good a customer as you.  As director of our division, I am to
+continue handling building material.  My judgment on all the evidence,
+which I send herewith enclosed in a second envelope, is one of complete
+approval.  Let me have a contract covering the earliest delivery date.
+Are you advising me what increase in your discount is to be expected?
 
-     Second, this forenoon I saw your son and he told me of
-his marriage in February.  Although you had not entirely
-finished the addition to your lake house by last December,
-couldn't you exchange it, as it is, for my mountain home?
-Your son said that his young wife wants to live on this
-mountain to which all your children seem so attached.
+     Second, this forenoon I saw your son and he told me of his marriage
+in February.  Although you had not entirely finished the addition to
+your lake house by last December, couldn't you exchange it, as it is,
+for my mountain home?  Your son said that his young wife wants to live
+on this mountain to which all your children seem so attached.
 
 Sincerely yours,\P
 (4) Eight-letter words (n to z)\I
@@ -562,19 +534,17 @@ Dear Nathan,
      My last shipment has probably been received, for the purchase was made
 Thursday.  Tomorrow is Saturday, a pleasant day, for I go on my vacation.
 
-     Do you remember an original idea you proposed last November relative
-to planning for some shipping from my property?  My neighbor recently
-called it a plan in a thousand, and we must get together so that I can
-thank you properly.  This is a national as well as personal question,
-and I am trusting that you will be thinking that it is possible for you to
-help put it into practice.
+     Do you remember an original idea you proposed last November relative to
+planning for some shipping from my property?  My neighbor recently called it
+a plan in a thousand, and we must get together so that I can thank you prop-
+erly.  This is a national as well as personal question, and I am trusting that
+you will be thinking that it is possible for you to help put it into practice.
 
-     If you can possibly separate yourself from teachers and your
-teaching position sometime soon, plan to get a standard car and
-whatever else is required for the trip.  The car would also be a
-pleasure after you return to New York.  May I persuade you in re-
-plying to state that you are planning to come promptly?  We will
-make you one of the officers of the shipping business.
+     If you can possibly separate yourself from teachers and your teaching
+position sometime soon, plan to get a standard car and whatever else is re-
+quired for the trip.  The car would also be a pleasure after you return to
+New York.  May I persuade you in replying to state that you are planning to
+come promptly?  We will make you one of the officers of the shipping business.
 
 Your sincerely,\P
 (5) Nine-letter words (a to i)\I
@@ -597,7 +567,7 @@ a few lines.
 Yours sincerely,\P
 *
 *M11*
-			Lesson M11\B
+                        Lesson M11\B
 (1) Warming-Up Drill\I
 My country friend is beginning to believe trouble is coming.\D
 (2) Balanced Keyboard Drill\I
@@ -605,44 +575,38 @@ thing pleas ought quest ember count ditio state recei ction\D
 (3) Nine-letter words (j to z)\I
 Dear Gertrude,
 
-     This letter has no reference to shipments which you have
-so kindly purchased from me in the past.  Rather, as you are
-returning to this territory by September, our president has re-
-quested me as secretary to ask that you make a statement before
-our club the first Wednesday.
+     This letter has no reference to shipments which you have so kindly
+purchased from me in the past.  Rather, as you are returning to this
+territory by September, our president has requested me as secretary to
+ask that you make a statement before our club the first Wednesday.
 
-     Let me say something of the questions we have been receiving
-for the year.  Recently I read that the old principle today still
-applies.  It is wonderful what our new knowledge has surprised us
-into regarding as necessary for ourselves--sometimes things not
-even mentioned yesterday.
+     Let me say something of the questions we have been receiving for
+the year.  Recently I read that the old principle today still applies.
+It is wonderful what our new knowledge has surprised us into regarding
+as necessary for ourselves--sometimes things not even mentioned yesterday.
 
-     Will you therefore represent this new deal and present the
-situation to us in principle, sincerely, as you see it?  Other-
-wise, if you cannot make this provision now, I shall be glad to
-call upon you later.
+     Will you therefore represent this new deal and present the situation
+to us in principle, sincerely, as you see it?  Otherwise, if you cannot
+make this provision now, I shall be glad to call upon you later.
 
 Yours sincerely,\P
 (4) Ten-letter words (a to z)\I
 Dear Alex,
 
-     We are especially interested in the settlement run by a
-new department at the University.  We appreciate the importance
-of its additional study to understand impossible conditions in
-the poor parts of our city, and its use for adjustment of some
-particular boy or girl.  Have you read our memorandum in this
-connection?
+     We are especially interested in the settlement run by a new depart-
+ment at the University.  We appreciate the importance of its additional
+study to understand impossible conditions in the poor parts of our city,
+and its use for adjustment of some particular boy or girl.  Have you read
+our memorandum in this connection?
 
-     Our city is absolutely too big.  With the automobile we can
-distribute every person to his home along a line, our wide road,
-run far out from the city.  The difference between country and
-city grows less and less, in accordance with such use of the auto-
-mobile.
+     Our city is absolutely too big.  With the automobile we can distrib-
+ute every person to his home along a line, our wide road, run far out
+from the city.  The difference between country and city grows less and
+less, in accordance with such use of the automobile.
 
-     Concerning our collection of any remittance from you, this
-would serve to form a Conference which would develop everything
-that can make city governments bring full and rich experience
-to all.
+     Concerning our collection of any remittance from you, this would
+serve to form a Conference which would develop everything that can make
+city governments bring full and rich experience to all.
 
 Sincerely yours,\P
 (5) Eleven- to fourteen-letter words (a to z)\I

@@ -1,87 +1,81 @@
 *Q1*
-			レッスンQ1へようこそ.
+                        儗僢僗儞Q1傊傛偆偙偦.
 
-Qコ〖スのレッスンでは、筛洁弄なキ〖ボ〖ドのタッチタイピングを池浆します。
-キ〖ボ〖ド惧の称矢机を称レッスンで警しずつ疽拆してゆきますが、このコ〖ス
-を姜わった箕には、アルファベット、眶机、络驴眶の剁粕爬をタッチタイプで
-掐蜗できるようになっていることでしょう。
+Q僐乕僗偺儗僢僗儞偱偼丄昗弨揑側僉乕儃乕僪偺僞僢僠僞僀僺儞僌傪妛廗偟傑偡丅
+僉乕儃乕僪忋偺奺暥帤傪奺儗僢僗儞偱彮偟偢偮徯夘偟偰備偒傑偡偑丄偙偺僐乕僗
+傪廔傢偭偨帪偵偼丄傾儖僼傽儀僢僩丄悢帤丄戝懡悢偺嬪撉揰傪僞僢僠僞僀僾偱
+擖椡偱偒傞傛偆偵側偭偰偄傞偙偲偱偟傚偆丅
+偙傟傑偱偵僞僀僾偺楙廗傪偟偨偙偲偑側偄恖偱傕丄怱攝偼柍梡偱偡丅僞僀僺儞僌
+偼丄楙廗偵偙偦懡偔偺帪娫傪昁梫偲偟傑偡偑丄擄偟偄傕偺偱偼側偄偺偱偡丅
 
-これまでにタイプの锡浆をしたことがない客でも、看芹は稍妥です。タイピング
-は、锡浆にこそ驴くの箕粗を涩妥としますが、岂しいものではないのです。
-タイプする箕にキ〖の惧の回を斧ることは闰けましょう。これは络恃碍い浆捶で、
-なかなか惧茫できません。このプログラムでは、疙ったキ〖インは茶烫惧でそれ
-とわかるように山绩します。
+僞僀僾偡傞帪偵僉乕偺忋偺巜傪尒傞偙偲偼旔偗傑偟傚偆丅偙傟偼戝曄埆偄廗姷偱丄
+側偐側偐忋払偱偒傑偣傫丅偙偺僾儘僌儔儉偱偼丄岆偭偨僉乕僀儞偼夋柺忋偱偦傟
+偲傢偐傞傛偆偵昞帵偟傑偡丅
+偁側偨偑偙傟傑偱丄栚偱尒偰僉乕傪墴偡曽朄偱傗偭偰棃偨偺側傜丄尒側偄偱懪偮
+偺偼偪傚偭偲嬯楯偐傕偟傟傑偣傫丅僞僢僠僞僀僺儞僌偑偙傟傑偱偺曽朄傛傝抶偄
+偲偟偰傕丄偑偭偐傝偟側偄偱壓偝偄丅堦搙偙偺曽朄傪恎偵偮偗偰偟傑偊偽丄梱偐
+偵懍偔擖椡偱偒傞傛偆偵側傞偺偱偡偐傜丅
 
-あなたがこれまで、誊で斧てキ〖を病す数恕でやって丸たのなら、斧ないで虑つ
-のはちょっと鹅汐かもしれません。タッチタイピングがこれまでの数恕より觅い
-としても、がっかりしないで布さい。办刨この数恕を咳につけてしまえば、挖か
-に庐く掐蜗できるようになるのですから。
+偁側偨偑偡偱偵僞僢僠僞僀僺儞僌偱擖椡偱偒傞偺側傜偽丄偙傟偐傜偺儗僢僗儞偼
+庤憗偔廔傢傝偵偱偒傞偼偢偱偡丅捈愙 S僐乕僗偵恑傫偱傕偐傑偄傑偣傫丅\T
+                        儂乕儉億僕僔儑儞
 
-あなたがすでにタッチタイピングで掐蜗できるのならば、これからのレッスンは
-缄玲く姜わりにできるはずです。木儡 Sコ〖スに渴んでもかまいません。\T
+巜愭偱怗偭偨偩偗偱惓偟偔僉乕擖椡偱偒傞偨傔偵偼丄巜偑偳偙偵偁傞偺偐傪忢偵
+抦偭偰偄側偗傟偽側傝傑偣傫丅偙偺偨傔偵丄奺巜傪偦傟偧傟摿掕偺埵抲偵抲偔傛
+偆偵偟傑偡丅偙偺僉乕埵抲傪乽儂乕儉億僕僔儑儞乿偲屇傃傑偡丅
 
-			ホ〖ムキ〖
+塃偺恖嵎偟巜傪J偺僉乕偺忋偵抲偒傑偡丅拞巜偼K丄栻巜偼L丄彫巜偼;偺僉乕偺忋
+偵抲偒傑偡丅
+摨條偵偟偰丄嵍庤偼F丄D丄S丄A偺僉乕偺忋偵巜傪抲偒傑偡丅塃偺恊巜偼僗儁乕僗
+僶乕偺忋偵抲偒傑偡丅偙傟偐傜偼丄僗儁乕僗偼忢偵塃恊巜偱懪偭偰壓偝偄丅
+師偵丄慡晹偺巜傪寉偔晜偐偣偰丄僉乕偺恀忋偱峔偊偨忬懺偵偟傑偡丅奺巜偼傢偢
+偐偵儂乕儉僉乕偺昞柺偵怗傟傞傛偆偵偟傑偡丅寁嶼婡偺僉乕儃乕僪偼丄僞僀僾偡
+帪偵偁傑傝嫮偔椡傪偐偗傞昁梫偼偁傝傑偣傫丅
 
-回黎で卡っただけで赖しくキ〖掐蜗できるためには、回がどこにあるのかを撅に
-梦っていなければなりません。このために、称回をそれぞれ泼年の疤弥に弥くよ
-うにします。このキ〖疤弥を≈ホ〖ムポジション∽と钙びます。
+堦峴壗偐傪擖椡偟傛偆偲偡傞帪偵偼丄傑偢奺巜偑儂乕儉億僕僔儑儞偵偁傞偙偲傪
+妋擣偟偰壓偝偄丅偦傟埲崀偼巜傪尒偰偼偄偗傑偣傫丅僉乕儃乕僪偵傛偭偰偼丄
+J偲F丄偁傞偄偼K偲D偵丄巜偱怗偭偰傢偐傞傛偆偵丄撍婲偑偁偭偨傝丄榩嬋偑怺偔
+側偭偰偄偨傝偡傞傕偺傕偁傝傑偡丅\T
+                        楙廗偺巇曽
 
-宝の客汗し回をJのキ〖の惧に弥きます。面回はK、挑回はL、井回は;のキ〖の惧
-に弥きます。
+偙偺屻偺儗僢僗儞偱偼丄楙廗梡僂傿儞僪僂偺拞傎偳偵僥僉僗僩傪昞帵偟丄僂傿儞
+僪僂偺忋偺曽偵巜帵傪昞帵偟傑偡丅
+偁側偨偑偡傋偒偙偲偼丄夋柺偵昞帵偝傟偨僥僉僗僩偺暥帤傪僞僀僾偡傞偙偲偱偡丅
+惓偟偄暥帤傪擖椡偟偨帪偵偼摿偵壗傕偟傑偣傫丅岆偭偨応崌偵偼偦偺晹暘傪僴僀
+儔僀僩昞帵偟丄壒傪弌偟傑偡丅惓偟偔偰傕娫堘偭偰偄偰傕丄偲偵偐偔僞僀僾傪懕
+偗偰壓偝偄丅Delete僉乕偼巊偊傑偣傫丅
 
-票屯にして、焊缄はF、D、S、Aのキ〖の惧に回を弥きます。宝の科回はスペ〖ス
-バ〖の惧に弥きます。これからは、スペ〖スは撅に宝科回で虑って布さい。
-肌に、链婶の回を汾く赦かせて、キ〖の靠惧で菇えた觉轮にします。称回はわず
-かにホ〖ムキ〖の山烫に卡れるようにします。纷换怠のキ〖ボ〖ドは、タイプす
-箕にあまり动く蜗をかける涩妥はありません。
+峴枛傑偱懪偪廔偊偨傜丄夵峴(Return)僉乕傪懪偪傑偡丅偙傟偼丄塃偺彫巜傪怢偽
+偟偰懪偪傑偡丅僉乕傪懪偭偨傜丄巜傪慺憗偔儂乕儉億僕僔儑儞偵栠偟傑偡丅偙偺
+搑拞偱巜偑儂乕儉億僕僔儑儞偐傜棧傟偰偟傑傢側偄傛偆偵拲堄偟偰壓偝偄丅
+傑偨丄峴枛偱梋暘側嬻敀傪擖椡偟側偄傛偆偵婥傪晅偗偰壓偝偄丅
 
-Dのキ〖の惧にEのキ〖があり、Kのキ〖の惧にはIのキ〖があります。これらの疤
-弥をしっかり淡脖して布さい。办乖部かを掐蜗しようとする箕には、まず称回が
-ホ〖ムポジションにあることを澄千して布さい。それ笆惯は回を斧てはいけませ
-ん。キ〖ボ〖ドによっては、JとF、あるいはKとDに、回で卡ってわかるように、
-仆弹があったり、涎妒が考くなっていたりするものもあります。\T
-
-			锡浆の慌数
-
-この稿のレッスンでは、茶烫の面ほどにテキストを１乖山绩し、茶烫の惧の数に
-回绩を山绩します。
-
-あなたがすべきことは、茶烫の面ほどに山绩されたテキストの矢机をタイプする
-ことです。赖しい矢机を掐蜗した箕には泼に部もしません。疙った眷圭には、络
-矢机のXを山绩し、不を叫します。赖しくても粗般っていても、とにかくタイプを
-鲁けて布さい。Deleteキ〖は蝗えません。
-
-乖琐まで虑ち姜えたら、猖乖(Return)キ〖を虑ちます。これは、宝の井回を凯ば
-して虑ちます。キ〖を虑ったら、回を燎玲くホ〖ムポジションに提します。この
-庞面で回がホ〖ムポジションから违れてしまわないように庙罢して布さい。
-また、乖琐で途尸な鄂球を掐蜗しないように丹を烧けて布さい。
-
-疙りなくその乖をタイプできたら、肌の锡浆脱パタ〖ンが山绩されます。粗般え
-てタイプした眷圭には、不で梦らせ、票じ乖をもう办刨やりなおしてもらうこと
-になります。２搀誊の末里で２改笆惧粗般えるともう办搀やり木し、というふう
-になっています。宝の科回をスペ〖スバ〖の惧に弥くことを撕れないように。\T
-(1) やってみましょう:\I
+岆傝側偔偦偺夋柺傪僞僀僾偱偒偨傜丄師偺楙廗梡僷僞乕儞偑昞帵偝傟傑偡丅
+娫堘偊偰僞僀僾偟偨応崌偵偼丄摨偠儗僢僗儞撪梕傪傕偆堦搙傗傝側偍偟偰傕傜偆
+偙偲偵側傝傑偡丅俀夞栚埲崀偺挧愴偱偼丄懪偪娫堘偄偺棪偵傛偭偰傗傝側偍偡偐
+偳偆偐偑敾抐偝傟傑偡丅\T
+(1) 傗偭偰傒傑偟傚偆:\I
 asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj\D
-肌はこれ:\I
+師偼偙傟:\I
 asdef ;lkij asdef ;lkij asdef ;lkij asdef ;lkij asdef ;lkij\D
-(2) これはどうでしょう:\I
+(2) 塃偺恊巜偼僗儁乕僗僶乕偺忋偵丅\I
 as al ad ak af aj fa ka da la sa ja sl sd sk sf ls ds ks fs
 de le ae ke se je fe ed el ea ek es ej ef ed lf dk dl fl kl
 ki ai li si di ji fi ia il is ik id ij if dd ee ss ff ll ei\D
-			络矢机の掐れ数
+                        戝暥帤偺擖傟曽
 
-焊缄が么碰する矢机の络矢机を掐蜗したい眷圭には、宝娄のシフトキ〖を蝗脱し
-なければなりません。これは笆布のようにします:
+嵍庤偑扴摉偡傞暥帤偺戝暥帤傪擖椡偟偨偄応崌偵偼丄塃懁偺僔僼僩僉乕傪巊梡偟
+側偗傟偽側傝傑偣傫丅偙傟偼埲壓偺傛偆偵偟傑偡:
 
-        a. 宝客汗し回はJから瓢かすことなく、井回をシフトキ〖の惧まで凯ば
-           してそれを病します。
+        a. 塃恖嵎偟巜偼J偐傜摦偐偡偙偲側偔丄彫巜傪僔僼僩僉乕偺忋傑偱怢偽
+           偟偰偦傟傪墴偟傑偡丅
 
-        b. 焊缄で誊弄のキ〖を病します。
+        b. 嵍庤偱栚揑偺僉乕傪墴偟傑偡丅
 
-        c. 宝井回を;キ〖の惧に燎玲く提します。
+        c. 塃彫巜傪;僉乕偺忋偵慺憗偔栠偟傑偡丅
 
-宝缄の么碰する矢机の眷圭も票屯です。\T
-(3) 磋磨りどころ: 矢を掐れてみよう...\I
+塃庤偺扴摉偡傞暥帤偺応崌傕摨條偱偡丅\T
+(3) 婃挘傝偳偙傠: 暥傪擖傟偰傒傛偆...\I
 Dad adds a salad  A lad asks  Salad falls as a lad asks Dad\D
 (4)\I
 Lease a desk  Add a safe deal  Ask less fees  Add a lease
@@ -93,7 +87,8 @@ A deaf lad sells a false jade  Dad sells a deaf lad a sled\D
 (6)\I
 Idle Sid seeks a salad  Sis aids Sid  A salad is laid aside
 Sid seeks a lake Sis is all silks  Sid likes silks
-A lad asks if Dad likes lilies  Dad is ill  Dad feels life dies as lilies fade
+A lad asks if Dad likes lilies  Dad is ill
+Dad feels life dies as lilies fade
 Dad slides all lilies aside  Dad is jaded\D
 (7)\I
 Sails fill as Sis sails a safe lake  Skill aids Sis  Dad
@@ -105,15 +100,13 @@ Faded sails fill  Idle isles slide aside as Sis sails\D
 Sid adds all sail as Dad sees a safe sea as idle as a lake\D
 *
 *Q2*
-			     Lesson Q2
+                        Lesson Q2  (h g o u n . t)
 
-			  (h g o u n . t)
+偙偺儗僢僗儞偱偼丄俇偮偺怴偟偄暥帤 (H, G, O, U, N, T) 偲僺儕僆僪傪妎偊傑
+偡丅F偺巜偑G偺忋偵巆偭偨傝丄J偺巜偑H偺忋偵摦偄偰偟傑傢側偄傛偆偵拲堄偟偰
+壓偝偄丅
 
-このレッスンでは、６つの糠しい矢机 (H, G, O, U, N, T) とピリオドを承えま
-す。Fの回がGの惧に荒ったり、Jの回がHの惧に瓢いてしまわないように庙罢して
-布さい。
-
-毖矢では、ピリオドには撅に２つの鄂球が鲁くことに庙罢して布さい。\T
+塸暥偱偼丄僺儕僆僪偵偼忢偵俀偮偺嬻敀偑懕偔偙偲偵拲堄偟偰壓偝偄丅\T
 (1) Rhythm Drill\I
 a;sldkfjgh a;sldkfjgh a;sldkfjgh a;sldkfjgh a;sldkfjgh
 asdefghk lokijujhjn asdefgfk lokijujhjn asdefgfk
@@ -146,21 +139,19 @@ he sees Sis and Ed inside.  At nine he sees Sis and Ed dine.\D
 He sees that in a test he has to state and use a sane idea.\D
 *
 *Q3*
-			     Lesson Q3
+                        Lesson Q3  (y r c , ? : p)
 
-			  (y r c , ? : p)
+偙偙傑偱偱偼丄傑偢丄塸岅偱嵟傕昿斏偵巊傢傟傞暥帤傪妛傃傑偟偨丅偙傟傜偼
+壗搙傕壗搙傕孞傝曉偟尰傟傑偡丅
 
-ここまででは、まず、毖胳で呵も裳人に蝗われる矢机を池びました。これらは
-部刨も部刨も帆り手し附れます。
+塸暥偱偼丄僇儞儅乽,乿乮僐儞儅乯偺屻偵偼忢偵侾偮偺嬻敀傪抲偒傑偡丅偳傫側
+嬪撉揰偱嬫愗傜傟偰傕丄暥偲暥偺娫偵偼俀偮偺嬻敀傪抲偔偙偲傪朰傟側偄偱壓
+偝偄丅
 
-毖矢では、カンマ≈,∽∈コンマ∷の稿には撅に１つの鄂球を弥きます。どんな
-剁粕爬で惰磊られても、矢と矢の粗には２つの鄂球を弥くことを撕れないで布
-さい。
-
-コロン≈:∽はその肌にリストを鲁けるのに网脱し、稿ろには２つの鄂球を弥き
-ます。コロンはキ〖ボ〖ドによってキ〖の疤弥が佰なることがあります。
-セミコロン≈;∽の宝钨にある眷圭と、シフトキ〖とセミコロンのキ〖で掐蜗で
-きる眷圭の肩に２硷梧です。どちらの眷圭でも、宝缄の井回で掐蜗します。\T
+僐儘儞乽:乿偼偦偺師偵儕僗僩傪懕偗傞偺偵棙梡偟丄屻傠偵偼俀偮偺嬻敀傪抲偒
+傑偡丅僐儘儞偼僉乕儃乕僪偵傛偭偰僉乕偺埵抲偑堎側傞偙偲偑偁傝傑偡丅
+僙儈僐儘儞乽;乿偺塃椬偵偁傞応崌偲丄僔僼僩僉乕偲僙儈僐儘儞偺僉乕偱擖椡偱
+偒傞応崌偺庡偵俀庬椶偱偡丅偳偪傜偺応崌偱傕丄塃庤偺彫巜偱擖椡偟傑偡丅\T
 (1) Rhythm Drill\I
 deki frju dck, dcl. frju ftjy deki frju dck, dcl. frju ftjy
 fgjh ,p,? jujy dedc lol. kik, fgju ,:,: frfk jujy dedc kik,\D
@@ -192,24 +183,22 @@ dandy day.  I need to study.  It is not easy on the eyes.\D
 (9)\I
 One needs to use faith if one fishes often.  It is fun to sit
 on soft sod and fish.  It is fun to feel a fish dash out fast.\D
-(9A)\I
+(10)\I
 Hello, is this Dan?  Hello, Dan, this is Ann.  No, Ann.  Did
 you see Ted?  Is Nan at the house?  Then dash to the house.
 Is he at the house?  Has he his auto?  Did he tie on those
 odds and ends:  used suits, sun hats, shoes, and side tent?\D
-(10) Rhythmic Review\I
+(11) Rhythmic Review\I
 Papa can not plan to get us all there in such a car as this.\D
 *
 *Q4*
-			     Lesson Q4
+                        Lesson Q4  (m w v z x b q ;)
 
-			(m w v z x b q ;)
+僞僀僾偺楙廗偵偼僙儖僼僐儞僩儘乕儖偑廳梫偱偡丅偦傟偧傟偺僉乕偵懳偟偰惓偟
+偄巜傪巊偊傞傛偆偵廤拞偟偰壓偝偄丅偙偺儗僢僗儞偱偼丄傾儖僼傽儀僢僩偺巆傝
+偺俈偮偺暥帤傪楙廗偟傑偡丅
 
-タイプの锡浆にはセルフコントロ〖ルが脚妥です。それぞれのキ〖に滦して赖し
-い回を蝗えるように礁面して布さい。このレッスンでは、アルファベットの荒り
-の７つの矢机を锡浆します。
-
-セミコロン≈;∽はカンマのように、矢鞠面では１つの鄂球を鲁けます。\T
+僙儈僐儘儞乽;乿偼僇儞儅偺傛偆偵丄暥復拞偱偼侾偮偺嬻敀傪懕偗傑偡丅\T
 (1) Rhythm Drill\I
 dedc kik, frfv jujm swsx lol. aqaz ;p;p frfv jujm ftfb jyjn
 aqsw az;p sxl. fvjm fvjn fbjn aqsw az;p sxl. fvjm fvjn fbjn\D
@@ -239,24 +228,22 @@ quite the queen in this quiet set and sets us quaint quotas.\D
 (9)\I
 The zoo is shut.  His zest is dashed.  Dan dozes.  One sneeze
 and then a dozen seize Dan.  In a daze he sees the zoo seized.\D
-(9A)\I
+(10)\I
 The boat has been best to Boston.  On this basis no doubt one
 is bound to be a bit behind but boats beat both dust and heat.\D
-(9B)\I
+(11)\I
 Nan is in Texas.  She is anxious to dine at six.  She sees a
 taxi stand next to the sixth exit.  Taxis exist to aid one.\D
-(10) Rhythmic Review\I
+(12) Rhythmic Review\I
 Ask them to let us have the car if they both go to the show.\D
 *
 *Q5*
-			     Lesson Q5
-			     
-			      ( ' - )
+                        Lesson Q5  ( ' - )
 
-もうアルファベットのすべての矢机を掐蜗できますね。このレッスンではハイフ
-ン≈幇∽∈マイナス淡规∷と苞脱射≈'∽∈アポストロフィ∷を烧け裁えます。
+傕偆傾儖僼傽儀僢僩偺偡傋偰偺暥帤傪擖椡偱偒傑偡偹丅偙偺儗僢僗儞偱偼僴僀僼
+儞乮儅僀僫僗婰崋乯偲扨堷梡晞乮傾億僗僩儘僼傿乯傪晅偗壛偊傑偡丅
 
-これらの淡规は、キ〖ボ〖ドによって疤弥が佰なることがあります。\T
+偙傟傜偺婰崋偼丄僉乕儃乕僪偵傛偭偰埵抲偑堎側傞偙偲偑偁傝傑偡丅\T
 (1) Rhythm Drill\I
 dedc kik, frfv jujm swsx lol. aqaz ;p;p frfv jujm ftfb jyjn
 frfk fvfb jujy jmjn aqsw azsw azsx ;plo ;p;- kik, ;p;-\D

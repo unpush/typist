@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/07/10 17:19:35.716.bdsproj,C:\Documents and Settings\OGIHARA\My Documents\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\typist3.bdsproj</Transaction>
+    <Transaction>2007/07/12 17:07:22.281.c,C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo.c=C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo2.c</Transaction>
+    <Transaction>2007/07/12 17:07:41.968.c,C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo2.c=C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo.c</Transaction>
+    <Transaction>2007/07/12 17:07:42.046.c,C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo.c=C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo2.c</Transaction>
+    <Transaction>2007/07/12 17:13:45.765.c,C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo2.c=C:\Documents and Settings\OGIHARA\My Documents\work\typist3\src\fileinfo.c</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,154 +1,149 @@
 *T1*
-			レッスンT1へようこそ.
+                        儗僢僗儞T1傊傛偆偙偦
 
-Tコ〖スのレッスンでは、筛洁弄なキ〖ボ〖ドのタッチタイピングを池浆します。
-キ〖ボ〖ド惧の称矢机を称レッスンで警しずつ疽拆してゆきますが、このコ〖ス
-を姜わった箕には、アルファベット、眶机、络驴眶の剁粕爬をタッチタイプで
-掐蜗できるようになっていることでしょう。
+T僐乕僗偺儗僢僗儞偱偼丄昗弨揑側僉乕儃乕僪偺僞僢僠僞僀僺儞僌傪妛廗偟傑偡丅
+僉乕儃乕僪忋偺奺暥帤傪奺儗僢僗儞偱彮偟偢偮徯夘偟偰備偒傑偡偑丄偙偺僐乕僗
+傪廔傢偭偨帪偵偼丄傾儖僼傽儀僢僩丄悢帤丄戝懡悢偺嬪撉揰傪僞僢僠僞僀僾偱
+擖椡偱偒傞傛偆偵側偭偰偄傞偙偲偱偟傚偆丅
+偙傟傑偱偵僞僀僾偺楙廗傪偟偨偙偲偑側偄恖偱傕丄怱攝偼柍梡偱偡丅僞僀僺儞僌
+偼丄楙廗偵偙偦懡偔偺帪娫傪昁梫偲偟傑偡偑丄擄偟偄傕偺偱偼側偄偺偱偡丅
 
-これまでにタイプの锡浆をしたことがない客でも、看芹は痰脱です。タイピング
-は、锡浆にこそ驴くの箕粗を涩妥としますが、岂しいものではないのです。
-タイプする箕にキ〖の惧の回を斧ることは闰けましょう。これは络恃碍い浆捶で、
-なかなか惧茫できません。このプログラムでは、疙ったキ〖インは茶烫惧でそれ
-とわかるように山绩します。
+僞僀僾偡傞帪偵僉乕偺忋偺巜傪尒傞偙偲偼旔偗傑偟傚偆丅偙傟偼戝曄埆偄廗姷偱丄
+側偐側偐忋払偱偒傑偣傫丅偙偺僾儘僌儔儉偱偼丄岆偭偨僉乕僀儞偼夋柺忋偱偦傟
+偲傢偐傞傛偆偵昞帵偟傑偡丅
+偁側偨偑偙傟傑偱丄栚偱尒偰僉乕傪墴偡曽朄偱傗偭偰棃偨偺側傜丄尒側偄偱懪偮
+偺偼偪傚偭偲嬯楯偐傕偟傟傑偣傫丅僞僢僠僞僀僺儞僌偑偙傟傑偱偺曽朄傛傝抶偄
+偲偟偰傕丄偑偭偐傝偟側偄偱壓偝偄丅堦搙偙偺曽朄傪恎偵偮偗偰偟傑偊偽丄梱偐
+偵懍偔擖椡偱偒傞傛偆偵側傞偺偱偡偐傜丅
 
-あなたがこれまで、誊で斧てキ〖を病す数恕でやって丸たのなら、斧ないで虑つ
-のはちょっと鹅汐かもしれません。タッチタイピングがこれまでの数恕より觅い
-としても、がっかりしないで布さい。办刨この数恕を咳につけてしまえば、挖か
-に庐く掐蜗できるようになるのですから。
+偁側偨偑偡偱偵僞僢僠僞僀僺儞僌偱擖椡偱偒傞偺側傜偽丄偙傟偐傜偺儗僢僗儞偼
+庤憗偔廔傢傝偵偱偒傞偼偢偱偡丅捈愙 S僐乕僗偵恑傫偱傕偐傑偄傑偣傫丅\T
+                        儂乕儉億僕僔儑儞
 
-あなたがすでにタッチタイピングで掐蜗できるのならば、これからのレッスンは
-缄玲く姜わりにできるはずです。木儡 Sコ〖スに渴んでもかまいません。\T
+巜愭偱怗偭偨偩偗偱惓偟偔僉乕擖椡偱偒傞偨傔偵偼丄巜偑偳偙偵偁傞偺偐傪忢偵
+抦偭偰偄側偗傟偽側傝傑偣傫丅偙偺偨傔偵丄奺巜傪偦傟偧傟摿掕偺埵抲偵抲偔傛
+偆偵偟傑偡丅偙偺僉乕埵抲傪乽儂乕儉億僕僔儑儞乿偲屇傃傑偡丅
 
-			ホ〖ムキ〖
+塃偺恖嵎偟巜傪J偺僉乕偺忋偵抲偒傑偡丅拞巜偼K丄栻巜偼L丄彫巜偼;偺僉乕偺忋
+偵抲偒傑偡丅
 
-回黎で卡っただけで赖しくキ〖掐蜗できるためには、回がどこにあるのかを撅に
-梦っていなければなりません。このために、称回をそれぞれ泼年の疤弥に弥くよ
-うにします。このキ〖疤弥を≈ホ〖ムポジション∽と钙びます。
+摨條偵偟偰丄嵍庤偼F丄D丄S丄A偺僉乕偺忋偵巜傪抲偒傑偡丅塃偺恊巜偼僗儁乕僗
+僶乕偺忋偵抲偒傑偡丅偙傟偐傜偼丄僗儁乕僗偼忢偵塃恊巜偱懪偭偰壓偝偄丅
+師偵丄慡晹偺巜傪寉偔晜偐偣偰丄僉乕偺恀忋偱峔偊偨忬懺偵偟傑偡丅奺巜偼傢偢
+偐偵儂乕儉僉乕偺昞柺偵怗傟傞傛偆偵偟傑偡丅寁嶼婡偺僉乕儃乕僪偼丄僞僀僾偡
+帪偵偁傑傝嫮偔椡傪偐偗傞昁梫偼偁傝傑偣傫丅
 
-宝の客汗し回をJのキ〖の惧に弥きます。面回はK、挑回はL、井回は;のキ〖の惧
-に弥きます。
+堦峴壗偐傪擖椡偟傛偆偲偡傞帪偵偼丄傑偢奺巜偑儂乕儉億僕僔儑儞偵偁傞偙偲傪
+妋擣偟偰壓偝偄丅偦傟埲崀偼巜傪尒偰偼偄偗傑偣傫丅僉乕儃乕僪偵傛偭偰偼丄
+J偲F丄偁傞偄偼K偲D偵丄巜偱怗偭偰傢偐傞傛偆偵丄撍婲偑偁偭偨傝丄榩嬋偑怺偔
+側偭偰偄偨傝偡傞傕偺傕偁傝傑偡丅\T
 
-票屯にして、焊缄はF、D、S、Aのキ〖の惧に回を弥きます。宝の科回はスペ〖ス
-バ〖の惧に弥きます。これからは、スペ〖スは撅に宝科回で虑って布さい。
-肌に、链婶の回を汾く赦かせて、キ〖の靠惧で菇えた觉轮にします。称回はわず
-かにホ〖ムキ〖の山烫に卡れるようにします。纷换怠のキ〖ボ〖ドは、タイプす
-箕にあまり动く蜗をかける涩妥はありません。
+                        楙廗偺巇曽
 
-办乖部かを掐蜗しようとする箕には、まず称回がホ〖ムポジションにあることを
-澄千して布さい。それ笆惯は回を斧てはいけません。キ〖ボ〖ドによっては、
-JとF、あるいはKとDに、回で卡ってわかるように、仆弹があったり、涎妒が考く
-なっていたりするものもあります。\T
+偙偺屻偺儗僢僗儞偱偼丄楙廗梡僂傿儞僪僂偺拞傎偳偵僥僉僗僩傪昞帵偟丄僂傿儞
+僪僂偺忋偺曽偵巜帵傪昞帵偟傑偡丅
+偁側偨偑偡傋偒偙偲偼丄夋柺偵昞帵偝傟偨僥僉僗僩偺暥帤傪僞僀僾偡傞偙偲偱偡丅
+惓偟偄暥帤傪擖椡偟偨帪偵偼摿偵壗傕偟傑偣傫丅岆偭偨応崌偵偼偦偺晹暘傪僴僀
+儔僀僩昞帵偟丄壒傪弌偟傑偡丅惓偟偔偰傕娫堘偭偰偄偰傕丄偲偵偐偔僞僀僾傪懕
+偗偰壓偝偄丅Delete僉乕偼巊偊傑偣傫丅
 
-			锡浆の慌数
+峴枛傑偱懪偪廔偊偨傜丄夵峴(Return)僉乕傪懪偪傑偡丅偙傟偼丄塃偺彫巜傪怢偽
+偟偰懪偪傑偡丅僉乕傪懪偭偨傜丄巜傪慺憗偔儂乕儉億僕僔儑儞偵栠偟傑偡丅偙偺
+搑拞偱巜偑儂乕儉億僕僔儑儞偐傜棧傟偰偟傑傢側偄傛偆偵拲堄偟偰壓偝偄丅
+傑偨丄峴枛偱梋暘側嬻敀傪擖椡偟側偄傛偆偵婥傪晅偗偰壓偝偄丅
 
-この稿のレッスンでは、茶烫の面ほどにテキストを１乖山绩し、茶烫の惧の数に
-回绩を山绩します。
-
-あなたがすべきことは、茶烫の面ほどに山绩されたテキストの矢机をタイプする
-ことです。赖しい矢机を掐蜗した箕には泼に部もしません。疙った眷圭には、络
-矢机のXを山绩し、不を叫します。赖しくても粗般っていても、とにかくタイプを
-鲁けて布さい。Deleteキ〖は蝗えません。
-
-乖琐まで虑ち姜えたら、猖乖(Return)キ〖を虑ちます。これは、宝の井回を凯ば
-して虑ちます。キ〖を虑ったら、回を燎玲くホ〖ムポジションに提します。この
-庞面で回がホ〖ムポジションから违れてしまわないように庙罢して布さい。
-また、乖琐で途尸な鄂球を掐蜗しないように丹を烧けて布さい。
-
-疙りなくその乖をタイプできたら、肌の锡浆脱パタ〖ンが山绩されます。粗般え
-てタイプした眷圭には、不で梦らせ、票じ乖をもう办刨やりなおしてもらうこと
-になります。２搀誊の末里で２改笆惧粗般えるともう办搀やり木し、というふう
-になっています。宝の科回をスペ〖スバ〖の惧に弥くことを撕れないように。\T
-Fのキ〖を焊客汗し回で４搀虑って布さい。\I
+岆傝側偔偦偺夋柺傪僞僀僾偱偒偨傜丄師偺楙廗梡僷僞乕儞偑昞帵偝傟傑偡丅
+娫堘偊偰僞僀僾偟偨応崌偵偼丄摨偠儗僢僗儞撪梕傪傕偆堦搙傗傝側偍偟偰傕傜偆
+偙偲偵側傝傑偡丅俀夞栚埲崀偺挧愴偱偼丄懪偪娫堘偄偺棪偵傛偭偰傗傝側偍偡偐
+偳偆偐偑敾抐偝傟傑偡丅\T
+F偺僉乕傪嵍恖嵎偟巜偱係夞懪偭偰壓偝偄丅\I
 ffff\D
-Fのキ〖とスペ〖スバ〖を蛤高に虑ちます。\I
+F偺僉乕偲僗儁乕僗僶乕傪岎屳偵懪偪傑偡丅\I
 fff fff fff ff ff ff f f f\D
-回黎を斧てはいけません—\B
-Jのキ〖を宝客汗し回で虑ちます。\I
+巜愭傪尒偰偼偄偗傑偣傫両 乮塃偺恊巜偼僗儁乕僗僶乕偺忋乯\B
+J偺僉乕傪塃恖嵎偟巜偱懪偪傑偡丅\I
 jjj jjj jjj jj jj jj j j j\D
-焊缄をFに、宝缄をJに蝗います。\I
+嵍庤傪F偵丄塃庤傪J偵巊偄傑偡丅\I
 fff jjj fff jj ff jj f j f j\D
-寒ぜてみましょう。\I
+崿偤偰傒傑偟傚偆丅\I
 ffjj jjff fjf fjf jfj jfj\D
-焊面回をDのキ〖に蝗います。\I
+嵍拞巜傪D偺僉乕偵巊偄傑偡丅\I
 ddd ddd ddd dd dd dd d d d\D
-宝面回をKのキ〖に蝗います。\I
+塃拞巜傪K偺僉乕偵巊偄傑偡丅\I
 kkk kkk kkk kk kk kk k k k\D
-尉数办斤に。\I
+椉曽堦弿偵丅\I
 ddd kkk dd kk dkd kdk ddd kkk\D
-挑回はS、Lのキ〖のためにそれぞれ蝗います。\I
+栻巜偼S丄L偺僉乕偺偨傔偵偦傟偧傟巊偄傑偡丅\I
 sss lll sss lll sss ss ll ss ll s l\D
-井回はA、;のキ〖のためにそれぞれ蝗います。\I
+彫巜偼A丄;偺僉乕偺偨傔偵偦傟偧傟巊偄傑偡丅\I
 aaa ;;; aaa ;;; aa ;; aa ;; a ;\D
-海泣はこれで浇尸です。牲浆してみましょう。\I
+暅廗偟偰傒傑偟傚偆丅\I
 fff jjj ddd kkk sss lll aaa ;;;\D
-もう办刨。\I
-fff jjj ddd kkk sss lll aaa ;;;\D
-链婶办斤に。\I
+慡晹堦弿偵丅\I
 asdf jkl; asdf jkl; asdf jkl;\D
-さらにもう办刨。\I
+偝傜偵傕偆堦搙丅\I
 fjf kdk sls ;a;\D
-姜わる涟に、いくつかの帽胳をタイプしましょう。\I
+廔傢傞慜偵丄偄偔偮偐偺扨岅傪僞僀僾偟傑偟傚偆丅\I
 sad add all; alas flask fad\D
-矢鞠はどうでしょう。\I
+暥復偼偳偆偱偟傚偆丅\I
 ask a sad lad\D
-熟不が１つしか矢鞠に蝗えませんね。\I
+曣壒偑侾偮偟偐暥復偵巊偊傑偣傫偹丅\I
 dad asks a lad; a lass falls\D
 
 *
 *T2*
-			      Lesson T2
+                              Lesson T2
 
 
-このレッスンでは、すでに池んだ矢机の牲浆と、糠しい矢机 E、G、H およびカ
-ンマ≈,∽∈コンマ∷の锡浆をします。
+偙偺儗僢僗儞偱偼丄偡偱偵妛傫偩暥帤偺暅廗偲丄怴偟偄暥帤 E丄G丄H 偍傛傃僇
+儞儅乽,乿乮僐儞儅乯偺楙廗傪偟傑偡丅
 
-これらの矢机のために回を凯ばしても、涩ずホ〖ムポジションに提るようにして
-布さい。毋えば、Hのキ〖を虑つためには宝の客汗し回を警し焊に瓢かしますが、
-Hのキ〖を病したらすぐにJの惧に回を提します。
+偙傟傜偺暥帤偺偨傔偵巜傪怢偽偟偰傕丄昁偢儂乕儉億僕僔儑儞偵栠傞傛偆偵偟偰
+壓偝偄丅椺偊偽丄H偺僉乕傪懪偮偨傔偵偼塃偺恖嵎偟巜傪彮偟嵍偵摦偐偟傑偡偑丄
+H偺僉乕傪墴偟偨傜偡偖偵J偺忋偵巜傪栠偟傑偡丅
 
-回がどこにあるのかわからなくなる祸もあるでしょう。しかし、疯して回黎を斧
-てはいけません。\T
-まず牲浆。\I
+巜偑偳偙偵偁傞偺偐傢偐傜側偔側傞帠傕偁傞偱偟傚偆丅偟偐偟丄寛偟偰巜愭傪尒
+偰偼偄偗傑偣傫丅\T
+傑偢暅廗丅\I
 fff jjj ddd kkk sss lll aaa ;;;\D
 asdf jkl; fdsa ;lkj
 fjf jfj dkd kdk sls lsl a;a ;a;
 jkj jlj j;j fdf fsf faf
 a sad lass; ask dad;\D
-Hキ〖にはJの回を蝗います。\I
+H僉乕偵偼J偺巜傪巊偄傑偡丅\I
 jjj jhj jjj jhj jjj jhj\D
 jjj hhh jjj hhh jj hh j h j h
 jjj had jjj ash jjj has jjj
 jjj sash jjj hash jjj hall jjj\D
-Gキ〖にはFの回を蝗います。\I
+G僉乕偵偼F偺巜傪巊偄傑偡丅\I
 fff fgf fff fgf fff fgf\D
 fff ggg fff ggg fff ggg
 fff gag fff lag fff flag fff
 fff sag fff slag fff hag fff\D
-Eキ〖にはDの回を蝗います。\I
+E僉乕偵偼D偺巜傪巊偄傑偡丅\I
 ddd ded ddd ded ddd ded ddd\D
 ddd eee ddd eee dd ee dd ee d e
 ddd fee ddd see ddd elf ddd
 lake asked fake gale egg\D
-≈,∽のキ〖にはKの回を蝗います。\I
+乽,乿偺僉乕偵偼K偺巜傪巊偄傑偡丅\I
 kkk k,k kkk k,k kkk k,k\D
 kkk ,,, kkk ,,, kkk ,,, kkk\D
-おしまいに、矢を掐蜗してみましょう。\I
+偍偟傑偄偵丄暥傪擖椡偟偰傒傑偟傚偆丅\I
 a lad had a flask, dad had a keg\D
 she had a fake egg, he had a salad\D
 *
 *T3*
-			     Lesson T3\B
-まず牲浆から。\I
+                             Lesson T3\B
+傑偢暅廗偐傜丅\I
 fff jjj ddd kkk sss lll aaa ;;;\D
 fgf jhj ded k,k fgf jhj ded k,k\D
-IにはKの回を蝗います。\I
+I偵偼K偺巜傪巊偄傑偡丅\I
 kkk kik kkk kik kkk iii kkk\D
 kkk iii kkk iii kk ii kk ii
 kkk lid kkk hill kkk did kkk
 kkk kill kkk kid kkk like kkk
 kkk kiss kkk hide kkk fill kkk\D
-RにはFの回を蝗います。\I
+R偵偼F偺巜傪巊偄傑偡丅\I
 fff frf fff frf fff frf\D
 fff rrr fff rrr ff rr ff rr
 fff rake fff rag fff her fff
@@ -156,117 +151,122 @@ fff red fff read fff rage fff
 fff far fff red fff jar fff\D
 fff fare fff rare fff rake fff\D
 fff rid fff ire fff fair fff\D
-ピリオド≈.∽にはLの回を蝗います。\I
+僺儕僆僪乽.乿偵偼L偺巜傪巊偄傑偡丅\I
 lll l.l lll l.l lll l.l lll\D
 lll ... lll ... ll .. ll .. l .
 lll adj. lll id. lll
 lll eg. lll i.e. lll\D
-肌に锡浆するのは宝のシフトキ〖です。
+師偵楙廗偡傞偺偼塃偺僔僼僩僉乕偱偡丅
 
-焊缄が么碰する矢机の络矢机を掐蜗したい眷圭には、宝娄のシフトキ〖を蝗脱し
-なければなりません。これは笆布のようにします:
+嵍庤偑扴摉偡傞暥帤偺戝暥帤傪擖椡偟偨偄応崌偵偼丄塃懁偺僔僼僩僉乕傪巊梡偟
+側偗傟偽側傝傑偣傫丅偙傟偼埲壓偺傛偆偵偟傑偡:
 
-	a. 宝客汗し回はJから瓢かすことなく、井回をシフトキ〖の惧まで凯ば
-	   してそれを病します。
+        a. 塃恖嵎偟巜偼J偐傜摦偐偡偙偲側偔丄彫巜傪僔僼僩僉乕偺忋傑偱怢偽
+           偟偰偦傟傪墴偟傑偡丅
 
-	b. 焊缄で誊弄のキ〖を病します。
+        b. 嵍庤偱栚揑偺僉乕傪墴偟傑偡丅
 
-	c. 宝井回を;キ〖の惧に燎玲く提します。\T
-回黎を斧ないように—\I
+        c. 塃彫巜傪;僉乕偺忋偵慺憗偔栠偟傑偡丅\T
+巜愭傪尒側偄傛偆偵両\I
 ;;; ;A; ;;; ;F; ;;; ;D; ;;; ;S;\D
 ;;; Dear ;;; Sir ;;;\D
 ;;; Fred ;;; Gail ;;; Alf ;;; Dale ;;;\D
 ;;; Ada ;;; Al ;;; Greg ;;;
 jjj Dr. jjj Sr. jjj Fr. jjj\D
-∈おかしな∷矢をいくつか。\I
+乮偍偐偟側乯暥傪偄偔偮偐丅\I
 Sir, idle disks seek flags.\D
 She sells seashells.
 Sailfish sail idle seas.
 She seeks a fig leaf.
 Red hair is like a fire.\D
-ピリオドの稿には撅に鄂球を２つ虑ちます。\I
+僺儕僆僪偺屻偵偼忢偵嬻敀傪俀偮懪偪傑偡丅\I
 A free red jade is fake.  Girls like silk.\D
 She seeks a safe reef, if she sails.  A gale is rare.
 Alf fed her egg salad.  Gail likes hash.\D
 *
 *T4*
-			     Lesson T4\B
-牲浆を词帽に:\I
+                             Lesson T4\B
+暅廗傪娙扨偵:\I
 jkl; fdsa ded fgf jhj k,k kik frf l.l\D
-O∈オ〖∷にはLの回を蝗います。\I
+O乮僆乕乯偵偼L偺巜傪巊偄傑偡丅\I
 lll lol lll ooo lll lol
 lll log lll rod lll for lll
 lll load lll roll lll oleo lll\D
-Pには≈;∽の回を蝗います。\I
+P偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;p; ;;; ppp ;;; ;p; ;;;\D
 ;;; pad ;;; peg ;;; ape ;;;
 ;;; poke ;;; pear ;;; peek ;;;
 ;;; opera ;;; hope ;;; drape ;;;\D
-			焊のシフトキ〖
+                        嵍偺僔僼僩僉乕
 
-宝缄娄にある矢机を络矢机にするには:
+塃庤懁偵偁傞暥帤傪戝暥帤偵偡傞偵偼:
 
-	1. Aの回を焊シフトキ〖の惧に败瓢させて病します。
+        1. A偺巜傪嵍僔僼僩僉乕偺忋偵堏摦偝偣偰墴偟傑偡丅
 
-	2. 宝缄で誊弄のキ〖を病します。
+        2. 塃庤偱栚揑偺僉乕傪墴偟傑偡丅
 
-	3. Aの回は燎玲くホ〖ムポジションに提します。\T
-まず词帽な锡浆から:\I
+        3. A偺巜偼慺憗偔儂乕儉億僕僔儑儞偵栠偟傑偡丅\T
+傑偢娙扨側楙廗偐傜:\I
 aaa Pi aaa Lord aaa Jill aaa\D
-宝缄娄にある矢机を络矢机にしてみましょう:\I
+塃庤懁偵偁傞暥帤傪戝暥帤偵偟偰傒傑偟傚偆:\I
 Joe Kip Leif Peg Olaf Ira Heidi\D
-焊缄娄の矢机を络矢机にするには、宝のシフトキ〖を蝗いましょう:\I
+嵍庤懁偺暥帤傪戝暥帤偵偡傞偵偼丄塃偺僔僼僩僉乕傪巊偄傑偟傚偆:\I
 a;a P.S. a;a I.R.S. a;a\D
-≈?∽には≈;∽の回を蝗います。\I
+乽?乿偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;?; ;;; ??? ;;; ;?; ;;;\D
 ;;; He? ;;; She? ;;; I? ;;;\D
-矢をタイプしてみましょう。\I
+暥傪僞僀僾偟偰傒傑偟傚偆丅\I
 Dad fell off a ladder.  Is he safe?\D
-≈?∽の稿には、撅に２つの鄂球を弥きます。\I
+乽?乿偺屻偵偼丄忢偵俀偮偺嬻敀傪抲偒傑偡丅\I
 Is he here?  Sal said he fell hard.\D
 Did she see his fall?  Jake heard he is OK.
 I hope people keep off high ladders.\D
 *
 *T5*
-			     Lesson T5\B
-いつものように、まず牲浆から:\I
+                             Lesson T5\B
+偄偮傕偺傛偆偵丄傑偢暅廗偐傜:\I
 ade fgh ijk lop rs; ?.,\D
-もう办刨。\I
-ade fgh ijk lop rs; ?.,\D
-TにはFの回を蝗います。\I
+傕偆堦搙丅\I
+fhg aed ikj r;s .?, lpo\D
+T偵偼F偺巜傪巊偄傑偡丅\I
 fff ftf fff ttt fff ftf fff\D
 ftf the ftf top ftf ate ftf
 ftf three ftf often ftf there\D
 The talk is that those three are threatening her.\D
-NにはJの回を蝗います。\I
+N偵偼J偺巜傪巊偄傑偡丅\I
 jjj jnj jjj nnn jjj jnj jjj\D
 jnj not jnj ton jnj one jnj
 jnj neither jnj opening jnj kneeling jnj
 No one has an interest in it.\D
-コロン≈:∽は≈;∽の疤弥∈あるいは钨∷にあります。
-いずれにせよ、宝の井回でタイプします。\I
+僐儘儞乽:乿偼乽;乿偺埵抲乮偁傞偄偼椬乯偵偁傝傑偡丅
+偄偢傟偵偣傛丄塃偺彫巜偱僞僀僾偟傑偡丅\I
 ;;; ;:; ;;; ::: ;;; ;:; ;;;\D
-コロンの稿には撅に２つの鄂球を弥きます。\I
+僐儘儞偺屻偵偼忢偵俀偮偺嬻敀傪抲偒傑偡丅\I
 Dear Sirs:  Dear John:  Dear Alfred:\D
 Dear Dr. Stone:  To Heathkit:\D
-			スピ〖ド锡浆
+                        僗僺乕僪楙廗
 
-これから、レッスンの面にスピ〖ド锡浆を寒ぜることにします。これまでの锡浆
-では、赖しくタイプできるまで帆り手し掐蜗させていましたが、スピ〖ド锡浆で
-は、テキストを办刨山绩するだけにします。
+偙傟偐傜丄儗僢僗儞偺拞偵僗僺乕僪楙廗傪崿偤傞偙偲偵偟傑偡丅偙傟傑偱偺楙廗
+偱偼丄惓偟偔僞僀僾偱偒傞傑偱孞傝曉偟擖椡偝偣偰偄傑偟偨偑丄僗僺乕僪楙廗偱
+偼丄僥僉僗僩傪堦搙昞帵偡傞偩偗偵偟傑偡丅
 
-部が般うかというと、箕粗の纷卢をする爬が佰なります。乖の呵介の矢机をタイ
-プしてから呵稿の猖乖を虑つまでの箕粗が纷卢されます。タイプし姜わったら、
-髓尸に掐蜗できる帽胳眶(胳/尸:WPM)という妨で掐蜗スピ〖ドが纷换されます。
-また、疙りの眶も眶えて、另眶を山绩します。
+僞僀僾娫堘偄傪偟偨帪偵偼丄壒傪弌偟丄岆偭偨晹暘傪嫮挷昞帵偟傑偡丅偳傫偳傫
+懪偪懕偗偰丄偱偒傞偩偗娫堘偄偑彮側偔側傞傛偆偵婃挘偭偰壓偝偄丅傛偔娫堘偊
+傞偺偼偳偺僉乕偱偟傚偆偐丅
 
-タイプ粗般いをした箕には、不を叫し、疙った婶尸を动拇山绩します。どんどん
-虑ち鲁けて、できるだけ粗般いが警なくなるように磋磨って布さい。\T
-この矢をタイプしてみましょう:\I
+晛捠偺僾儘僌儔儉偲摨條偵丄僗僺乕僪楙廗偺帪偵偼丄僶僢僋僗儁乕僗丄偁傞偄偼
+Delete僉乕傪巊偭偰丄懪偪娫堘偊偨暥帤傪掶惓偱偒傑偡丅偨偩偟丄僄儔乕偺儅乕
+僋偼徚偊傑偡偑丄僄儔乕偲偟偰偼僇僂儞僩偝傟傑偡丅
+僗僺乕僪楙廗偺娫偼丄偙傟傜偺僉乕傪巊傢側偄傛偆偵偡傋偒偩偲巚偄傑偡丅惓偟
+偔僞僀僾偱偒傞傑偱孞傝曉偟楙廗偡傞傋偒側偺偱偡丅
+
+僶僢僋僗儁乕僗傗 Delete僉乕傪巊偆応崌偼丄乽;乿偺巜傪巊偭偰懪偪丄偡偖偵
+儂乕儉億僕僔儑儞偵栠傞傛偆偵偟傑偡丅\T
+偙偺暥傪僞僀僾偟偰傒傑偟傚偆:\I
 Sarah has liked knitting all her life.\P
-警し墓い矢に末里:\I
+彮偟挿偄暥偵挧愴:\I
 She looked past her garden to the fields and longed to see the other side.\P
-剩眶の乖にまたがる矢の掐蜗では、それぞれの乖琐で猖乖(Return)を虑ちます。\I
+暋悢偺峴偵傑偨偑傞暥偱偼丄偦傟偧傟偺峴枛偱夵峴(Return)傪懪偪傑偡丅\I
 All the sane people in this area sold their gold
 right at the start.  The insane ones held their
 gold and later it paid off.\P
@@ -278,70 +278,71 @@ people prepared roasts.  His jester did a jig.
 All the people left hoping to do it again.\P
 *
 *T6*
-			     Lesson T6\B
-これまでに池んだ矢机の牲浆です。\I
+                             Lesson T6\B
+偙傟傑偱偵妛傫偩暥帤偺暅廗偱偡丅\I
 jkj fdf jlj fsf j;j faf kik ded frf\D
 fgf jhj k,k l.l A;A F;F E;E
 lol ;p; JaJ :a: ftf jnj ;:;
 jug ton knot poison the neither often\D
-BにはFの回を蝗います。\I
+B偵偼F偺巜傪巊偄傑偡丅\I
 fff fbf fff bbb fff fbf fff\D
-Bのキ〖はこれまでの面で办戎斌くにあります。もう办刨。\I
+B偺僉乕偼偙傟傑偱偺拞偱堦斣墦偔偵偁傝傑偡丅傕偆堦搙丅\I
 fff fbf fff bbb fff fbf fff
 frf bar frf rib frf pub frf
 frf bring frf abort frf brother frf\D
-UにはJの回を蝗います。\I
+U偵偼J偺巜傪巊偄傑偡丅\I
 jjj juj jjj uuu jjj juj jjj\D
 juj jug juj use juj hug juj
 juj tulip juj turn juj under juj
 Please pass the butter and salt, but not the pepper.\D
-≈/∽には≈;∽の回を蝗います。\I
+乽/乿偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;/; ;;; /// ;;; ;/; ;;;\D
-;/; n/a ;/; and/or ;/; left/right
+;/; n/a ;/; and/or ;/; left/right\D
 In this era of E.R.A., I hope he/she likes his/her job.
-He/she should bring his/her spouse at about noon or just before.
-Should I be here alone?  Is Bernie and/or Julie going to be here, too?\D
-肌のパラグラフで、あなたのスピ〖ドをチェックしましょう。\I
+He/she should bring his/her spouse at about noon or
+just before.  Should I be here alone?  Is Bernie and/or
+Julie going to be here, too?\D
+師偺僷儔僌儔僼偱丄偁側偨偺僗僺乕僪傪僠僃僢僋偟傑偟傚偆丅\I
 All bills are to be paid in full.  If
 there is no fee to be paid, return the
 bill and put n/a in the total due part.\P
-15(胳/尸)を誊回しましょう。茫喇できたら、赖澄さも看がけましょう。\I
+15(岅/暘)傪栚巜偟傑偟傚偆丅払惉偱偒偨傜丄惓妋偝傕怱偑偗傑偟傚偆丅\I
 In baseball, bunting is a kind of hit.  But, bunting also
 refers to a kind of bird and the stuff that is used in
 flags.  English sure is a strange language.\P
 *
 *T7*
-			     Lesson T7\B
-まず、これまでに池んだ矢机の牲浆です。\I
+                             Lesson T7\B
+傑偢丄偙傟傑偱偵妛傫偩暥帤偺暅廗偱偡丅\I
 juj ded kik frf lol fgf ;p; jhj\D
 ftf jnj ftf jnj fbf juj ;?; l.l k,k\D
-CにはDの回を蝗います。\I
+C偵偼D偺巜傪巊偄傑偡丅\I
 ddd dcd ddd ccc ddd dcd\D
 ddd cat ddd cup ddd can
 dcd duck dcd card dcd pack dcd
 dcd crate dcd scrap dcd trick dcd\D
-MにはJの回を蝗います。\I
+M偵偼J偺巜傪巊偄傑偡丅\I
 jjj jmj jjj mmm jjj jmj jjj\D
 jjj met jjj rim jjj map jjj
 jmj man jmj men jmj ham jjj
 jmj Mr. jmj Mrs. jmj Ms. jmj
 jmj number jmj stream jmj mankind jmj\D
-ハイフン≈-∽には≈;∽の回を蝗います。\I
+僴僀僼儞乽-乿偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;-; ;;; --- ;;; ;-; ;;; ;-;\D
 ;;; one-third ;;; one-half ;;; three-fifths ;;;
 ;;; part-time ;;; self-made ;;; all-American ;;;\D
-いくつかの矢をタイプしてみましょう:\I
+偄偔偮偐偺暥傪僞僀僾偟偰傒傑偟傚偆:\I
 Peter Piper picked a peck of pickled peppers.\D
 Motion pictures often depict macabre scenes.\D
 Once upon a time, marriages lasted longer than mortgages.\D
-ハイフンには３つの蝗い数があります。まず、(1)帽胳の冯圭です:\I
+僴僀僼儞偵偼俁偮偺巊偄曽偑偁傝傑偡丅傑偢丄(1)扨岅偺寢崌偱偡:\I
 She had on a bluish-green dress.  But, no one noticed.\D
-(2)帽胳の尸充∈ハイフネ〖ション∷:\I
+(2)扨岅偺暘妱乮僴僀僼僱乕僔儑儞乯:\I
 At macrame class last night, I made a hanging basket for the philo-
 dendron in our dining room.\P
-(3)ダッシュ≈--∽の侯喇:\I
+(3)僟僢僔儏乽--乿偺嶌惉:\I
 Fifteen dollars a month--measured in current dollars--is a good rate.\D
-笆布の矢でスピ〖ド锡浆をしましょう:\I
+埲壓偺暥偱僗僺乕僪楙廗傪偟傑偟傚偆:\I
 The clock ran out, signaling the end of
 the second-half.  The game had been lost.\P
 \I
@@ -354,7 +355,7 @@ special kind of bacteria that
 consumes crude oil.  The talk is
 that it is being patented for use
 on oil spills at sea.\P
-鄂球乖には、猖乖を２搀虑って布さい:\I
+嬻敀峴偱偼丄夵峴偩偗傪懪偭偰壓偝偄:\I
 Dear Mr. Mandrake:
 
 All of us appreciated the fine performance of those magic
@@ -366,54 +367,55 @@ Thanks,
 Mrs. Carmichael\P
 *
 *T8*
-			     Lesson T8\B
-いつものように、词帽な牲浆から:\I
+                             Lesson T8\B
+偄偮傕偺傛偆偵丄娙扨側暅廗偐傜:\I
 jfj dkd lsl a;a dcd jmj ;-; fbf juj\D
-墓めの帽胳をタイプしてみましょう:\I
+挿傔偺扨岅傪僞僀僾偟偰傒傑偟傚偆:\I
 meteorology camera bituminous chimera phosphates\D
-WにはSの回を蝗います。\I
+W偵偼S偺巜傪巊偄傑偡丅\I
 sss sws sss www sss sws sss\D
 sss wet sss who sss was sss
 sws who sws what sws when sws where sws
-knowledge whatever Wimbleton know-it-all\D
+knowledge whatever Wimbledon know-it-all\D
 How much wood could a woodchuck chuck if a
 woodchuck could chuck wood?  A woodchuck
 would chuck all the wood that a woodchuck
 could chuck, if a woodchuck could chuck wood.\P
-YにはJの回を蝗います。\I
+Y偵偼J偺巜傪巊偄傑偡丅\I
 jjj jyj jjj yyy jjj jyj jjj\D
 jjj why jjj you jjj try jjj rye jjj
 jjj year jjj July jjj your jjj jury jjj
 Were your yard sales much better last year?\D
-スピ〖ドのチェック:\I
+僗僺乕僪偺僠僃僢僋:\I
 Why are you typing so slowly?\P
-VにはFの回を蝗います。\I
+V偵偼F偺巜傪巊偄傑偡丅\I
 fff fvf fff vvv fff fvf fff\D
 fff vat fff eve fff vow fff
 fvf vine fvf dove fvf ever fvf very fvf\D
-driven verticle advent ventrical
+driven vertical advent ventrical
 What a fine vineyard you have.
 Do you intend to play adventure every night?\D
-			バックスペ〖ス】Deleteキ〖
+                        僶僢僋僗儁乕僗乛Delete僉乕
 
-ほとんどのプログラムでは、粗般った掐蜗はバックスペ〖ス、あるいは Deleteキ〖
-で饯赖できます。これらのキ〖はたいてい、木涟に虑った矢机を久殿します。
+傎偲傫偳偺僾儘僌儔儉偱偼丄娫堘偭偨擖椡偼僶僢僋僗儁乕僗丄偁傞偄偼 Delete僉乕
+偱廋惓偱偒傑偡丅偙傟傜偺僉乕偼偨偄偰偄丄捈慜偵懪偭偨暥帤傪徚嫀偟傑偡丅
 
-このレッスンの粗は、これらのキ〖を蝗わないようにすべきだと蛔います。赖しく
-タイプできるまで帆り手し锡浆するべきなのです。
-しかし、スピ〖ド锡浆の箕には、これらのキ〖を蝗う祸もできるようにはしてあり
-ます。∈エラ〖のマ〖クは久えますが、Deleteもエラ〖に崔めてカウントします∷
+偙偺儗僢僗儞偺娫偼丄偙傟傜偺僉乕傪巊傢側偄傛偆偵偡傋偒偩偲巚偄傑偡丅惓偟偔
+僞僀僾偱偒傞傑偱孞傝曉偟楙廗偡傞傋偒側偺偱偡丅
+偟偐偟丄僗僺乕僪楙廗偺帪偵偼丄偙傟傜偺僉乕傪巊偆帠傕偱偒傞傛偆偵偼偟偰偁傝
+傑偡丅乮僄儔乕偺儅乕僋偼徚偊傑偡偑丄Delete傕僄儔乕偵娷傔偰僇僂儞僩偟傑偡乯
 
-もし、バックスペ〖スや Deleteキ〖を蝗う眷圭は、≈;∽の回を蝗って虑ち、すぐ
-にホ〖ムポジションに提るようにします。\T
-聘拓を蝗ってスピ〖ド锡浆—\I
+傕偟丄僶僢僋僗儁乕僗傗 Delete僉乕傪巊偆応崌偼丄乽;乿偺巜傪巊偭偰懪偪丄偡偖
+偵儂乕儉億僕僔儑儞偵栠傞傛偆偵偟傑偡丅\T
+摱梬傪巊偭偰僗僺乕僪楙廗両\I
 Mary had a little lamb
 Its fleece was white as snow
 And every where that Mary went
 The lamb was sure to go.\P
 \I
 Jack and Jill went up a hill to fetch a pail of water.
-Jack fell down and broke his crown and Jill came tumbling after.\P
+Jack fell down and broke his crown and Jill came
+tumbling after.\P
 \I
 Little Miss Muffet sat on a tuffet
 Eating her curds and whey.
@@ -428,124 +430,123 @@ The little dog laughed to see such sport,
 And the dish ran away with the spoon.\P
 *
 *T9*
-			     Lesson T9\B
-まず牲浆:\I
+                             Lesson T9\B
+傑偢暅廗:\I
 a;a sls dkd fjf sws jyj fvf dcd jmj ;-;\D
-まだ锡浆していない矢机は Q, X, Z だけになりました—\I
+傑偩楙廗偟偰偄側偄暥帤偼 Q, X, Z 偩偗偵側傝傑偟偨両\I
 abcdefghijklmnoprstuvwy\D
-QにはAの回を蝗います。\I
+Q偵偼A偺巜傪巊偄傑偡丅\I
 aaa aqa aaa qqq aaa aqa aaa\D
 aaa quit aaa quad aaa quip aaa
 lacquer inquiry squirt quart
 quail quiver inquest marquis\D
-XにはSの回を蝗います。\I
+X偵偼S偺巜傪巊偄傑偡丅\I
 sss sxs sss xxx sss sxs sss\D
 sss ax sss ox sss vex sss wax xxx
 examine ex-wife excellent boxer sixteen
 exactly sphinx oxygen except thorax\D
-ZにはAの回を蝗います。\I
+Z偵偼A偺巜傪巊偄傑偡丅\I
 aaa aza aaa zzz aaa aza aaa\D
 aaa adz aaa azo aaa coz aaa
 quiz jazz quartz zinc dozen
 oxidize squeeze azimuth zoology\D
-これはどうだ!!!!!!!!!!!!!!!!!!\I
+偙傟偼偳偆偩!!!!!!!!!!!!!!!!!!\I
 abcdefghijklmnopqrstuvwxyz\D
 zyxwvutsrqponmlkjihgfedcba\D
-矢をタイプしよう:\I
+暥傪僞僀僾偟傛偆:\I
 A dozen zebras were grazing quietly nearby.\D
 The zeppelin zigzagged quickly from the horizon up to the zenith.\D
-Never trust a quack doctor who cannot distinquish oxygen from nitrogen.\D
+Never trust a quack doctor who cannot distinguish oxygen from nitrogen.\D
 Imagine having a sextet of sexagenarian sextons?\D
 Remember when queer used to mean zany?
 Quartz crystal watches were at one time extremely expensive.\D
-アルファベットの链婶の矢机が崔まれている矢です。\I
+傾儖僼傽儀僢僩偺慡晹偺暥帤偑娷傑傟偰偄傞暥偱偡丅\I
 A quick brown fox jumped over the lazy dogs.\D
-もう办刨。\I
-A quick brown fox jumped over the lazy dogs.\D
-どのくらい玲く虑てるかな:\I
-A quick brown fox jumped over the lazy dogs.\P
-もう办刨。\I
+偳偺偔傜偄憗偔懪偰傞偐側:\I
 A quick brown fox jumped over the lazy dogs.\P
 *
 *T10*
-			     Lesson T10\B
-眶机キ〖の锡浆の涟に、アルファベット链婶のおさらいです。\I
+                             Lesson T10\B
+悢帤僉乕偺楙廗偺慜偵丄傾儖僼傽儀僢僩慡晹偺偍偝傜偄偱偡丅\I
 abcd efg hijk lmnop qrs tuv wx yz\D
-もう办刨。\I
+傕偆堦搙丅\I
 abcdefghijklmnopqrstuvwxyz\D
-それぞれにシフトキ〖を蝗って布さい(CAPS-LOCKはダメ):\I
+偦傟偧傟偵僔僼僩僉乕傪巊偭偰壓偝偄(CAPS-LOCK偼僟儊):\I
 ABCDEFGHIJKLMNOPQRSTUVWXYZ\D
-では、剁粕爬のおさらい:\I
+偱偼丄嬪撉揰偺偍偝傜偄:\I
 l;l l:l k,k l.l ;/; ;?; :?: ;-;\D
 
-			眶机キ〖
+                        悢帤僉乕
 
-眉琐には２硷梧の眶机キ〖があります。１つはタイプライタキ〖ボ〖ドの办婶と
-して、アルファベットのキ〖のすぐ惧にあるもの。もうひとつはキ〖ボ〖ドの宝
-の、いわゆるテンキ〖∈排骂キ〖∷です。
-このコ〖スでは、テンキ〖でなく、キ〖ボ〖ドの惧办误の眶机キ〖だけを胺うこ
-とにします。
-∈テンキ〖のタッチタイプを锡浆するには、Nコ〖スを联买して布さい。ただし、
-すべてのキ〖ボ〖ドにテンキ〖が烧いているわけではありません。∷
+抂枛偵偼俀庬椶偺悢帤僉乕偑偁傝傑偡丅侾偮偼僞僀僾儔僀僞僉乕儃乕僪偺堦晹偲
+偟偰丄傾儖僼傽儀僢僩偺僉乕偺偡偖忋偵偁傞傕偺丅傕偆傂偲偮偼僉乕儃乕僪偺塃
+偺丄偄傢備傞僥儞僉乕乮揹戩僉乕乯偱偡丅
+偙偺僐乕僗偱偼丄僥儞僉乕偱側偔丄僉乕儃乕僪偺忋堦楍偺悢帤僉乕偩偗傪埖偆偙
+偲偵偟傑偡丅
+乮僥儞僉乕偺僞僢僠僞僀僾傪楙廗偡傞偵偼丄N僐乕僗傪慖戰偟偰壓偝偄丅偨偩偟丄
+偡傋偰偺僉乕儃乕僪偵僥儞僉乕偑晅偄偰偄傞傢偗偱偼偁傝傑偣傫丅乯
 
-怠硷によっては泼侍な芹误のものもありますが、ここでは qwert...の惧に
-1234567890が办误に事んでいるものを雇えます。\T
-1からはじめよう—∈Aの回を蝗います∷\I
+婡庬偵傛偭偰偼摿暿側攝楍偺傕偺傕偁傝傑偡偑丄偙偙偱偼 qwert...偺忋偵
+1234567890偑堦楍偵暲傫偱偄傞傕偺傪峫偊傑偡丅\T
+1偐傜偼偠傔傛偆両乮A偺巜傪巊偄傑偡乯\I
 aaa a1a aaa 111 aaa a1a\D
 a1q qa1 qz1 az1 aq1 a1z
 111 and 111 ate 111 any 111
 If 11 men each catch 11 fish in 11 days, how many fish were caught?\D
-2にはSの回を蝗います。\I
+2偵偼S偺巜傪巊偄傑偡丅\I
 sss s2s sss s2s sss s2s\D
 sss s2w sss 2xw sss w2x sss
 222 saw 222 was 222 wet 222
 The 2 men were 2 late 2 catch the 2 PM train.\D
-3にはDの回を蝗います。\I
+3偵偼D偺巜傪巊偄傑偡丅\I
 ddd d3d ddd d3d ddd d3d ddd\D
 ddd d3e ddd d3c ddd e3c ddd
 333 did 333 cat 333 eat 333
 1 plus 2 is 3.  11 plus 22 is 33.  111 plus 222 is 333.\D
-このレッスン呵稿の眶机、4にはFの回を蝗います。\I
+偙偺儗僢僗儞嵟屻偺悢帤丄4偵偼F偺巜傪巊偄傑偡丅\I
 fff f4f fff f4f fff f4f\D
 fff f4r fff 4vr fff 4vr fff
 444 for fff rat 444 vet 444
 Flight 423 leaves from gate 42 at 4:24.
 As the 3 musketeers say: 1 4 all, and all 4 1.
 If 1/4 plus 2/3 is 11/12, what is 1/2 plus 1/3?\D
-タイプスピ〖ドは?\I
+僞僀僾僗僺乕僪偼?\I
 Our team won 1st, 2nd, and 3rd place at the 12th annual outing.\P
 *
 *T11*
-			     Lesson T11\B
-ここまでで池んだ眶机の牲浆:\I
+                             Lesson T11\B
+偙偙傑偱偱妛傫偩悢帤偺暅廗:\I
 a1a s2s d3d f4f 234 413\D
 f4r d3e s2w a1q az1 sx2 dc3 fv4\D
-7にはJの回を蝗います。\I
+7偵偼J偺巜傪巊偄傑偡丅\I
 jjj j7j jjj j7j jjj j7j jjj\D
 jjj j7u jjj 7um jjj u7m jjj
 777 map 777 jug 777 rum 777
 Is flight number 377 for Florida a 707, a 727 or a 747?
-It is a 727 with 4 stops.  With all those stops it takes almost 7 hours.\D
-8にはKの回を蝗います。\I
+It is a 727 with 4 stops.  With all those stops it takes
+almost 7 hours.\D
+8偵偼K偺巜傪巊偄傑偡丅\I
 kkk k8k kkk k8k kkk k8k kkk\D
 kkk k8i kkk 8,i kkk ,i8 kkk
 888 kick 888 sink 888 keep 888
-Agent 88 was supposed to check in at 8:14.  She is 38 minutes late.
-Her team was assigned to zone 8 of quadrant 828.  Send 8 more agents.\D
-9にはLの回を蝗います。\I
+Agent 88 was supposed to check in at 8:14.  She is 38 minutes
+late.  Her team was assigned to zone 8 of quadrant 828.  Send
+8 more agents.\D
+9偵偼L偺巜傪巊偄傑偡丅\I
 lll l9l lll l9l lll l9l lll\D
 lll 9.o lll o9. lll l9. lll
 999 Jr. 999 log 999 old 999
 Oh, 99 bottles of beer on the wall, 99 bottles of beer.
 If 9 of us take 9 each, there will still be 18 left for the song.\D
-0には≈;∽の回を蝗います。\I
+0偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;0; ;;; ;0; ;;; ;0; ;;;\D
 ;;; ;0p ;;; /0p ;;; 0/p ;;;
 000 a/c 000 pup 000 me? 000
-Dear Sirs:  The 10:00 meeting on March 10 has been postponed until 10:30.
-The 10:30 meeting was moved to 11:00 in Room 302.
-But, Room 302 can only hold 10 people.  We will need Conference Room 10.\D
-パラグラフをタイプしてみましょう。\I
+Dear Sirs:  The 10:00 meeting on March 10 has been postponed
+until 10:30.  The 10:30 meeting was moved to 11:00 in Room 302.
+But, Room 302 can only hold 10 people.  We will need Conference
+Room 10.\D
+僷儔僌儔僼傪僞僀僾偟偰傒傑偟傚偆丅\I
 Zip codes are arranged so that the first 3 digits
 designate the regional office and the last 2
 digits designate the local branch.  The numbering
@@ -565,36 +566,69 @@ poorly designed.  Those unstructured programs
 will be very difficult to change.\P
 *
 *T12*
-			     Lesson T12\B
-これまでの牲浆です。\I
+                             Lesson T12\B
+                        僉乕儃乕僪偺愝掕
+
+僉乕儃乕僪偵偼偄偔偮偐偺庬椶偑偁傝傑偡偑丄Typist 偼偦偺偆偪丄塸岅寳偱
+堦斒揑側 101僉乕儃乕僪偲丄擔杮岅梡偺 JIS106 僉乕儃乕僪偵懳墳偟偰偄傑偡丅
+
+#if e
+尰嵼丄101僉乕儃乕僪偺愝掕偱摦嶌偟偰偄傑偡丅
+
+偙偺僉乕儃乕僪偱偼丄夵峴僉乕偺嬤偔偵 '[' 偲 ']' 偑椬傝崌偭偰攝抲偝傟丄悢
+帤偺 '2' 偲僔僼僩僉乕偱 '@' 偑擖椡偱偒傞偼偢偱偡丅
+#else
+尰嵼丄106僉乕儃乕僪偺愝掕偱摦嶌偟偰偄傑偡丅
+
+偙偺僉乕儃乕僪偱偼丄夵峴僉乕偺嬤偔偵 '[' 偲 ']' 偑廲偵暲傫偱攝抲偝傟丄悢
+帤偺 '2' 偲僔僼僩僉乕偱 '"' 偑擖椡偱偒傞偼偢偱偡丅
+#endif
+偦偆偱側偄応崌丄僉乕儃乕僪偺僞僀僾傪 -k 僆僾僔儑儞偱巜掕偟偰丄 Typist傪
+婲摦偟捈偡昁梫偑偁傝傑偡丅
+
+丂丂丂丂-kj     106僉乕儃乕僪乮JIS偵弨嫆乯
+丂丂丂丂-ke     101僉乕儃乕僪乮庡偵崙奜儊乕僇乯
+
+#if j
+椺偊偽丄101僉乕儃乕僪偺愝掕偵偡傞偵偼丄師偺傛偆側僐儅儞僪偱婲摦偟傑偡丅
+	typist -ke
+#else
+椺偊偽丄106僉乕儃乕僪偺愝掕偵偡傞偵偼丄師偺傛偆側僐儅儞僪偱婲摦偟傑偡丅
+	typist -kj
+#endif
+偙偺愝掕偼堦夞峴偊偽丄愝掕梡僼傽僀儖偵婰榐偝傟傑偡偺偱丄師夞偐傜偼巜掕偡
+傞昁梫偼偁傝傑偣傫丅
+
+崱偡偖 Typist 傪廔椆偟偨偄応崌偵偼丄Control-C 傪擖椡偟偰壓偝偄丅\T
+偙傟傑偱偺暅廗偱偡丅\I
 j7j f4f k8k d3d l9l s2s ;0; a1a\D
 4f4 7j7 3d3 8k8 2s2 9l9 1a1 0;0\D
-5にはFのキ〖を蝗います。\I
+5偵偼F偺僉乕傪巊偄傑偡丅\I
 fff f5f fff 555 fff f5f fff\D
 f5f f54 f5f t5g f5f t5r f5f
 f5f five f5f two f5f four f5f
 f5f 453 f5f 585 f5f 475 f5f\D
 The 5 of us each carried 50 pound packs all 45 miles of the trip.\P
-办戎斌くへ回を凯ばすのがこれ。6にはJの回を蝗います。\I
+堦斣墦偔傊巜傪怢偽偡偺偑偙傟丅6偵偼J偺巜傪巊偄傑偡丅\I
 jjj j6j jjj 666 jjj j6j jjj\D
 j6j June j6j much j6j hum j6j
 j6j y6n j6j u6m j6j h76 j6j
 j6j 4567 j6j 7654 j6j 6754 j6j\D
 #if e
-焊崇柑≈(∽はシフトキ〖と9のキ〖です(9はLの回):\I
+嵍妵屖乽(乿偼僔僼僩僉乕偲9偺僉乕偱偡(9偼L偺巜):\I
 lll l(l lll ((( lll l(l lll\D
 l(l (.l l(l 9(9 l(l
 l(l loop l(l oil l(l only l(l\D
-宝崇柑≈)∽はシフトキ〖と0のキ〖です(0は;の回):\I
+塃妵屖乽)乿偼僔僼僩僉乕偲0偺僉乕偱偡(0偼;偺巜):\I
 ;;; ;); ;;; ;); ;;; ;);\D
 ;;; (.) ;;; (.) ;;; (,) ;;;
 ;); pole ;); loop ;); pile ;);\D
 #else
-焊崇柑≈(∽はシフトキ〖と8のキ〖です(8はKの回):\I
+嵍妵屖乽(乿偼僔僼僩僉乕偲8偺僉乕偱偡(8偼K偺巜):\I
 kkk k(k kkk ((( kkk k(k kkk\D
 k(k (,k k(k 8(8 k(k
 k(k kilo k(k kill k(k monkey k(k\D
-宝崇柑≈)∽はシフトキ〖と9のキ〖です(9はLの回):\I
+塃妵屖乽)乿偼僔僼僩僉乕偲9偺僉乕偱偡(9偼L偺巜):\I
 lll l)l lll l)l lll l)l\D
 lll (.) lll (.) lll (,) lll
 l)l pole l)l loop l)l pile l)l\D
@@ -602,7 +636,7 @@ l)l pole l)l loop l)l pile l)l\D
 You (the buyer) should ask him (the seller) for the price (of the goods).\D
 If (X-5) / (X-6) is 56, then what is (X/5) - (X/6)?\D
 1 2 3 4 5 6 7 8 9 10\D
-この参でスピ〖ドのチェック:\I
+偙偺壧偱僗僺乕僪偺僠僃僢僋:\I
 1 little, 2 little, 3 little Indians,
 4 little, 5 little, 6 little Indians,
 7 little, 8 little, 9 little Indians,
@@ -612,14 +646,14 @@ If we want to catch the 6:15 flight to Phoenix (which is the
 non-stop), we will have to leave by 5:00 at the latest (in
 case we run into traffic).  Otherwise, we will have to take
 the 6:45 flight (which makes 5 stops).\P
-この锡浆ではテンキ〖は蝗わないこと—\B
-肌の眶机误をタイプしてみましょう。\I
+偙偺楙廗偱偼僥儞僉乕偼巊傢側偄偙偲両\B
+師偺悢帤楍傪僞僀僾偟偰傒傑偟傚偆丅\I
 423 475 925 235 295 175 650\D
 598 693 602 672 315 604 587 307\D
 12.00 67.50 99.95 38.75 19.99\D
-タイプスピ〖ドは?\I
+僞僀僾僗僺乕僪偼?\I
 353 648 604 592 468 501 296\P
-タイプスピ〖ドは?\I
+僞僀僾僗僺乕僪偼?\I
 3574
 1937
 2586
@@ -630,98 +664,100 @@ the 6:45 flight (which makes 5 stops).\P
 6745\P
 *
 *T13*
-			     Lesson T13
+                             Lesson T13
 
-レッスン13というのはありません。13が稍等な眶机、というのは梦っています々
+儗僢僗儞13偲偄偆偺偼偁傝傑偣傫丅13偑晄媑側悢帤丄偲偄偆偺偼抦偭偰偄傑偡丠
 
-レッスンT1からT12まで姜位したら、あなたはもう惟巧な≈タッチタイピスト∽
-です。筛洁步されているすべてのキ〖を池んだことになります。
-さらに嫌を惧げるために、スピ〖ドˇドリル∈Sコ〖ス∷に末里するのも紊いで
-しょう。∈まだ池んでいない淡规に叫柴ったら、帽姐に誊でそれを淋せば紊い
-でしょう。宝井回をシフトキ〖にのせ、焊の努碰な回で眶机キ〖の惧の淡规を
-掐蜗するのです。∷
+儗僢僗儞T1偐傜T12傑偱廔椆偟偨傜丄偁側偨偼傕偆棫攈側乽僞僢僠僞僀僺僗僩乿
+偱偡丅昗弨壔偝傟偰偄傞偡傋偰偺僉乕傪妛傫偩偙偲偵側傝傑偡丅
+偝傜偵榬傪忋偘傞偨傔偵丄僗僺乕僪丒僪儕儖乮S僐乕僗乯偵挧愴偡傞偺傕椙偄偱
+偟傚偆丅乮傑偩妛傫偱偄側偄婰崋偵弌夛偭偨傜丄扨弮偵栚偱偦傟傪憑偣偽椙偄
+偱偟傚偆丅塃彫巜傪僔僼僩僉乕偵偺偣丄嵍偺揔摉側巜偱悢帤僉乕偺忋偺婰崋傪
+擖椡偡傞偺偱偡丅乯
 
-では、キ〖ボ〖ドの惧の荒された矢机のレッスンに败りましょう。
+偱偼丄僉乕儃乕僪偺忋偺巆偝傟偨暥帤偺儗僢僗儞偵堏傝傑偟傚偆丅
 #if e
-ただし、笆布では 101キ〖ボ〖ドに洁凋して棱汤します。\T
+偨偩偟丄埲壓偱偼 101僉乕儃乕僪偵弨嫆偟偰愢柧偟傑偡丅\T
 #else
-ただし、笆布では 106キ〖ボ〖ドに洁凋して棱汤します。\T
+偨偩偟丄埲壓偱偼 106僉乕儃乕僪偵弨嫆偟偰愢柧偟傑偡丅\T
 #endif
 *
 *T14*
-			    Lesson T14\B
+                            Lesson T14\B
 #if e
-アポストロフィ≈'∽(苞脱射)には≈;∽の回を蝗います。\I
+傾億僗僩儘僼傿乽'乿(堷梡晞)偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;'; ;;; ''' ;;; ;'; ;;;\D
 ;'; it's ;'; 'till ;'; won't ;';
 ;'; 'tis ;'; isn't ;'; 'tis too ;';\D
 #else
-アポストロフィ≈'∽(苞脱射)には≈J∽の回を蝗います。\I
+傾億僗僩儘僼傿乽'乿(堷梡晞)偵偼乽J乿偺巜傪巊偄傑偡丅\I
 juj j'j juj ''' u7u u'u jjj\D
 j'j it's '7' 'till j'j won't j'j
 u'u 'tis u'u isn't '77 'tis too j'j\D
 #endif
-What's this I've got?  Isn't this yesterday's paper?  Where's today's?
-Can't you find anything?  It's right next to Dad's chair.\D
+What's this I've got?  Isn't this yesterday's paper?
+Where's today's?  Can't you find anything?
+It's right next to Dad's chair.\D
 #if e
-ダブルクォ〖ト≈"∽(企脚苞脱射)はシフトキ〖と≈'∽で虑ちます。\I
+僟僽儖僋僅乕僩乽"乿(擇廳堷梡晞)偼僔僼僩僉乕偲乽'乿偱懪偪傑偡丅\I
 ;;; ;"; ;;; """ ;;; ;"; ;;;\D
 ;"; "." ;"; ":" ;"; "," ;";
 #else
-ダブルクォ〖ト≈"∽(企脚苞脱射)はシフトキ〖と≈2∽で虑ちます。\I
+僟僽儖僋僅乕僩乽"乿(擇廳堷梡晞)偼僔僼僩僉乕偲乽2乿偱懪偪傑偡丅\I
 sss s"s sws "2" sws "s" sss\D
 s"s "w" "S" "x" sxs "x" s"s\D
 #endif
 "What was that I saw you take from the teacher desk?" asked Tom.
 "It's the answers to tomorrow's quiz", answered Suzy.
 "If you promise not to tell," she continued, "I'll give you a copy."\D
-炊貌射≈!∽(エクスクラメ〖ション)はAの回を蝗います。\I
+姶扱晞乽!乿(僄僋僗僋儔儊乕僔儑儞)偼A偺巜傪巊偄傑偡丅\I
 aaa a!a aaa !!! aaa a!a aaa\D
 a!a Ah! a!a What! a!a Oh! a!a\D
-炊貌射の稿には撅に２つの鄂球を弥きます。\I
+姶扱晞偺屻偵偼忢偵俀偮偺嬻敀傪抲偒傑偡丅\I
 Tomorrow's quiz!  What if we get caught?  We'll be expelled!\D
-He'll never suspect a thing!  We'll get some answers wrong to fool him.\D
+He'll never suspect a thing!  We'll get some answers
+wrong to fool him.\D
 *
 *T15*
-			      Lesson T15
+                              Lesson T15
 
-このレッスンでは、プログラミング咐胳で涩妥となるような淡规を池びます。が、
-ここではあまり卖怀锡浆しなくてもいいでしょう。∈驴尸、プログラムの掐蜗で
-怀ほど锡浆できるでしょう...∷\T
-≈=∽には≈;∽の回を蝗います。\I
+偙偺儗僢僗儞偱偼丄僾儘僌儔儈儞僌尵岅偱昁梫偲側傞傛偆側婰崋傪妛傃傑偡丅偑丄
+偙偙偱偼偁傑傝戲嶳楙廗偟側偔偰傕偄偄偱偟傚偆丅乮懡暘丄僾儘僌儔儉偺擖椡偱
+嶳傎偳楙廗偱偒傞偱偟傚偆...乯\T
+乽=乿偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;=; ;;; ;=; ;;; ;=; ;;;\D
 ;=; -=- ;=; '=' ;=; :=: ;=;
 ;=; X=2 ;=; Y=3 ;=; Z=0 ;=;\D
 #if e
-≈*∽にはKの回を蝗います。\I
+乽*乿偵偼K偺巜傪巊偄傑偡丅\I
 kkk k*k kkk k*k kkk k*k kkk\D
 k*k 3*2 k*k 5*6 k*k 9*7 k*k
 k*k i*i k*k *,* k*k 8*8 k*k\D
 #else
-≈*∽には;の回を蝗います。\I
+乽*乿偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;*; ;;; ;*; ;;; ;*; ;;;\D
 ;*; 2*4 ;*; 7*5 ;*; 8*0 ;*;
 ;*; *=* ;*; -*- ;*; /*/ ;*;\D
 #endif
-≈+∽には≈;∽の回を蝗います。\I
+乽+乿偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;+; ;;; ;+; ;;; ;+; ;;;\D
 ;+; 2+4 ;+; 7+5 ;+; 8+0 ;+;
 ;+; +=+ ;+; -+- ;+; /+/ ;+;\D
-≈>∽にはLの回を蝗います。\I
+乽>乿偵偼L偺巜傪巊偄傑偡丅\I
 lll l>l lll l>l lll l>l lll\D
 l>l X>3 l>l Y>7 l>l Z>0 l>l
 l>l >>> l>l 9>9 l>l .>. l>l\D
-≈<∽にはKの回を蝗います。\I
+乽<乿偵偼K偺巜傪巊偄傑偡丅\I
 kkk k<k kkk k<k kkk k<k kkk\D
 k<k X<0 k<k Y<2 k<k Z<8 k<k
 k<k <.> k<k >.< k<k <<< k<k\D
-笆布の BASICプログラムを虑ってみましょう。\I
+埲壓偺 BASIC僾儘僌儔儉傪懪偭偰傒傑偟傚偆丅\I
 10 LET x=10
 20 LET y=20
 30 PRINT x+y/3
 40 PRINT y/x*5
 50 STOP\P
-CAPS LOCK∈あるいはアルファロック∷を病して、掐蜗してみましょう:\I
+CAPS LOCK傪墴偟偰丄擖椡偟偰傒傑偟傚偆\I
 100 REM PROGRAM TO SOLVE QUADRATIC EQUATION
 125 PRINT "ENTER THE VALUES OF A, B, AND C WHERE:"
 150 PRINT
@@ -739,70 +775,70 @@ CAPS LOCK∈あるいはアルファロック∷を病して、掐蜗してみましょう:\I
 525 GOTO 125\P
 *
 *T16*
-			      Lesson T16
+                              Lesson T16
 
 
-このレッスンでは、シフトキ〖と眶机キ〖で掐蜗する淡规について锡浆します。
-これらは矢鞠ではそう裳人には网脱されないので、ここでも锡浆の尸翁はあまり
-驴くありません。
+偙偺儗僢僗儞偱偼丄僔僼僩僉乕偲悢帤僉乕偱擖椡偡傞婰崋偵偮偄偰楙廗偟傑偡丅
+偙傟傜偼暥復偱偼偦偆昿斏偵偼棙梡偝傟側偄偺偱丄偙偙偱傕楙廗偺暘検偼偁傑傝
+懡偔偁傝傑偣傫丅
 
-これらの泼侍な淡规を崔む矢今を虑っていて、そのキ〖の疤弥が尸からなかった
-ら、キ〖を誊で淋してもかまいません。しかし、そのキ〖はつねに赖しい回でタ
-イプするようにします。
-もし、そういうキ〖が裳人に叫て丸るのであれば、それがどこにあるのか、斧な
-くても极脸に承えられるでしょう。
-これらの矢机はあまり脱いられず、また、キ〖ボ〖ドによっても疤弥が佰なるの
-で、スピ〖ドは脚妥ではありません。\T
+偙傟傜偺摿暿側婰崋傪娷傓暥彂傪懪偭偰偄偰丄偦偺僉乕偺埵抲偑暘偐傜側偐偭偨
+傜丄僉乕傪栚偱憑偟偰傕偐傑偄傑偣傫丅偟偐偟丄偦偺僉乕偼偮偹偵惓偟偄巜偱僞
+僀僾偡傞傛偆偵偟傑偡丅
+傕偟丄偦偆偄偆僉乕偑昿斏偵弌偰棃傞偺偱偁傟偽丄偦傟偑偳偙偵偁傞偺偐丄尒側
+偔偰傕帺慠偵妎偊傜傟傞偱偟傚偆丅
+偙傟傜偺暥帤偼偁傑傝梡偄傜傟偢丄傑偨丄僉乕儃乕僪偵傛偭偰傕埵抲偑堎側傞偺
+偱丄僗僺乕僪偼廳梫偱偼偁傝傑偣傫丅\T
 #if e
-≈@∽にはSの回を蝗います。\I
+乽@乿偵偼S偺巜傪巊偄傑偡丅\I
 sss s@s sss s@s sss s@s sss\D
 s@s at@ s@s w@x s@s S@w s@s
 s@s wax s@s mix s@s @we s@s\D
 #else
-≈@∽には;の回を蝗います。\I
+乽@乿偵偼乽;乿偺巜傪巊偄傑偡丅\I
 ;;; ;@; ;;; ;@; ;;; ;@; ;;;\D
 ;@; op@ ;@; p@p ;@; +@+ ;@;
 :@: *@* ;p; P@P :@: @p; ;@;\D
 #endif
-≈#∽にはDの回を蝗います。\I
+乽#乿偵偼D偺巜傪巊偄傑偡丅\I
 ddd d#d ddd d#d ddd d#d ddd\D
 d#d d#e d#d 3#c d#d #c# d#d
 d#d cat d#d dog d#d eat d#d\D
-≈$∽にはFの回を蝗います。\I
+乽$乿偵偼F偺巜傪巊偄傑偡丅\I
 fff f$f fff f$f fff f$f fff\D
 f$f r$v f$f v$4 f$f 4$r f$f
 f$f rave f$f fare f$f $10.00 f$f\D
 Joe keeps cryptic inventory bills like:  4# @ $5.00/# or 6# @ $4.50/#.\D
-≈%∽にはFの回を蝗います。\I
+乽%乿偵偼F偺巜傪巊偄傑偡丅\I
 fff f%f fff f%f fff f%f fff\D
 f%f 12% f%f 10% f%f 20% f%f
 f%f two f%f ran f%f bug f%f\D
 If a $25.00 item is sold at a 10% discount, it will cost $22.50.
 But, a 10% markup on a item selling for $22.50 is only $24.75!  How come?\D
-≈&∽にはJの回を蝗います。\I
+乽&乿偵偼J偺巜傪巊偄傑偡丅\I
 jjj j&j jjj j&j jjj j&j jjj\D
 j&j 2&4 j&j 9&5 j&j 7&7 j&j
 j&j you&me j&j he&she j&j M&M j&j\D
 #if e
-≈^∽にはJの回を蝗います。\I
+乽^乿偵偼J偺巜傪巊偄傑偡丅\I
 jjj j^j jjj ^^^ jjj j^j jjj\D
 j^j X^2 j^j Y^3 j^j Z^4 j^j
 j^j <^> j^j .^. j^j "^" j^j\D
 #endif
-				おわりに
+                                偍傢傝偵
 
-これでTコ〖スは姜わりです。この稿は、さらにNコ〖ス、Sコ〖スを锡浆すること
-ができるでしょう。
+偙傟偱T僐乕僗偼廔傢傝偱偡丅偙偺屻偼丄偝傜偵N僐乕僗丄S僐乕僗傪楙廗偡傞偙偲
+偑偱偒傞偱偟傚偆丅
 
-まだ池んでいないキ〖が警」荒っています。これらをタッチタイピングで掐蜗しよ
-うとするならば、そのキ〖に办戎夺い回を蝗うことです。骄って、ESC、TABなどは
-Aの回を蝗います。宝の数にある、Delete、Return、≈{∽、≈}∽などは≈;∽の回
-を蝗います。
+傑偩妛傫偱偄側偄僉乕偑彮乆巆偭偰偄傑偡丅偙傟傜傪僞僢僠僞僀僺儞僌偱擖椡偟傛
+偆偲偡傞側傜偽丄偦偺僉乕偵堦斣嬤偄巜傪巊偆偙偲偱偡丅廬偭偰丄ESC丄TAB側偳偼
+A偺巜傪巊偄傑偡丅塃偺曽偵偁傞丄Delete丄Return丄乽{乿丄乽}乿側偳偼乽;乿偺巜
+傪巊偄傑偡丅
 
-Controlキ〖との寥み圭わせはタッチタイプで掐蜗するのは岂しいですが、材墙な
-认跋でシフトキ〖と票屯に胺うことはできそうです。しかし、毋えばControl-Dは
-この数恕では岂しいでしょう。驴くの客は井回で Control を病し、戮の回、毋え
-ば客汗し回でDを病す、というようにしているようです。
-キ〖ボ〖ドによっては、Alternateキ〖、Commandキ〖などがありますが、これらは
-焊宝に洒わっていますから、タッチタイピングを炳脱することも材墙でしょう。\T
+Control僉乕偲偺慻傒崌傢偣偼僞僢僠僞僀僾偱擖椡偡傞偺偼擄偟偄偱偡偑丄壜擻側
+斖埻偱僔僼僩僉乕偲摨條偵埖偆偙偲偼偱偒偦偆偱偡丅偟偐偟丄椺偊偽Control-D偼
+偙偺曽朄偱偼擄偟偄偱偟傚偆丅懡偔偺恖偼彫巜偱 Control 傪墴偟丄懠偺巜丄椺偊
+偽恖嵎偟巜偱D傪墴偡丄偲偄偆傛偆偵偟偰偄傞傛偆偱偡丅
+僉乕儃乕僪偵傛偭偰偼丄Alternate僉乕丄Command僉乕側偳偑偁傝傑偡偑丄偙傟傜偼
+嵍塃偵旛傢偭偰偄傑偡偐傜丄僞僢僠僞僀僺儞僌傪墳梡偡傞偙偲傕壜擻偱偟傚偆丅\T
 *

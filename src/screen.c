@@ -2,26 +2,24 @@
 	screen.c  fot typist
 ---------------------------------------------------------
 	Ver.2.0   1997-05-20	Kana Exercise
-	by Takeshi Ogihara  (ogihara@seg.kobe-u.ac.jp)
+	by Takeshi Ogihara
+	Modification for MinGW   May 2007   by OHKUBO Takuya
+	Ver.3.0   2007-07-19	by Takeshi Ogihara
 ------------------------------------------------------ */
 
 #include <stdio.h>
 #include <stdlib.h>
-
-#ifdef NeXT
+#if !defined(__BORLANDC__)
 # include <libc.h>
-#endif
-#ifdef MSDOS
-# include <io.h>
 #endif
 
 #include "screen.h"
-#include "typist.h"
+#include "base.h"
 
+#if !defined(__MINGW32__) && !defined(__BORLANDC__)
 
 /* write 1 char into 2nd channel */
-int add_ch(cc)
-	int cc;
+int add_ch(int cc)
 {
 	char buf;
 
@@ -30,8 +28,7 @@ int add_ch(cc)
 	return 0;
 }
 
-void add_str(s)
-	char *s;
+void add_str(const char *s)
 {
 	int i;
 
@@ -40,8 +37,37 @@ void add_str(s)
 		write( 2, s, i );
 }
 
-#ifdef __STDC__
-void add_fmt( char *fmt, ... )
+#endif /* !defined(__MINGW32__) */
+
+
+/* write 1 Unicode char or Kana char */
+void add_kch(unsigned long kk)
+#if (KANA_CODE == UTF_8)
+{
+	int sft, x, ch;
+	char buf[4];
+
+	for (sft = 24, x = 0; sft >= 0; sft -= 8) {
+		ch = (kk >> sft) & 0xff;
+		if (ch)
+			buf[x++] = ch;
+	}
+	buf[x] = 0;
+	if (x > 0)
+		add_str(buf);
+}
+#else
+{
+	char buf[4];
+	buf[0] = (kk >> 8) & 0xff;
+	buf[1] = kk & 0xff;
+	buf[2] = 0;
+	add_str(buf);
+}
+#endif
+
+#if !defined(__BORLANDC__)
+void add_fmt(const char *fmt, ... )
 {
 	va_list argptr;
 	char buffer[STR_SIZE];
@@ -51,53 +77,36 @@ void add_fmt( char *fmt, ... )
 	add_str(buffer);
 	va_end(argptr);
 }
-
-#else
-
-void add_fmt( fmt, va_alist )
-	char *fmt;
-	va_dcl
-{
-	va_list argptr;
-	char buffer[STR_SIZE];
-
-	va_start(argptr);
-	vsprintf(buffer, fmt, argptr);
-	add_str(buffer);
-	va_end(argptr);
-}
 #endif
 
-
-#ifdef  MSDOS
+#if defined(MSDOS)
 /* =================================================== */
 
 #include <dos.h>
 
 /*
-    MS-DOS ¤Î¥Õ¥¡¥ó¥¯¥·¥ç¥ó¥³¡¼¥ë¤Ë¤è¤Ã¤Æ¥­¡¼¥Ü¡¼¥ÉÆþÎÏ¤òÄ´¤Ù¤ë¡£
-    ¡Ö¤ò¡×¤Î¥­¡¼¡ÊShift+0¡Ë¤Ï±Ñ¿ô¥â¡¼¥É¤Ç¤Ï¥­¥ã¥é¥¯¥¿¤¬ÆþÎÏ¤Ç¤­¤Ê¤¤¡£
-    ¤³¤ì¤ò¥Õ¥¡¥ó¥¯¥·¥ç¥ó¥³¡¼¥ë¤ÇÄ´¤Ù¤ë¤È¡¢00 ¤È 0b ¤ÎÏ¢Â³¤È¤·¤ÆÃÎ¤ë
-    ¤³¤È¤¬¤Ç¤­¤ë¡£¤³¤Î»þ¤Ë¡¢'~' ¤òÊ¸»ú¤È¤·¤ÆÊÖ¤¹¤³¤È¤Ë¤¹¤ë¡£
+    MS-DOS ‚Ìƒtƒ@ƒ“ƒNƒVƒ‡ƒ“ƒR[ƒ‹‚É‚æ‚Á‚ÄƒL[ƒ{[ƒh“ü—Í‚ð’²‚×‚éB
+    u‚ðv‚ÌƒL[iShift+0j‚Í‰p”ƒ‚[ƒh‚Å‚ÍƒLƒƒƒ‰ƒNƒ^‚ª“ü—Í‚Å‚«‚È‚¢B
+    ‚±‚ê‚ðƒtƒ@ƒ“ƒNƒVƒ‡ƒ“ƒR[ƒ‹‚Å’²‚×‚é‚ÆA00 ‚Æ 0b ‚Ì˜A‘±‚Æ‚µ‚Ä’m‚é
+    ‚±‚Æ‚ª‚Å‚«‚éB‚±‚ÌŽž‚ÉA'~' ‚ð•¶Žš‚Æ‚µ‚Ä•Ô‚·‚±‚Æ‚É‚·‚éB
 */
 
-int get_kch()
+int get_kch(void)
 {
 	union REGS inregs, outregs;
 
-	inregs.h.ah = 0x08;	/* ¥Õ¥¡¥ó¥¯¥·¥ç¥ó08H */
+	inregs.h.ah = 0x08;	/* ƒtƒ@ƒ“ƒNƒVƒ‡ƒ“08H */
 	intdos( &inregs, &outregs );
-	if ( outregs.h.al )	/* ÄÌ¾ï¤ÎÊ¸»ú */
+	if ( outregs.h.al )	/* ’Êí‚Ì•¶Žš */
 		return ((int)outregs.h.al & 0xff);
-	inregs.h.ah = 0x08;	/* ¥Õ¥¡¥ó¥¯¥·¥ç¥ó08H */
+	inregs.h.ah = 0x08;	/* ƒtƒ@ƒ“ƒNƒVƒ‡ƒ“08H */
 	intdos( &inregs, &outregs );
 	if ( outregs.h.al == 0x0b )
 		return '~';
 	return ' ';
 }
 
-void stand_out(kind)
-	int kind;
+void stand_out(int kind)
 {
 	switch (kind) {
 	case STANDOUT:
@@ -112,13 +121,56 @@ void stand_out(kind)
 	}
 }
 
-void stand_end(kind)
-	int kind;
+#endif /* end of MSDOS */
+
+
+#if defined(__BORLANDC__)
+/* =================================================== */
+
+static int txtcolor = 0x07; /* Lightgray on Black */
+static int revcolor = 0x70; /* Black on Lightgray */
+static int stdcolor = 0x0e;
+
+void init_screen(void)
 {
-	add_str("\033[m");
+    struct text_info ti;
+    int c;
+
+    gettextinfo(&ti);
+    if ((c = ti.attribute) != 0) {
+	txtcolor = c;
+	revcolor = ((c & 0xF0) >> 4) | ((c & 0x0F) << 4);
+	if ((c & 0x07) == 0x07) /* White or Lightgray text */
+	    stdcolor = (c & 0xf0) | 0x0e; /* Yellow text */
+	else
+	    stdcolor = 0xe0; /* Black on Yellow */
+    }
 }
 
-#else /* end of MSDOS */
+void stand_out(int kind)
+{
+	switch (kind) {
+	case STANDOUT:
+		textattr(stdcolor);
+		break;
+	case UNDERLINE:
+		textattr(0xc0); /* Black on Red */
+		break;
+	case BOLD:
+		textattr(revcolor);
+		break;
+	}
+}
+
+void stand_end(int kind)
+{
+    textattr(txtcolor);
+}
+
+#endif /* end of MSDOS */
+
+
+#if defined(UNIX_CURSES)
 /* =================================================== */
 
 #define  TERMENTRY	2048
@@ -136,21 +188,12 @@ void stand_end(kind)
 # include <sys/ioctl.h>
 #endif
 
-#ifdef __STDC__
 char *tgetstr(char *, char **);
-char *tgoto(char *, int, int);
+char *tgoto(const char *, int, int);
 int tgetnum(char *);
 int tgetflag(char *);
-int tgetent(char *, char *);
-int tputs(char *, int, int (*)());
-#else
-char *tgetstr();
-char *tgoto();
-int tgetnum();
-int tgetflag();
-int tgetent();
-int tputs();
-#endif
+int tgetent(char *, const char *);
+int tputs(const char *, int, int (*)());
 
 
 /* Terminal control strings */
@@ -173,8 +216,7 @@ static int screen_width = MIN_WIDTH, screen_height = MIN_HEIGHT;
 
 #ifdef TERMIO
 
-void raw_mode(sw)
-	int sw;
+void raw_mode(int sw)
 {
 	static int	firsttime = 1;
 	struct termio *s;
@@ -210,8 +252,7 @@ void raw_mode(sw)
 
 #else /* not TERMIO */
 
-void raw_mode(sw)
-	int sw;
+void raw_mode(int sw)
 {
 	static int	firsttime = 1;
 	struct sgttyb *s;
@@ -266,7 +307,7 @@ static int get_term_size(void)
 }
 
 /* Get terminal information from termcap. */
-static void get_term()
+static void get_term(void)
 {
 	char termentry[TERMENTRY];
 	static char buffer[TERMBUFFER];
@@ -341,20 +382,19 @@ FATAL:
 }
 
 
-void init_screen()
+void init_screen(void)
 {
 	get_term();
 	tputs(tc_init, screen_height, add_ch);
 }
 
-void end_screen()
+void end_screen(void)
 {
 	tputs(tc_restore, screen_height, add_ch);
 	raw_mode(0);
 }
 
-void stand_out(kind)
-	int kind;
+void stand_out(int kind)
 {
 	switch (kind) {
 	case STANDOUT:
@@ -369,8 +409,7 @@ void stand_out(kind)
 	}
 }
 
-void stand_end(kind)
-	int kind;
+void stand_end(int kind)
 {
 	switch (kind) {
 	case STANDOUT:
@@ -386,39 +425,25 @@ void stand_end(kind)
 	}
 }
 
-void put_bs(cc)
-	int cc;
+void put_bs(int cc)
 {
 	tputs(tc_backspace, 1, add_ch);
 	add_ch(cc);
 	tputs(tc_backspace, 1, add_ch);
 }
 
-void put_2bs(s)
-	char *s;
-{
-	tputs(tc_backspace, 1, add_ch);
-	tputs(tc_backspace, 1, add_ch);
-	add_ch(s[0]);
-	add_ch(s[1]);
-	tputs(tc_backspace, 1, add_ch);
-	tputs(tc_backspace, 1, add_ch);
-}
-
-void goto_screen(y, x)
-	int y, x;
+void goto_screen(int y, int x)
 {
 	tputs(tgoto(tc_move, x, y), screen_height, add_ch);
 }
 
-void clear_screen()
+void clear_screen(void)
 {
 	tputs(tgoto(tc_move, 0, 0), screen_height, add_ch);
 	tputs(tc_clear, screen_height, add_ch);
 }
 
-
-int get_ch()
+int get_ch(void)
 {
 	unsigned char ch;
 
@@ -426,10 +451,35 @@ int get_ch()
 	return (int)ch;
 }
 
+/* =================================================== */
+#endif /* UNIX_CURSES */
+
+
+#if defined(UNIX_CURSES)
+
+void put_2bs(unsigned long kk)
+{
+	tputs(tc_backspace, 1, add_ch);
+	tputs(tc_backspace, 1, add_ch);
+	add_kch(kk);
+	tputs(tc_backspace, 1, add_ch);
+	tputs(tc_backspace, 1, add_ch);
+}
+
+#else
+
+void put_2bs(unsigned long kk)
+{
+	add_str("\b\b");
+	add_kch(kk);
+	add_str("\b\b");
+}
+
+#endif /* UNIX_CURSES */
+
 
 #ifdef __TEST
-int main(void)
-{
+int main(void) {
 	char cc;
 
 	init_screen();
@@ -437,7 +487,7 @@ int main(void)
 	read(0, &cc, 1);
 	goto_screen(5, 20);
 	add_ch(cc);
-	fprintf(stderr, "´Á»ú\n");
+	fprintf(stderr, "Š¿Žš\n");
 	raw_mode(0);
 	goto_screen(23, 0);
 	end_screen();
@@ -445,5 +495,3 @@ int main(void)
 }
 #endif
 
-/* =================================================== */
-#endif /* not MSDOS */

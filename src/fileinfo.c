@@ -4,13 +4,16 @@
 	Ver.1.3   1994-12-09	REPEAT & BELL
 	Ver.1.41  1997-04-13	ANSI C
 	Ver.2.0   1997-04-21	Kana Exercise
-	by Takeshi Ogihara  (ogihara@seg.kobe-u.ac.jp)
+	Ver.2.01  1997-06-02	Bug Fix
+	Ver.3.0   2007-08-24	by Takeshi Ogihara
 ------------------------------------------------------ */
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "typist.h"
+#include "fileinfo.h"
+#include "http.h"
 
 #define   RCMAX    256
 #define   TLMAX    20
@@ -26,20 +29,26 @@ static StrType rcpath;
 static char buf[RCMAX];
 static char origLastLesson = 0;
 
-BoolType get_index()
+BoolType get_index(void)
 {
     int i, j, k;
     char *a, *b;
     StrType xpath;
-    FILE *rc;
+    FILEsIO *rc;
     struct Lesson *p;
 
-    sprintf(xpath, "%s%ctypist.idx", LessonDir, DELIM);
-    if ((rc = fopen(xpath, "ra")) == NULL)
+    if (isHttp) {
+	sprintf(xpath, "%s/typist.idx", LessonDir);
+	rc = open_url(xpath);
+    }else {
+	sprintf(xpath, "%s%ctypist.idx", LessonDir, DELIM);
+	rc = makeFilesio( fopen(xpath, "r") );
+    }
+    if (rc == NULL)
 	return FALSE;
     i = 0;
     p = typeLessons;
-    while(fgets(buf, RCMAX, rc) != NULL) {
+    while(iogets(buf, RCMAX, rc) != NULL) {
 	if (buf[0] == '#') /* comment */
 	    continue;
 	if (buf[0] == '?') { /* Help: must be the last */
@@ -68,16 +77,16 @@ BoolType get_index()
 	    if (k == j)
 		p->path = NULL;
 	    else {
-		p->path = a = (char *)malloc(k - j + strlen(Keytype));
+		p->path = a = (char *)malloc(k - j + strlen(keyboard_type));
 		for ( ; j < k; j++) {
-		    if (buf[j] == '%') { /* % は Keytype で置き換える */
-		        b = Keytype;
+		    if (buf[j] == '%') { /* % is replaced with keyboard_type */
+		        b = keyboard_type;
 			while (*b) *a++ = *b++;
 		    }else
 			*a++ = buf[j];
 		}
 		*a = 0;
-#ifdef MSDOS
+#if defined(MSDOS) || defined(__BORLANDC__)
 		for (a = p->path; *a; a++)
 		    if (*a == '/') *a = DELIM;
 #endif
@@ -91,12 +100,11 @@ BoolType get_index()
     p->fin = 0;
     p->item = NULL;
     p->path = NULL;
-    fclose(rc);
+    ioclose(rc);
     return (i>0);
 }
 
-int check_lesson_name(s)
-    char *s;
+int check_lesson_name(const char *s)
 {
     int i,n;
 
@@ -111,40 +119,59 @@ int check_lesson_name(s)
     return -1;
 }
 
-FILE *open_rc()
+static BoolType homedir(char *path)
+#if defined(WinXP)
+{
+    const char *d, *h;
+
+    d = getenv("HOMEDRIVE");
+    h = getenv("HOMEPATH");
+    if (d == NULL || h == NULL)
+	return FALSE;
+    sprintf(path, "%s%s%c%s", d, h, DELIM, TYPISTRC);
+    return TRUE;
+}
+#else
+{
+    const char *h;
+
+    if ((h = getenv("HOME")) == NULL)
+	return FALSE;
+    sprintf(path, "%s%c%s", h, DELIM, TYPISTRC);
+    return TRUE;
+}
+#endif
+
+FILE *open_rc(void)
 {
     int i, cc;
-    char *h;
+    const char *h;
     FILE *rc;
     static char key[8];
 
     if ((h = getenv(TYPDATA)) != NULL) {
 	strcpy(rcpath, h);
-    }else {
-	if ((h = getenv("HOME")) == NULL) {
-	    rcpath[0] = 0;
-	    return NULL;
-	}
-	sprintf(rcpath, "%s%c%s", h, DELIM, TYPISTRC);
+    }else if (!homedir(rcpath)) {
+	rcpath[0] = 0;
+	return NULL;
     }
-    if ((rc = fopen(rcpath, "ra")) == NULL)
+    if ((rc = fopen(rcpath, "r")) == NULL)
 	return NULL;
     if ((cc = fgetc(rc)) == EOF) {
 	fclose(rc);
 	return NULL;
     }else if (cc == '*') { /* Version 1.5 or later */
 	for (i = 0; (cc = fgetc(rc)) != '\n'; i++)
-	    key[i++] = cc;
+	    key[i] = cc;
 	key[i] = 0;
 	if (key[0])
-	    Keytype = key;
+	    keyboard_type = key;
     }else
 	ungetc(cc, rc);
     return rc;
 }
 
-void read_rc(rc)
-    FILE *rc;
+void read_rc(FILE *rc)
 {
     int ch, n;
     struct Lesson *p;
@@ -165,20 +192,20 @@ void read_rc(rc)
     }
 }
 
-void write_rc()
+void write_rc(void)
 {
     FILE *rc;
     struct Lesson *p;
     int n;
 
     if (rcpath[0] == 0) return;
-    if ((rc = fopen(rcpath, "wa")) == NULL) {
+    if ((rc = fopen(rcpath, "w")) == NULL) {
 	fprintf(stderr,"ERROR: Can't write into \"%s\".\n", rcpath);
 	return;
     }
     if (LastLesson)
 	origLastLesson = LastLesson;
-    fprintf(rc,"*%s\n", Keytype);
+    fprintf(rc,"*%s\n", keyboard_type);
     if (origLastLesson) {
 	fprintf(rc,"%c\n", origLastLesson);
 	for (p = typeLessons; p->item; p++)
@@ -191,8 +218,7 @@ void write_rc()
     LastLesson = 0;
 }
 
-void update_lesson(lname)
-	char *lname;
+void update_lesson(const char *lname)
 {
 	struct Lesson *p;
 	int ch, n;

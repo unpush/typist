@@ -1,0 +1,136 @@
+** Note for Typist on Terminal Version 3.0 **
+	Takeshi OGIHARA (2007.09.13)
+
+1. ƒ\[ƒXƒtƒ@ƒCƒ‹‚ÆŠÖ˜Aƒtƒ@ƒCƒ‹
+
+	*.c, *.h	ƒ\[ƒXƒtƒ@ƒCƒ‹
+	Note.txt	‰pŒê”Å‚ÌŠÈ’P‚È•¶‘
+	Note_JP.txt	‚±‚Ì•¶‘
+	makefile.unix	Žå‚É UNIX, LinuxŒü‚¯‚Ì Makefile
+	typist3.*	Borland C++ ƒRƒ“ƒpƒCƒ‰‚Ì‚½‚ß‚Ìƒtƒ@ƒCƒ‹
+
+2. ƒRƒ“ƒpƒCƒ‹‚Ì‚½‚ß‚É
+
+‚±‚Ìƒ\[ƒXƒtƒ@ƒCƒ‹‚ÍWindows XPã‚Ì Borland C++ ƒRƒ“ƒpƒCƒ‰‚ÅƒRƒ“ƒpƒCƒ‹
+‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚ ‚è‚Ü‚·B‚»‚Ì‘¼‚ÌƒRƒ“ƒpƒCƒ‰‚â DOS, Linux, ŠeŽíUNIX—p‚É
+ƒrƒ‹ƒh‚·‚é‚½‚ß‚É‚ÍAˆÈ‰º‚ÌŽ–€‚É—¯ˆÓ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+  (1) Š¿ŽšƒR[ƒh
+  (2) ŠÂ‹«•Ï”
+  (3) ƒ}ƒNƒ’è‹`
+  (4) ƒ‰ƒCƒuƒ‰ƒŠ‚Æƒwƒbƒ_ƒtƒ@ƒCƒ‹
+
+‚È‚¨AMac OS Xi10.4.10Œ»Ýj‚Ì Terminal.app ‚ÍŠ¿Žš‚ð³‚µ‚­•\Ž¦‚Å‚«‚Ü‚¹‚ñB
+‘ã‚í‚è‚É K. KusamaŽ‚Ì Jterminal‚ð—˜—p‚·‚é‚Æ³í‚É“®ì‚µ‚Ü‚·B
+Mac OS X—p‚É‚Íê—p‚Ì Typist for Mac OS X ‚ð‚²—˜—p‰º‚³‚¢B
+
+(1) Š¿ŽšƒR[ƒh
+
+  Typist‚Í“ú–{Œê•¶ŽšƒR[ƒh‚Æ‚µ‚ÄShift JISA“ú–{ŒêEUCA‚¨‚æ‚Ñ Unicode‚ð—˜—p
+  ‚Å‚«‚Ü‚·‚ªA‚±‚ê‚ÍƒRƒ“ƒpƒCƒ‹Žž‚Éƒ}ƒNƒ‚ÅŽw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+
+  ’ñ‹Ÿ‚µ‚Ä‚¢‚éƒ\[ƒXƒR[ƒh‚¨‚æ‚ÑƒŒƒbƒXƒ“—pƒf[ƒ^‚ÍShift JIS‚É‚È‚Á‚Ä‚¢‚Ü‚·B
+  ‘¼‚Ì•¶ŽšƒR[ƒh‚ð—˜—p‚·‚éê‡‚É‚ÍAƒ\[ƒXƒR[ƒh‚¨‚æ‚ÑƒŒƒbƒXƒ“—pƒf[ƒ^‚ð
+  ‚·‚×‚Ä–Ú“I‚Ì•¶ŽšƒR[ƒh‚É•ÏŠ·‚µ‚Ä‚¨‚­•K—v‚ª‚ ‚è‚Ü‚·B
+
+(2) ŠÂ‹«•Ï”
+  Typist‚ÍŽÀsŽž‚ÉˆÈ‰º‚ÌŠÂ‹«•Ï”‚ðŽQÆ‚µ‚Ü‚·B
+    TYPDATA     ƒ†[ƒU‚Ì—š—ð‹L˜^—pƒtƒ@ƒCƒ‹–¼
+    TYPLIB      ƒŒƒbƒXƒ“ƒf[ƒ^‚Ì‚ ‚éƒfƒBƒŒƒNƒgƒŠ–¼
+                ** WebƒTƒCƒg‚ÉƒŒƒbƒXƒ“ƒf[ƒ^‚ð’u‚¢‚ÄŽQÆ‚·‚é‚±‚Æ‚ª‰Â”\B
+                ** —á: "http://www.ggg/sss".
+    TERM        ƒ^[ƒ~ƒiƒ‹ƒ^ƒCƒvitermcapŽg—pŽžj
+    HOMEDRIVE   Windows XP.  ƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚Ì‚ ‚éƒhƒ‰ƒCƒu–¼
+    HOMEPATH    Windows XP.  ƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚ÌƒpƒX–¼
+    HOME        ƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚ÌƒpƒX–¼
+
+(3) ƒ}ƒNƒ’è‹`iŽå‚È‚à‚Ìj
+    MSDOS           MS-DOS—p‚ÌƒR[ƒh‚ð¶¬
+    WinXP           Windows XP—p‚ÌƒR[ƒh‚ð¶¬
+    USE_WINSOCK     Winsock API‚ðŽg‚¤ê‡‚É’è‹`
+    __BORLANDC__    Borland C++‚ÌŠù’è‹`ƒ}ƒNƒ
+    __MINGW32__     cigwinƒRƒ“ƒpƒCƒ‰‚ÌŠù’è‹`ƒ}ƒNƒ(?)
+    UNIX_CURSES     UNIX‚Åcursesƒ‰ƒCƒuƒ‰ƒŠ‚ðŽg‚¤ê‡‚É’è‹`
+    TERMIO          UNIX‚Återmio‚ÌŠÖ”ŒQ‚ðŽg—p‚·‚éê‡
+    LESSONDIR       ƒŒƒbƒXƒ“ƒf[ƒ^‚Ì‚ ‚éƒfƒBƒŒƒNƒgƒŠ–¼‚ÌŠù’è’l
+    TYPISTRC        —š—ð‹L˜^—pƒtƒ@ƒCƒ‹–¼‚ÌŠù’è’l
+    KANA_CODE       Š¿ŽšƒR[ƒh‚ðŽw’è‚·‚é (UTF_8/ShiftJIS/EUC_JP)
+                    ** ƒ\[ƒXƒR[ƒh‚¨‚æ‚ÑƒŒƒbƒXƒ“ƒf[ƒ^‚Í‚·‚×‚Ä‚±‚ÌŽw’è
+                    ** ‚³‚ê‚½Š¿ŽšƒR[ƒh‚É•ÏŠ·‚³‚ê‚Ä‚¢‚È‚¯‚ê‚Î‚È‚ç‚È‚¢
+    KEYTYPE         ƒL[ƒ{[ƒh‚Ìƒ^ƒCƒvB"j"‚ªŠù’è’l‚Å106ƒL[ƒ{[ƒh‚ðŽw’èB
+                    ** ‚©‚È“ü—ÍƒR[ƒX‚Ì—L–³‚ÉŠÖ‚í‚ç‚¸Žw’è‚ª•K—vB
+    KANA_LESSON     ‚©‚È“ü—ÍƒR[ƒX‚Ì‹@”\‚ðŠÜ‚ß‚éê‡‚Í’è‹`‚·‚éB
+                    ** ‚©‚È“ü—Í‚ðŽg‚í‚È‚¢ê‡‚Í *.map ƒtƒ@ƒCƒ‹‚à•s—v‚É‚È‚éB
+    SILENT          ƒxƒ‹‚ðˆêØ–Â‚ç‚³‚È‚¢
+    VANISHCHAR      ‹­’²•\Ž¦‚Ì’¼Œã‚Ì•\Ž¦‚ª—‚ê‚éê‡‚ÉŽw’è‚·‚éB
+    MACKEYBOARD     Mac OS X‚Å106ƒL[‚ðŽg‚¤ê‡
+
+(4) ƒ‰ƒCƒuƒ‰ƒŠ‚Æƒwƒbƒ_ƒtƒ@ƒCƒ‹
+  Typist‚ÌˆÈ‘O‚Ì”Å(Ver.2.0)‚Í DOS, Linux, ‚¨‚æ‚ÑŠeŽí UNIXƒVƒXƒeƒ€‚ÅƒRƒ“ƒp
+  ƒCƒ‹‚ª‰Â”\‚Å‚ ‚Á‚½BVer.3.0‚àAŠî–{“I‚É‚Í­X‚ÌŽèŠÔ‚Åƒrƒ‹ƒh‚Å‚«‚é‚æ‚¤‚É
+  ‚È‚é‚Æl‚¦‚Ä‚¢‚éB
+
+—˜—pŠÂ‹«‚âƒRƒ“ƒpƒCƒ‰‚É‰ž‚¶‚Äƒ\[ƒXƒR[ƒh‚ð•ÏX‚·‚é‚±‚Æ‚É‚È‚Á‚½ê‡‚É‚ÍA
+‚²ˆê•ñ’¸‚¯‚ê‚Î¡Œã‚Ì”Å‚É”½‰f‚Å‚«‚Ü‚·B‚æ‚ë‚µ‚­B
+
+
+3. ƒL[ƒ{[ƒh‚Æu‚©‚È“ü—ÍƒR[ƒXv‚ÉŠÖ‚·‚é’ˆÓ
+
+ƒL[ƒ{[ƒh‚Í•W€“I‚È“ú–{ŒêƒL[ƒ{[ƒh(JIS€‹’106ƒL[)‚Æ‰pŒêƒL[ƒ{[ƒh(101
+ƒL[)‚ð‘z’è‚µ‚Ä‚¢‚Ü‚·BˆÈ‘O‚Ì”Å‚ÅƒTƒ|[ƒg‚µ‚Ä‚¢‚½ NEC PC98ƒVƒŠ[ƒY‚ÌƒL[
+ƒ{[ƒh‚Í Ver.3.0‚©‚ç‚ÍƒTƒ|[ƒg‚µ‚Ä‚¢‚Ü‚¹‚ñB
+
+‚Ç‚¿‚ç‚ÌƒL[ƒ{[ƒh‚Å‚àA‰p”•¶Žš‚Ìƒ^ƒCƒv—ûK‚Å‚Í‘å‚«‚È–â‘è‚Í‚È‚¢‚Í‚¸‚Å‚·B
+
+‚µ‚©‚µA‚©‚È“ü—Í—ûKƒR[ƒX‚Å‚ÍAƒL[ƒ{[ƒh‚ÌŽí—Þ‚Æ‚»‚Ìƒ}ƒbƒsƒ“ƒO‚É‚æ‚Á‚Ä
+‚Í“ü—Í‚Å‚«‚È‚¢•¶Žš‚ª‚ ‚é‰Â”\«‚ª‚ ‚è‚Ü‚·Bƒ[ƒ}Žš‚©‚È“ü—Í‚É‚Í‰e‹¿‚ ‚è‚Ü
+‚¹‚ñB
+“Á‚É–â‘è‚È‚Ì‚ÍAƒL[ƒ{[ƒh‰E‘¤‚ÌƒŠƒ^[ƒ“ƒL[Žü•Ó‚Ì•¶Žš‚Å‚·B
+typist ‚Å‚ÍA“ü—Í‚³‚ê‚½‰p”•¶Žš‚ðAƒL[ƒgƒbƒvã‚Å‘Î‰ž‚·‚é‚©‚È•¶Žš‚É’Pƒ
+‚É’u‚«Š·‚¦‚Ä‚¢‚é‚¾‚¯‚Å‚·‚Ì‚ÅA•W€i‚Æ‘z’è‚·‚éjƒL[‚Ì‘g‚Ý‡‚í‚¹‚ÅASCII
+•¶Žš‚ª¶¬‚³‚ê‚È‚¢ê‡‚É‚Í—ûK‚ª‚Å‚«‚È‚¢‚±‚Æ‚É‚È‚è‚Ü‚·B
+lib “à‚É“Y•t‚µ‚½A106ƒL[ƒ{[ƒh‚Ì‚©‚È—pƒL[ƒ}ƒbƒv(j.map)‚Å‚ÍA
+
+	‚©‚È•¶Žš	“ü—ÍƒL[	‘Î‰ž‚·‚éASCII•¶Žš
+	‚ð		Shift + 0	'~'
+	‚Ö		^		'^'
+	[		€ ij	'€' or ''
+	K		[		'['
+	u		Shift + [	'{'
+	v		Shift + ]	'}'
+	‚ë		€ ij	'€' or ''
+
+101ƒL[ƒ{[ƒh‚Ì‚©‚È—pƒL[ƒ}ƒbƒv(e.map)‚Å‚ÍA
+
+	‚©‚È•¶Žš	“ü—ÍƒL[	‘Î‰ž‚·‚éASCII•¶Žš
+	‚ð		Shift + 0	')'
+	‚Ö		[		'['
+	[		}		'}'
+	K		=		'='
+	u		Shift + =	'+'
+	v		Shift + [	'{'
+	‚ë		Shift + '	'"'
+
+‚Æ‚È‚é‚±‚Æ‚ð‘z’è‚µ‚Ä‚¢‚Ü‚·B‚±‚Ì“ü—ÍƒL[‚Å‰E‚Ì‚æ‚¤‚È ASCII•¶Žš‚ª“ü—Í‚Å
+‚«‚é‚©‚Ç‚¤‚©Šm”F‚µ‚Ä‰º‚³‚¢B‚È‚¨A106ƒL[ƒ{[ƒh‚Ìê‡Au‚ëv‚Æu[v
+i’·‰¹‹L†j‚Íˆ—ã‚Í‹æ•Ê‚µ‚Ä‚¢‚Ü‚¹‚ñ‚Ì‚ÅA“¯‚¶•¶Žš‚Å‚©‚Ü‚¢‚Ü‚¹‚ñB
+ã‹L‚Ìƒ}ƒbƒvˆÈŠO‚Ì•¶Žš‚ª”­¶‚·‚éê‡Aƒtƒ@ƒCƒ‹ kanatutor.c ‚Ì’†‚É‚ ‚é
+ŠÖ” kana_match() ‚ð•ÏX‚·‚é•K—v‚ª‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñBŒ»ÝAMACKEYBOARD
+‚Æ‚¢‚¤ƒ}ƒNƒ‚ÅðŒ•t‚«ƒRƒ“ƒpƒCƒ‹‚Æ‚µ‚Ä‚¢‚é•”•ª‚ÍAMac OS X‚Ì“ú–{ŒêƒL[
+ƒ{[ƒh‚ªu‚ëv‚Åu_vAu‚ðv‚Åu0v‚ª“ü—Í‚³‚ê‚é‚±‚Æ‚É‘Î‚·‚é‘Îô‚Å‚·B
+
+ˆê”Ô–â‘è‚É‚È‚é‚Ì‚ÍA‘½•ªu‚ðv‚Ìˆµ‚¢‚Å‚µ‚å‚¤BƒVƒXƒeƒ€‚ÌÝ’è‚É‚à‚æ‚è‚Ü
+‚·‚ªAuShift + 0v‚Åu0v‚ª“ü—Í‚³‚ê‚½‚èAÅˆ«A•¶Žš‚ª”­¶‚µ‚È‚¢ê‡‚ª
+‚ ‚è‚Ü‚·BWindows‚ð‚Í‚¶‚ß‚Æ‚·‚é‚¢‚­‚Â‚©‚ÌƒVƒXƒeƒ€‚Å‚Í‚±‚Ì‘g‚Ý‡‚í‚¹‚Å
+ASCII•¶Žš‚ª”­¶‚µ‚Ü‚¹‚ñB
+
+MS-DOS‚âWindows95‚Å‚Í DOS‚ÌƒVƒXƒeƒ€ƒR[ƒ‹‚ðŽg‚Á‚ÄƒL[“ü—Í‚ðŽæ“¾‚Å‚«‚Ü‚·B
+‚±‚Ì‚½‚ß‚Ìƒ‹[ƒ`ƒ“‚Íƒ\[ƒXƒR[ƒh‚ÉŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
+Windows XP ‚Å‚ÍA’áƒŒƒxƒ‹‚ÌƒL[“ü—Í‚É‘Î‚µ‚ÄƒtƒbƒN‚ð‚©‚¯‚Äˆ—‚·‚ê‚Î‚Å‚«
+‚»‚¤‚Å‚·‚ªAŒ»ó‚Å‚Í‘Î‰ž‚µ‚Ä‚¢‚Ü‚¹‚ñB
+
+uShift + 0v‚Å '~' ‚È‚Ç‚ª“ü—Í‚Å‚«‚é‚æ‚¤‚ÉOS‚Ü‚½‚ÍƒEƒBƒ“ƒhƒEƒVƒXƒeƒ€‚Ì
+ƒL[‚Ìƒ}ƒbƒsƒ“ƒO‚ð•ÏX‚·‚é‚±‚Æ‚àl‚¦‚ç‚ê‚Ü‚·B—á‚¦‚ÎAX Window‚Å‚Í
+xmodmap‚Æ‚¢‚¤ƒRƒ}ƒ“ƒh‚Åƒ}ƒbƒsƒ“ƒO‚ª•ÏX‚Å‚«‚Ü‚·B
+
+
+  Thank you.

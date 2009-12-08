@@ -8,7 +8,7 @@
 	Tuned for ECIP NeXT: Takeshi Ogihara
 	Ver.1.0   1992-07-14
 	Ver.2.0   1997-05-17	Kana Exercise
-	by Takeshi Ogihara  (ogihara@seg.kobe-u.ac.jp)
+	Ver.3.0   2007-08-24	by Takeshi Ogihara
 ------------------------------------------------------ */
 
 #include <stdio.h>
@@ -18,13 +18,58 @@
 #include <errno.h>
 
 #include "typist.h"
+#include "fileinfo.h"
 #include "lineio.h"
+#include "dictionary.h"
 #include "screen.h"
+#include "http.h"
 
-char *get_lesson()	/* Ask user for desired lesson */
+#define CAPACITY_INC	200
+
+char **cached_lines = NULL;
+char *cached_attr = NULL;
+static size_t cacheCapacity = 0;
+static char empty[2] = { '\0', '\0' };	/* explicit NULL string */
+
+static void clear_cache(void)
+{
+    size_t i;
+
+    if (cached_lines) {
+	for (i = 0; i < cacheCapacity && cached_lines[i]; i++) {
+	    if (cached_lines[i] != empty)
+		free(cached_lines[i]);
+	    cached_lines[i] = NULL;
+	    cached_attr[i] = 0;
+	}
+    }else {
+	cacheCapacity = CAPACITY_INC;
+	cached_lines = calloc(cacheCapacity, sizeof(char *));
+	cached_attr = calloc(cacheCapacity, sizeof(char));
+    }
+}
+
+static void increse_cache(void)
+{
+    size_t i;
+    size_t newCapacity = cacheCapacity + CAPACITY_INC;
+    char **cache = calloc(newCapacity, sizeof(char *));
+    char *attr = calloc(newCapacity, sizeof(char));
+    for (i = 0; i < cacheCapacity; i++) {
+	cache[i] = cached_lines[i];
+	attr[i] = cached_attr[i];
+    }
+    free(cached_lines);
+    free(cached_attr);
+    cached_lines = cache;
+    cached_attr = attr;
+    cacheCapacity = newCapacity;
+}
+
+const char *get_lesson(void)	/* Ask user for desired lesson */
 {
     static StrType response;
-    int ch, n, item;
+    int ch, n, i, item;
     struct Lesson *p;
     char *lp;
 
@@ -36,46 +81,52 @@ char *get_lesson()	/* Ask user for desired lesson */
 	n = 1;
     }
 
-    move(0,0);
+    move_cursor(0, 0);
 #ifdef JPN
-    add_str("  °Ê²¼¤«¤é¥³¡¼¥¹¤òÁªÂò¤·¤Æ²¼¤µ¤¤:");
+    add_str("  ˆÈ‰º‚©‚çƒR[ƒX‚ð‘I‘ð‚µ‚Ä‰º‚³‚¢:");
     item = 0;
     for (p = typeLessons; p->item; p++) {
-	move(++item, 0);
+	move_cursor(++item, 0);
 	add_fmt("        %s (%c1 - %c%d) ", p->item, p->nam, p->nam, p->num);
 	if (p->fin >= p->num)
-	    add_str(" !!!½ªÎ»!!!");
+	    add_str(" !!!I—¹!!!");
 	else if (p->fin > 0)
-	    add_fmt(" [%c%d¤Þ¤Ç½ªÎ»]", p->nam, p->fin);
+	    add_fmt(" [%c%d‚Ü‚ÅI—¹]", p->nam, p->fin);
     }
-    move(++item, 0);
-    add_fmt(" Îý½¬¤·¤¿¤¤¥ì¥Ã¥¹¥ó¤ÎÌ¾Á°(Îã %c%d)¤òÆþÎÏ¤·¤Æ²¼¤µ¤¤", ch, n);
-    if (HasHelp)
-	add_str("\n (½ªÎ»=²þ¹Ô¡¢¥Ø¥ë¥×=?) ------> ");
-    else
-	add_str("(½ªÎ»=²þ¹Ô): ");
+    move_cursor(++item, 0);
+    add_fmt(" —ûK‚µ‚½‚¢ƒŒƒbƒXƒ“‚Ì–¼‘O(—á %c%d)‚ð“ü—Í‚µ‚Ä‰º‚³‚¢", ch, n);
+	if (HasHelp) {
+		move_cursor(item+1, 0);
+		add_str(" (I—¹=‰üsAƒwƒ‹ƒv=?) ------> ");
+	}else
+		add_str(" (I—¹=‰üs): ");
 #else
     add_str("  Several lessons are available:");
     item = 1;
     for (p = typeLessons; p->item; p++) {
-	move(item++, 8);
+	move_cursor(item++, 8);
 	add_fmt("%s (%c1 - %c%d) ", p->item, p->nam, p->nam, p->num);
 	if (p->fin >= p->num)
 	    add_str(" !!!Finish!!!");
 	else if (p->fin > 0)
 	    add_fmt(" [%c%d was done]", p->nam, p->fin);
     }
-    move(++item, 0);
-    add_fmt(" Type the desired lesson name(e.g. %c%d).\n", ch, n);
+    move_cursor(++item, 0);
+    add_fmt(" Type the desired lesson name(e.g. %c%d).", ch, n);
+    move_cursor(item+1, 0);
     add_str(" (Quit=RETURN) ------------> ");
 #endif
 
-    nocbreak();
+    cbreak_mode(0);
 
-    (void)gets(response);
+    (void)fgets(response, STR_SIZE, stdin);  /* avoid gets() */
 
-    cbreak();
-    for (lp = response; *lp == ' ' || *lp == '\t'; lp++) ;
+    cbreak_mode(1);
+    for (i = 0; i < STR_SIZE && response[i] != '\n' && response[i] != '\r'; i++)
+	;
+    response[i] = 0;
+    for (lp = response; *lp == ' ' || *lp == '\t'; lp++)
+	;
     if (*lp == 0)
 	cleanup(0);	/* EXIT */
     if (HasHelp && *lp == '?')
@@ -85,35 +136,36 @@ char *get_lesson()	/* Ask user for desired lesson */
 }
 
 
-BoolType find_lesson(name, cached_lines)
+BoolType find_lesson(const char *name)
 /* locate given lesson, leave lesson_file open so next line begins */
-    char *name;
-    char **cached_lines;
 {
     StrType fullName;
     StrType current_line;
-    BoolType done;
-    FILE *lesson_file;
-    int linesInLesson;
-    int i, idx, lng;
-    static char empty[2] = { '\0', '\0' };	/* explicit NULL string */
+    char slash;
+    FILEsIO *lesson_file;
+    size_t linesInLesson;
+    int idx, lng, kind;
 
     if ((idx = check_lesson_name(name)) < 0) {
+	stand_out(BOLD);
 #ifdef JPN
-	add_fmt("\n \"%s\" ¤È¤¤¤¦¥ì¥Ã¥¹¥ó¤Ï¤¢¤ê¤Þ¤»¤ó.\n", name);
+	add_fmt("\n \"%s\" ‚Æ‚¢‚¤ƒŒƒbƒXƒ“‚Í‚ ‚è‚Ü‚¹‚ñ.\n", name);
 #else
 	add_fmt("\n %s: No such Lesson.\n", name);
 #endif
+	stand_end(BOLD);
 	(void) wait_user();
 	return FALSE;
     }
     /* gf: Added LessonDir */
+    slash = isHttp ? '/' : DELIM;
     if (typeLessons[idx].path == NULL)
-	sprintf(fullName, "%s%c%c.typ", LessonDir, DELIM, name[0]);
+	sprintf(fullName, "%s%c%c.typ", LessonDir, slash, name[0]);
     else
 	sprintf(fullName, "%s%c%s.typ",
-			LessonDir, DELIM, typeLessons[idx].path);
-    lesson_file = fopen(fullName, "r");
+			LessonDir, slash, typeLessons[idx].path);
+    lesson_file = isHttp ? open_url(fullName)
+		: makeFilesio( fopen(fullName, "r") );
     if (lesson_file == NULL) {
 	stand_out(BOLD);
 	add_fmt("OPEN ERROR: %s (errno=%d)\n", fullName, errno);
@@ -126,44 +178,46 @@ BoolType find_lesson(name, cached_lines)
 	goto ERR_EXIT;
 
     /* clear previous lesson */
-    for (i = 0; i < MAX_LINES && cached_lines[i]; i++) {
-	if (cached_lines[i] != empty)
-	    free(cached_lines[i]);
-	cached_lines[i] = NULL;
-    }
+    clear_dictionary();
+    clear_cache();
     linesInLesson = 0;
-    done = FALSE;
-    while (!done) {
-	if ((lng = get_lesson_line(lesson_file, current_line)) < 0)
-	    break;	/* EOF or End of Lesson */
+    while ((lng = get_lesson_line(lesson_file, current_line)) >= 0) {
+	/* Loop ends if EOF or End of Lesson */
+	kind = 0;
+	if (lng >= 2 && current_line[lng - 2] == '\\') { /* expected terminator */
+	    kind = current_line[lng - 1];
+	    current_line[lng -= 2] = '\0'; /* remove */
+	}
 	if (lng == 0)
 	    cached_lines[linesInLesson] = empty;
 	else {
-	    cached_lines[linesInLesson] = (char *)malloc(lng + 1);
-	    if (cached_lines[linesInLesson] == NULL) {
+	    char *pp = (char *)malloc(lng + 1);
+	    if (pp == NULL) {
 		fprintf(stderr, "SYSTEM ERROR: malloc() failure\n");
 		cleanup(1);
 	    }
+	    strcpy(pp, current_line);
+	    cached_lines[linesInLesson] = pp;
 	}
-	strcpy(cached_lines[linesInLesson], current_line);
-	if (++linesInLesson >= MAX_LINES - 1)
-	    goto ERR_EXIT;
+	cached_attr[linesInLesson] = kind;
+	if (++linesInLesson >= cacheCapacity - 1)
+	    increse_cache();
     }
     /* The next of the last line, cached_lines[linesInLesson] should be NULL */
 
-    fclose(lesson_file);
+    ioclose(lesson_file);
     return TRUE;
 
 ERR_EXIT:
 	stand_out(BOLD);
 #ifdef JPN
-	add_fmt("¥ì¥Ã¥¹¥ó%s ¤ÏÍøÍÑ¤Ç¤­¤Þ¤»¤ó.\n", &name[1]);
+	add_fmt("ƒŒƒbƒXƒ“%s ‚Í—˜—p‚Å‚«‚Ü‚¹‚ñ.\n", &name[1]);
 #else
 	add_fmt("Lesson %s is not available.\n", &name[1]);
 #endif
 	stand_end(BOLD);
 
 	(void) wait_user();
-	fclose(lesson_file);
+	ioclose(lesson_file);
 	return FALSE;
 }

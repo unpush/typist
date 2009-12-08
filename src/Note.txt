@@ -1,0 +1,47 @@
+** Note for Typist on Terminal Version 3.0 **
+	Takeshi OGIHARA (2007.08.24)
+
+These source files are tuned to be compiled with Borland C++ on Windows XP.
+To use typist on Terminal of DOS, Linux, and UNIX, you have to modify:
+  (1) Environment Variables,
+  (2) Macros, and
+  (3) Libraries & Included Headers.
+On Mac OS X, Terminal.app cannot display Kanji perfectly.  Use Jterminal
+by K. Kusama instead.
+
+
+(1) Environment Variables
+  Typist refers to some Environment Variables.
+    TYPDATA     specifies user's history data
+    TYPLIB      specifies directory of lessons
+                ** You can specify a lesson directory on Web site.
+                ** Use string like "http://www.ggg/sss".
+    TERM        terminal type (if termcap library is used)
+    HOMEDRIVE   Windows XP.  Drive of HOME directory.
+    HOMEPATH    Windows XP.  Path of HOME directory.
+    HOME        Path of HOME directory.
+
+(2) Macros
+  Important macros:
+    MSDOS           for MS-DOS
+    WinXP           for Windows XP
+    USE_WINSOCK     for Winsock API
+    __BORLANDC__    is the compiler Borland?
+    __MINGW32__     is the compiler cigwin?
+    UNIX_CURSES     for UNIX with curses library
+    LESSONDIR       default path of lessons
+    TYPISTRC        name of user's history data
+    KANA_CODE       specifies Japanese Kanji Code (UTF_8/ShiftJIS/EUC_JP)
+                    ** If you want to use UTF_8 terminal, for example,
+                    ** you should convert all lessen files into UTF_8.
+
+(3) Libraries & Included Headers
+  Previous version of typist was compiled on DOS, Linux, and UNIX systems.
+  Basically, only a little tune would be needed to build typist on your
+  system.
+
+
+  If you have to modify many part of the source code, please teach me the
+  result.  It will be included in the next version.
+  Thank you.
+

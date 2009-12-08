@@ -1,36 +1,36 @@
 *S1*
-			¥¹¥Ô¡¼¥ÉÎı½¬¥³¡¼¥¹
+                        ƒXƒs[ƒh—ûKƒR[ƒX
 
-¤³¤ÎS¥³¡¼¥¹¤Î¥ì¥Ã¥¹¥ó¤Ï¡¢¥¿¥¤¥Ô¥ó¥°¥¹¥Ô¡¼¥É¤ÈÀµ³Î¤µ¤ò¸ş¾å¤µ¤»¤ë¤³¤È¤òÌÜÅª¤È
-¤·¤Æ¤¤¤Ş¤¹¡£¤³¤ì¤Ş¤Ç¤Î¥ì¥Ã¥¹¥ó¡ÊT¥³¡¼¥¹¤Ç¤·¤ç¤¦¤«¡Ë¤«¤é¡¢´û¤Ë¤¢¤Ê¤¿¤Ï¥¿¥Ã¥Á
-¥¿¥¤¥Ô¥ó¥°¤Î¤ä¤êÊı¤ò³Ø¤ó¤Ç¤¤¤ë¤â¤Î¤È»×¤¤¤Ş¤¹¡£
+‚±‚ÌSƒR[ƒX‚ÌƒŒƒbƒXƒ“‚ÍAƒ^ƒCƒsƒ“ƒOƒXƒs[ƒh‚Æ³Šm‚³‚ğŒüã‚³‚¹‚é‚±‚Æ‚ğ–Ú“I‚Æ
+‚µ‚Ä‚¢‚Ü‚·B‚±‚ê‚Ü‚Å‚ÌƒŒƒbƒXƒ“iTƒR[ƒX‚Å‚µ‚å‚¤‚©j‚©‚çAŠù‚É‚ ‚È‚½‚Íƒ^ƒbƒ`
+ƒ^ƒCƒsƒ“ƒO‚Ì‚â‚è•û‚ğŠw‚ñ‚Å‚¢‚é‚à‚Ì‚Æv‚¢‚Ü‚·B
 
-¤â¤·¡¢¥¿¥Ã¥Á¥¿¥¤¥Ô¥ó¥°¤òÃÎ¤é¤Ê¤¯¤Æ¤â¡¢¤³¤Î¥³¡¼¥¹¤òÎı½¬¤¹¤ë¤³¤È¤Ï¤Ç¤­¤Ş¤¹¤¬¡¢
-»Ï¤á¤ëÁ°¤Ë¡¢¾¯¤Ê¤¯¤È¤â¤Û¤È¤ó¤É¤Î¥¢¥ë¥Õ¥¡¥Ù¥Ã¥È¤ò¥¿¥Ã¥Á¥¿¥¤¥×¤ÇÆşÎÏ¤Ç¤­¤ë¤è
-¤¦¤Ë¤·¤Æ¤ª¤¤¤¿Êı¤¬ÎÉ¤¤¤Ç¤·¤ç¤¦¡£¤½¤¦¤Ç¤Ê¤¤¤È¡¢³Ø¤ó¤Ç¤¤¤Ê¤¤Ê¸»ú¤Ë½Ğ²ñ¤Ã¤¿»ş¡¢
-ÌÜ¤ÇÁÜ¤µ¤Ê¤±¤ì¤Ğ¤Ê¤ê¤Ş¤»¤ó¡£¤³¤ì¤ÏÂçÊÑ°­¤¤½¬´·¤Ç¡¢¤Ê¤«¤Ê¤«¤ä¤á¤ë»ö¤¬¤Ç¤­¤Ê
-¤¤¤Î¤Ç¤¹¡£¡Ê¤¿¤À¤·¡¢¥É¥ëµ­¹æ¤Î¤è¤¦¤ÊÉáÃÊ»È¤ï¤Ê¤¤¥­¡¼¤Î¤¿¤á¤Ë¡¢¤Á¤é¤Ã¤È¸«¤ë
-¤³¤È¤Ï¤«¤Ş¤¤¤Ş¤»¤ó¤¬¡Ë\T
-			Îı½¬¤ÎÊıË¡
+‚à‚µAƒ^ƒbƒ`ƒ^ƒCƒsƒ“ƒO‚ğ’m‚ç‚È‚­‚Ä‚àA‚±‚ÌƒR[ƒX‚ğ—ûK‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚·‚ªA
+n‚ß‚é‘O‚ÉA­‚È‚­‚Æ‚à‚Ù‚Æ‚ñ‚Ç‚ÌƒAƒ‹ƒtƒ@ƒxƒbƒg‚ğƒ^ƒbƒ`ƒ^ƒCƒv‚Å“ü—Í‚Å‚«‚é‚æ
+‚¤‚É‚µ‚Ä‚¨‚¢‚½•û‚ª—Ç‚¢‚Å‚µ‚å‚¤B‚»‚¤‚Å‚È‚¢‚ÆAŠw‚ñ‚Å‚¢‚È‚¢•¶š‚Éo‰ï‚Á‚½A
+–Ú‚Å‘{‚³‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB‚±‚ê‚Í‘å•Ïˆ«‚¢KŠµ‚ÅA‚È‚©‚È‚©‚â‚ß‚é–‚ª‚Å‚«‚È
+‚¢‚Ì‚Å‚·Bi‚½‚¾‚µAƒhƒ‹‹L†‚Ì‚æ‚¤‚È•’ig‚í‚È‚¢ƒL[‚Ì‚½‚ß‚ÉA‚¿‚ç‚Á‚ÆŒ©‚é
+‚±‚Æ‚Í‚©‚Ü‚¢‚Ü‚¹‚ñ‚ªj\T
+                        —ûK‚Ì•û–@
 
-¥Ñ¥é¥°¥é¥Õ¤¬²èÌÌ¤ËÉ½¼¨¤µ¤ì¤Ş¤¹¤Î¤Ç¡¢¤½¤Î¥Ñ¥é¥°¥é¥ÕÁ´Éô¤ò¤Ç¤­¤ë¤À¤±Â®¤¯¡¢¤«
-¤ÄÀµ³Î¤Ë¥¿¥¤¥×¤·¤Æ²¼¤µ¤¤¡£°ìÊ¸»ú¥¿¥¤¥×¤¹¤ë¤´¤È¤Ë¡¢¤½¤ÎÊ¸»ú¤¬Àµ¤·¤¤¤«¤É¤¦¤«
-¤¬Ä´¤Ù¤é¤ì¤Ş¤¹¡£Àµ¤·¤±¤ì¤Ğ²¿¤â¤·¤Ş¤»¤ó¤¬¡¢´Ö°ã¤Ã¤Æ¤¤¤¿¾ì¹ç¤Ë¤Ï¡¢²»¤ò½Ğ¤·¡¢
-¸í¤Ã¤¿²Õ½ê¤ò¶¯Ä´É½¼¨¤·¤Ş¤¹¡£¥¨¥é¡¼¤ÏÌµ»ë¤·¤ÆÀè¤Ë¿Ê¤à¤³¤È¤â¤Ç¤­¤Ş¤¹¤·¡¢½¤Àµ
-¤Î¤¿¤á¤Ë Delete¥­¡¼¤ò»È¤¦»ö¤â¤Ç¤­¤Ş¤¹¡£¡Ê¤¿¤À¤·¡¢¤½¤ì¤â¸í¤ê¤Î¤¦¤Á¤Ë¿ô¤¨¤Ş
-¤¹¤¬¡Ë
+ƒpƒ‰ƒOƒ‰ƒt‚ª—ûK—pƒEƒBƒ“ƒhƒE‚É•\¦‚³‚ê‚Ü‚·‚Ì‚ÅA‚»‚Ìƒpƒ‰ƒOƒ‰ƒt‘S•”‚ğ‚Å‚«‚é
+‚¾‚¯‘¬‚­A‚©‚Â³Šm‚Éƒ^ƒCƒv‚µ‚Ä‰º‚³‚¢Bˆê•¶šƒ^ƒCƒv‚·‚é‚²‚Æ‚ÉA‚»‚Ì•¶š‚ª³
+‚µ‚¢‚©‚Ç‚¤‚©‚ª’²‚×‚ç‚ê‚Ü‚·B³‚µ‚¯‚ê‚Î‰½‚à‚µ‚Ü‚¹‚ñ‚ªAŠÔˆá‚Á‚Ä‚¢‚½ê‡‚É‚Í
+‰¹‚ğo‚µAŒë‚Á‚½‰ÓŠ‚ğ‹­’²•\¦‚µ‚Ü‚·BƒGƒ‰[‚Í–³‹‚µ‚Äæ‚Éi‚Ş‚±‚Æ‚à‚Å‚«‚Ü
+‚·‚µAC³‚Ì‚½‚ß‚É DeleteƒL[‚ğg‚¤–‚à‚Å‚«‚Ü‚·Bi‚½‚¾‚µA‚»‚ê‚àŒë‚è‚Ì‚¤
+‚¿‚É”‚¦‚Ü‚·‚ªj
 
-¤Ş¤¿¡¢»ş´Ö¤Î·×Â¬¤â¤·¤Æ¤¤¤Ş¤¹¡£ºÇ½é¤ÎÊ¸»ú¤ò¥¿¥¤¥×¤·¤¿»ş¤«¤éºÇ¸å¤Î²ş¹Ô¥­¡¼¤¬
-²¡¤µ¤ì¤¿»ş¤Ş¤Ç¤¬·×Â¬¤µ¤ì¡¢¤½¤Î·ë²Ì(¸ì/Ê¬)¤¬²èÌÌ¤ËÉ½¼¨¤µ¤ì¤Ş¤¹¡£
+‚Ü‚½AŠÔ‚ÌŒv‘ª‚à‚µ‚Ä‚¢‚Ü‚·BÅ‰‚Ì•¶š‚ğƒ^ƒCƒv‚µ‚½‚©‚çÅŒã‚Ì‰üsƒL[‚ª
+‰Ÿ‚³‚ê‚½‚Ü‚Å‚ªŒv‘ª‚³‚êA‚»‚ÌŒ‹‰Ê(‘ÅŒ®”/•ªAŒê/•ª)‚ª‰æ–Ê‚É•\¦‚³‚ê‚Ü‚·B
 
-¤â¤·¡¢¤¢¤Ş¤ê¤ËÂ¿¤¯¤Î´Ö°ã¤¤¤ò¤·¤Æ¤·¤Ş¤Ã¤¿»ş¤Ï¡¢¼¡¤Î¥Ñ¥é¥°¥é¥Õ¤Ï¤æ¤Ã¤¯¤ê¥¿¥¤
-¥×¤·¤Æ²¼¤µ¤¤¡£¤Ş¤Ã¤¿¤¯´Ö°ã¤¨¤º¤Ë¡¢¤¢¤ë¤¤¤Ï£±¸Ä¤«£²¸Ä¤Î´Ö°ã¤¤¤À¤±¤Ç¥¿¥¤¥×¤Ç
-¤­¤¿¤é¡¢¼¡¤ÏÂ®¤¯ÂÇ¤Ä¤è¤¦¤Ë¤·¤Æ¤ß¤Ş¤·¤ç¤¦¡£\T
-¤Ş¤º¡¢¼ê»Ï¤á¤Ï...\I
+‚à‚µA‚ ‚Ü‚è‚É‘½‚­‚ÌŠÔˆá‚¢‚ğ‚µ‚Ä‚µ‚Ü‚Á‚½‚ÍAŸ‚Ìƒpƒ‰ƒOƒ‰ƒt‚Í‚ä‚Á‚­‚èƒ^ƒC
+ƒv‚µ‚Ä‰º‚³‚¢B‚Ü‚Á‚½‚­ŠÔˆá‚¦‚¸‚ÉA‚ ‚é‚¢‚Í‚PŒÂ‚©‚QŒÂ‚ÌŠÔˆá‚¢‚¾‚¯‚Åƒ^ƒCƒv‚Å
+‚«‚½‚çAŸ‚Í‘¬‚­‘Å‚Â‚æ‚¤‚É‚µ‚Ä‚İ‚Ü‚µ‚å‚¤B\T
+(1) ‚Ü‚¸Aèn‚ß‚Í...\I
 The quick brown fox jumped over the lazy dogs.\P
-¤â¤¦°ìÅÙ:\I
+(1')‚à‚¤ˆê“x:\I
 The quick brown fox jumped over the lazy dogs.\P
-¶õÇò¹Ô¤Ë¤Ï²ş¹Ô(Return)¤ò£²²óÂÇ¤Ä»ö¤òËº¤ì¤º¤Ë.\I
+(2) ‹ó”’s‚É‚Í‰üs(Return)‚ğ‘Å‚Â–‚ğ–Y‚ê‚¸‚É.\I
 Dear Sirs:
 
 I have just purchased a Heathkit H89 computer system and would
@@ -44,7 +44,7 @@ can not use my system before they arrive.
 Sincerely,
 
 Mr. Smith\P
-\I
+(3)\I
 Dear Sirs:
 
 Thank you for sending the diskettes so promptly.  How-
@@ -58,7 +58,7 @@ correct ones.
 Sincerely,
 
 Mr. Smith\P
-\I
+(4)\I
 Dear Mr. Smith:
 
 Thank you for informing us that the diskettes which you pur-
@@ -76,63 +76,67 @@ to our customers an efficient and courteous service at all
 times.\P
 *
 *S2*
-			     Lesson S2
+                             Lesson S2
 
 
-¤³¤Î¥ì¥Ã¥¹¥ó¤Ç¤Ï¡¢²¿¿Í¤«¤ÎÃøÌ¾¤Ê¿Í¡Ê¤½¤¦¤Ç¤Ê¤¤¿Í¤â¡Ë¤Î¸ÀÍÕ¤ò°úÍÑ¤·¤ÆÎı½¬
-¤·¤Æ¤ß¤Ş¤·¤ç¤¦¡£\T
-Marcus Aurelius\I
+‚±‚ÌƒŒƒbƒXƒ“‚Å‚ÍA‰½l‚©‚Ì’˜–¼‚Èli‚»‚¤‚Å‚È‚¢l‚àj‚ÌŒ¾—t‚ğˆø—p‚µ‚Ä—ûK
+‚µ‚Ä‚İ‚Ü‚µ‚å‚¤B\T
+(1) Marcus Aurelius\I
 A man can live well even in a palace.\P
-Ralph Waldo Emerson\I
+(2) Ralph Waldo Emerson\I
 My chief want in life is someone who shall make me do what I can.\P
-Elizabeth Barrett Browning\I
+(3) Elizabeth Barrett Browning\I
 No man can be called friendless when he has God and the
 companionship of good books.\P
-Ralph Waldo Emerson\I
-I like the silent church before the service begins better than any preaching.\P
-George Washington\I
+(4) Ralph Waldo Emerson\I
+I like the silent church before the service begins
+better than any preaching.\P
+(5) George Washington\I
 True friendship is a plant of slow growth.\P
-Aristotle\I
+(6) Aristotle\I
 There is a foolish corner in the brain of the wisest men.\P
-Goethe\I
+(7) Goethe\I
 Tell me what you are busy about, and I will tell you what you are.\P
-Gelett Burgess\I
-If in the last few years you haven't discarded a major opinion or
-acquired a new one, check your pulse.  You may be dead.\P
-James B. Conant\I
+(8) Gelett Burgess\I
+If in the last few years you haven't discarded a major opinion
+or acquired a new one, check your pulse.  You may be dead.\P
+(9) James B. Conant\I
 Democracy is a small hard core of common agreement, surrounded
 by a rich variety of individual differences.\P
-Albert Einstein\I
+(10) Albert Einstein\I
 I never think of the future.  It comes soon enough.\P
-Harry S. Truman\I
+(11) Harry S. Truman\I
 Men often mistake notoriety for fame, and would rather be
 remarked for their vices than not be noticed at all.\P
-Will Rogers\I
+(12) Will Rogers\I
 I could study all my life and not think up half the amount
 of funny things they can think of in one session of Congress.\P
-Ralph Waldo Emerson\I
-Hospitality consists in a little fire, a little food and an immense quiet.\P
-H. L. Mencken\I
-Puritanism is the haunting fear that someone, somewhere, may be happy.\P
-William James\I
-When you have to make a choice and don't make it, that is in itself a choice.\P
-James Holt McGravran.\I
+(13) Ralph Waldo Emerson\I
+Hospitality consists in a little fire, a little food and
+an immense quiet.\P
+(14) H. L. Mencken\I
+Puritanism is the haunting fear that someone, somewhere,
+may be happy.\P
+(15) William James\I
+When you have to make a choice and don't make it,
+that is in itself a choice.\P
+(16) James Holt McGravran.\I
 There is a way of transferring funds that is even faster
 than electronic banking.  It is called marriage.\P
-Woody Allen\I
+(17) Woody Allen\I
 Showing up is 80 percent of life.\P
-Robert Frost\I
+(18) Robert Frost\I
 A poem begins in delight and ends in wisdom.\P
-Louis Pasteur\I
-When I approach a child, he inspires in me two sentiments:  tenderness
-for what he is, and respect for what he may become.\P
+(19) Louis Pasteur\I
+When I approach a child, he inspires in me two sentiments:
+tenderness for what he is, and respect for what he may become.\P
 *
 *S3*
-			     Lesson S3
+                             Lesson S3
 
-¤³¤Î¥ì¥Ã¥¹¥ó¤Ç¤Ï¡¢¸ÅÅµ¤«¤é¤ÎÈ´¿è¤ò¤¤¤¯¤Ä¤«¤ª¸«¤»¤·¤Ş¤·¤ç¤¦¡£
-µŞ¤¬¤º¤Ë¡¢Ãí°Õ¤·¤Ê¤¬¤é¥¿¥¤¥×¤·¤Ş¤·¤ç¤¦¡£\T
-A Christmas Carol, Stave One, Marley's Ghost\I
+‚±‚ÌƒŒƒbƒXƒ“‚Å‚ÍAŒÃ“T‚©‚ç‚Ì”²ˆ‚ğ‚¢‚­‚Â‚©‚¨Œ©‚¹‚µ‚Ü‚µ‚å‚¤B
+‹}‚ª‚¸‚ÉA’ˆÓ‚µ‚È‚ª‚çƒ^ƒCƒv‚µ‚Ü‚µ‚å‚¤B\T
+(1) A Christmas Carol, Stave One, Marley's Ghost\I
 Now, it is a fact, that there was nothing at all par-
 ticular about the knocker on the door, except that it
 was very large.  It is also a fact, that Scrooge had
@@ -149,7 +153,7 @@ that Scrooge, having his key in the lock of the door,
 saw in the knocker, without its undergoing any inter-
 mediate process of change--not a knocker, but Mar-
 ley's face.\P
-Gulliver's Travels, Chapter One, A Voyage to Lilliput\I
+(2) Gulliver's Travels, Chapter One, A Voyage to Lilliput\I
 When I awaked it was just daylight.  I attempted to rise, but I
 found my arms and legs were strongly fastened on each side to
 the ground; and my hair, which was long and thick, tied to the
@@ -165,7 +169,7 @@ perceived it to be a human creature not six inches high, with a
 bow and arrow in his hands, and a quiver at his back.  In the
 mean time I felt at least forty more of the same kind (as I
 conjectured) following the first.\P
-Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.\I
+(3) Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.\I
 I lost no time, of course, in telling my mother all that
 I knew, and perhaps should have told her long before,
 and we saw ourselves at once in a difficult and dangerous
@@ -180,7 +184,7 @@ which was not to be thought of.  Indeed, it seemed
 impossible for either of us to remain much longer in the
 house:  the fall of coals in the kitchen grate, the very
 ticking of the clock, filled us with alarms.\P
-Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.\I
+(4) Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.\I
 The neighborhood, to our ears, seemed haunted by
 approaching footsteps; and what between the dead
 body of the captain on the parlor floor, and the thought
@@ -194,12 +198,12 @@ were, we ran out at once in the gathering evening and
 the frosty fog.\P
 *
 *S4*
-			     Lesson S4
+                             Lesson S4
 
 
-¤³¤Î¥ì¥Ã¥¹¥ó¤Ç¤Ï¡¢¥·¥§¡¼¥¯¥¹¥Ô¥¢¤Î·à¤«¤é¤ÎÆÈÇò¤òÎı½¬¤·¤Ş¤·¤ç¤¦¡£
-ÄÖ¤ê¤È¶çÆÉÅÀ¤¬ÂçÊÑÆñ¤·¤¤¤Ç¤¹¡£»ş´Ö¤ò¤«¤±¤ÆÃí°Õ¿¼¤¯¥¿¥¤¥×¤·¤Ş¤·¤ç¤¦¡£\T
-Romeo and Juliet, Act II, Scene II (Capulet's Garden).\I
+‚±‚ÌƒŒƒbƒXƒ“‚Å‚ÍAƒVƒF[ƒNƒXƒsƒA‚ÌŒ€‚©‚ç‚Ì“Æ”’‚ğ—ûK‚µ‚Ü‚µ‚å‚¤B
+’Ô‚è‚Æ‹å“Ç“_‚ª‘å•Ï“ï‚µ‚¢‚Å‚·BŠÔ‚ğ‚©‚¯‚Ä’ˆÓ[‚­ƒ^ƒCƒv‚µ‚Ü‚µ‚å‚¤B\T
+(1) Romeo and Juliet, Act II, Scene II (Capulet's Garden).\I
 But, soft! what light through yonder window breaks?
 It is the east, and Juliet is the sun!--
 Arise, fair sun, and kill the envious moon,
@@ -213,7 +217,7 @@ O, that she knew she were!--
 She speaks, yet she says nothing:  what of that?
 Her eye discourses, I will answer it.--
 I am too bold, 'tis not to me she speaks:\P
-\I
+(2)\I
 Two of the fairest stars in all the heaven,
 Having some business, do entreat her eyes
 To twinkle in their spheres till they return.
@@ -225,7 +229,7 @@ That birds would sing, and think it were not night.--
 See how she leans her cheek upon her hand!
 O, that I were a glove upon that hand,
 That I might touch that cheek!\P
-Julius Caesar, Act III, Scene II (The Forum).\I
+(3) Julius Caesar, Act III, Scene II (The Forum).\I
 Friends, Romans, countrymen, lend me your ears;
 I come to bury Caesar, not to praise him.
 The evil that men do lives after them;
@@ -241,7 +245,7 @@ Come I to speak in Caesar's funeral.
 He was my friend, faithful and just to me;
 But Brutus says he was ambitious;
 And Brutus is an honourable man.\P
-\I
+(4)\I
 He hath brought many captives home to Rome.
 Whose ransoms did the general coffers fill:
 Did this in Caesar seem ambitious?
@@ -254,7 +258,7 @@ I thrice presented him a kingly crown,
 Which he did thrice refuse:  was this ambition?
 Yet Brutus says he was ambitious;
 And, sure, he is an honourable man.\P
-\I
+(5)\I
 I speak not to disprove what Brutus spoke,
 But here I am to speak what I do know.
 You all did love him once,--not without cause:
@@ -263,7 +267,7 @@ O judgement, thou art fled to brutish beasts,
 And men have lost their reason!--Bear with me;
 My heart is in the coffin there with Caesar,
 And I must pause till it come back to me.\P
-The Merchant of Venice, Act IV, Scene I (A Court of Justice).\I
+(6) The Merchant of Venice, Act IV, Scene I (A Court of Justice).\I
 The quality of mercy is not strain'd;
 It droppeth as the gentle rain from heaven
 Upon the place beneath: it is twice bless'd;
@@ -273,7 +277,7 @@ The throned monarch better than his crown;
 His sceptre shows the force of temporal power,
 The attribute to awe and majesty,
 Wherein doth sit the dread and fear of kings;\P
-\I
+(7)\I
 But mercy is above this scepter'd sway,--
 It is enthroned in the heart of kings,
 It is an attribute to God himself;

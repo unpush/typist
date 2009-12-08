@@ -1,8 +1,8 @@
 *R1*
-			Lesson R1
+                        Lesson R1
 
-R¥³¡¼¥¹¤Ç¤Ï¥¹¥Ô¡¼¥É¤ÈÀµ³Î¤µ¤òÌÜÉ¸¤Ë¤·¤Ş¤¹¡£\T
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+RƒR[ƒX‚Å‚ÍƒXƒs[ƒh‚Æ³Šm‚³‚ğ–Ú•W‚É‚µ‚Ü‚·B\T
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 Up to date I can not see that the thing is as good as this one.\D
 (2) Balanced Keyboard Drill\I
 uch pos oug ept ing ope hic ati sch cou get ice con goo ght\D
@@ -26,19 +26,24 @@ post and put a sign on top.  Put these copies on each post.
 I guess no one intends to stop us.  The cast is set.  Each
 scene is set.  Each act can open in good shape.  I hope that
 enough cash is paid in so the cast need not stand the costs.\D
-			¥¹¥Ô¡¼¥ÉÎı½¬
+                        ƒXƒs[ƒh—ûK
 
-¤³¤ì¤«¤é¡¢¥ì¥Ã¥¹¥ó¤ÎÃæ¤Ë¥¹¥Ô¡¼¥ÉÎı½¬¤òº®¤¼¤ë¤³¤È¤Ë¤·¤Ş¤¹¡£¤³¤ì¤Ş¤Ç¤ÎÎı½¬
-¤Ç¤Ï¡¢Àµ¤·¤¯¥¿¥¤¥×¤Ç¤­¤ë¤Ş¤Ç·«¤êÊÖ¤·ÆşÎÏ¤µ¤»¤Æ¤¤¤Ş¤·¤¿¤¬¡¢¥¹¥Ô¡¼¥ÉÎı½¬¤Ç
-¤Ï¡¢¥Æ¥­¥¹¥È¤ò°ìÅÙÉ½¼¨¤¹¤ë¤À¤±¤Ë¤·¤Ş¤¹¡£
+‚±‚ê‚©‚çAƒŒƒbƒXƒ“‚Ì’†‚ÉƒXƒs[ƒh—ûK‚ğ¬‚º‚é‚±‚Æ‚É‚µ‚Ü‚·B‚±‚ê‚Ü‚Å‚Ì—ûK
+‚Å‚ÍA³‚µ‚­ƒ^ƒCƒv‚Å‚«‚é‚Ü‚ÅŒJ‚è•Ô‚µ“ü—Í‚³‚¹‚Ä‚¢‚Ü‚µ‚½‚ªAƒXƒs[ƒh—ûK‚Å
+‚ÍAƒeƒLƒXƒg‚ğˆê“x•\¦‚·‚é‚¾‚¯‚É‚µ‚Ü‚·B
 
-²¿¤¬°ã¤¦¤«¤È¤¤¤¦¤È¡¢»ş´Ö¤Î·×Â¬¤ò¤¹¤ëÅÀ¤¬°Û¤Ê¤ê¤Ş¤¹¡£¹Ô¤ÎºÇ½é¤ÎÊ¸»ú¤ò¥¿¥¤
-¥×¤·¤Æ¤«¤éºÇ¸å¤Î²ş¹Ô¤òÂÇ¤Ä¤Ş¤Ç¤Î»ş´Ö¤¬·×Â¬¤µ¤ì¤Ş¤¹¡£¥¿¥¤¥×¤·½ª¤ï¤Ã¤¿¤é¡¢
-ËèÊ¬¤ËÆşÎÏ¤Ç¤­¤ëÃ±¸ì¿ô(¸ì/Ê¬:WPM)¤È¤¤¤¦·Á¤ÇÆşÎÏ¥¹¥Ô¡¼¥É¤¬·×»»¤µ¤ì¤Ş¤¹¡£
-¤Ş¤¿¡¢¸í¤ê¤Î¿ô¤â¿ô¤¨¤Æ¡¢Áí¿ô¤òÉ½¼¨¤·¤Ş¤¹¡£
+ƒ^ƒCƒvŠÔˆá‚¢‚ğ‚µ‚½‚É‚ÍA‰¹‚ğo‚µAŒë‚Á‚½•”•ª‚ğ‹­’²•\¦‚µ‚Ü‚·B‚Ç‚ñ‚Ç‚ñ
+‘Å‚¿‘±‚¯‚ÄA‚Å‚«‚é‚¾‚¯ŠÔˆá‚¢‚ª­‚È‚­‚È‚é‚æ‚¤‚ÉŠæ’£‚Á‚Ä‰º‚³‚¢B‚æ‚­ŠÔˆá‚¦
+‚é‚Ì‚Í‚Ç‚ÌƒL[‚Å‚µ‚å‚¤‚©B
 
-¥¿¥¤¥×´Ö°ã¤¤¤ò¤·¤¿»ş¤Ë¤Ï¡¢²»¤ò½Ğ¤·¡¢¸í¤Ã¤¿ÉôÊ¬¤ò¶¯Ä´É½¼¨¤·¤Ş¤¹¡£¤É¤ó¤É¤ó
-ÂÇ¤ÁÂ³¤±¤Æ¡¢¤Ç¤­¤ë¤À¤±´Ö°ã¤¤¤¬¾¯¤Ê¤¯¤Ê¤ë¤è¤¦¤Ë´èÄ¥¤Ã¤Æ²¼¤µ¤¤¡£\T
+•’Ê‚ÌƒvƒƒOƒ‰ƒ€‚Æ“¯—l‚ÉAƒXƒs[ƒh—ûK‚Ì‚É‚ÍAƒoƒbƒNƒXƒy[ƒXA‚ ‚é‚¢‚Í
+DeleteƒL[‚ğg‚Á‚ÄA‘Å‚¿ŠÔˆá‚¦‚½•¶š‚ğ’ù³‚Å‚«‚Ü‚·B‚½‚¾‚µAƒGƒ‰[‚Ìƒ}[
+ƒN‚ÍÁ‚¦‚Ü‚·‚ªAƒGƒ‰[‚Æ‚µ‚Ä‚ÍƒJƒEƒ“ƒg‚³‚ê‚Ü‚·B
+ƒXƒs[ƒh—ûK‚ÌŠÔ‚ÍA‚±‚ê‚ç‚ÌƒL[‚ğg‚í‚È‚¢‚æ‚¤‚É‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·B³‚µ
+‚­ƒ^ƒCƒv‚Å‚«‚é‚Ü‚ÅŒJ‚è•Ô‚µ—ûK‚·‚é‚×‚«‚È‚Ì‚Å‚·B
+
+ƒoƒbƒNƒXƒy[ƒX‚â DeleteƒL[‚ğg‚¤ê‡‚ÍAu;v‚Ìw‚ğg‚Á‚Ä‘Å‚¿A‚·‚®‚É
+ƒz[ƒ€ƒ|ƒWƒVƒ‡ƒ“‚É–ß‚é‚æ‚¤‚É‚µ‚Ü‚·B\T
 (8) Pointer Paragraph (o e)\I
      Only too well do we know about your house.  Mother told
 me you hope to be settled there quite soon.  Of course she
@@ -56,8 +61,8 @@ His auto is a cheap one and no good on a night such as this.\P
 The gang can use the piano and good songs to open the dance.\D
 *
 *R2*
-			Lesson R2\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R2\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 It is a good thing to use good habits each time you practice.\D
 (2) Balanced Keyboard Drill\I
 thr pre rec ear ers ure urn gre art ore her are ter ere tru\D
@@ -99,8 +104,8 @@ grade.  The car turns out and ends on its side.  Hurt?  No.\P
 Dad had a short rest in order to start on the hard car trip.\D
 *
 *R3*
-			Lesson R3\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R3\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 As a rule call earlier on all orders as long as this one.\D
 (2) Balanced Keyboard Drill\I
 als ple gla ulo clo ile ill oul all eas onl ion tle lea ndl\D
@@ -117,9 +122,9 @@ order to end an error one can drill all the old line again.\D
 Learn the sound as one uses loose hands to type out a line.
 As one types his usual rate he ought to learn its sound until
 at this rate all the line has the usual, clean, clear sound.
-As soon as the usual rate is lost one canhear it as a slip.\D
+As soon as the usual rate is lost one can hear it as a slip.\D
 (7)\I
-Total lines that one turns out tell all that one is doung.
+Total lines that one turns out tell all that one is doing.
 In order that this class also can print a large line total,
 it still helps to spell; it also helps to print all the line
 as one line, and it helps less and less to drill single
@@ -154,8 +159,8 @@ The class has large plans; gains in hours and less slips.\P
 To learn to read or spell a rule helps less than to drill.\D
 *
 *R4*
-			Lesson R4\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R4\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 After that date I believe he can not say that it is not a fact.\D
 (2) Balanced Keyboard Drill\I
 any for efo fte day fin you ful ery nly hey afk ays fro say\D
@@ -168,7 +173,7 @@ so there is close to no delay and you also do not lose any.
 It is fine, fresh stuff and our first fancy fruit this year.\D
 (5)\I
 This offer is only for fancy fresh fruit to be used as gifts.
-Trhy these and candy to suit the young lady.  They are dandy.
+Try these and candy to suit the young lady.  They are dandy.
 You can feel safe.  Sales are easy and final.  They go fast.
 After at least four days you can order daily or on Friday.\D
 (6)\I
@@ -201,8 +206,8 @@ There is no reply.  Only the seas run high and I feel ill.\P
 The young lady often has pounds of fruit and candy each day.\D
 *
 *R5*
-			Lesson R5\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R5\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 In any case there is only one order that is long past due.\D
 (2) Balanced Keyboard Drill\I
 est ace ric ity red per der pro sel par ish ial ing eal let\D
@@ -229,18 +234,17 @@ this fine class drill is to help the type fly in fair order.\D
 (8) One- to three-letter words (m to z)\I
 Dear Tom,
 
-     Mr. May has one new car.  It has a low red top.  The top
-is so low you can not see the sun if you sit in the car.  Mr.
-May has not let his own son use it.  I saw his son try to put
-the top up.  I ran and met him.  Why not be men and run the car
-out?  We did.  We set out to run it ast six.  We two ran it off
-to an old lot by the sea.
+     Mr. May has one new car.  It has a low red top.  The top is so
+low you can not see the sun if you sit in the car.  Mr. May has not
+let his own son use it.  I saw his son try to put the top up.  I ran
+and met him.  Why not be men and run the car out?  We did.  We set
+out to run it ast six.  We two ran it off to an old lot by the sea.
 
-     Did his pa see us?  Yes, sir, who but Pa was at No. Ten
-as we ran by in the car--and Ma, too.  Oh, it was war--his pa
-had a lot to say.  Let me lay out the law to you.  You may not
-use the car as you did not pay for it.  You are not yet a man.
-Son did not lie nor did he win his way.
+     Did his pa see us?  Yes, sir, who but Pa was at No. Ten as we
+ran by in the car--and Ma, too.  Oh, it was war--his pa had a lot to
+say.  Let me lay out the law to you.  You may not use the car as you
+did not pay for it.  You are not yet a man.  Son did not lie nor did
+he win his way.
 
      How are you all?  Now if you get a new car, let me run it.
 
@@ -256,8 +260,8 @@ vacant lots.  A discount for cash increases collections.\P
 In order to type fast you hit lightly after each short delay.\D
 *
 *R6*
-			Lesson R6\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R6\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 It seems to me that we want to know what was said just now.\D
 (2) Balanced Keyboard Drill\I
 ent ake mon mak tim kin orm omp rom ork mys kno com ome Mr.
@@ -302,8 +306,8 @@ in jail, the old woman finds her money still under the clock.\P
 How do we know which way so wild a horse will kick or jump?\D
 *
 *R7*
-			Lesson R7\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R7\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 With that end in view I may soon have to put this question.\D
 (2) Balanced Keyboard Drill\I
 ave hav eve ver ove quo not ive giv qui vis que ved eiv tha\D
@@ -322,7 +326,7 @@ gold?  Who was this queer one who dared so treat the queen?
 Each guest did quail.  Could such quiet nerve ever avail?
 With a move quite free and easy the lady let fall her glass.\D
 (7)\I
-The queen put this query in a gick voice to quell them all:
+The queen put this query in a quick voice to quell them all:
 Why does the whole world love a lover?  Why do we value you?
 All did laugh.  The queen asked that, as a favor, you give us
 those who have nerve, for they can love and serve.  Quite as
@@ -347,8 +351,8 @@ even if the papers did quote his prison term as five years.\P
 Even her very quick smile never makes us quite at our ease.\D
 *
 *R8*
-			Lesson R8\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R8\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 I don't know why he can't have a large-sized order for you.\D
 (2) Balanced Keyboard Drill\I
 sen aze hen ose hat ous had ize tte see hin oze to- zoo n't
@@ -396,8 +400,8 @@ crowd is at zero.  They don't and can't pass any play quiz.\P
 It's crazy for me to type news items on paper of this size!\D
 *
 *R9*
-			Lesson R9\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R9\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 To some extent he has been able to do the next best thing.\D
 (2) Balanced Keyboard Drill\I
 abo bet bee ble bou bef ext ber six sib nex abl aby mbe box\D
@@ -451,8 +455,8 @@ The keys are fixed to keep both hands busy and in balance.\P
 Those boxes of books for New Mexico may be ready next week.\D
 *
 *R10*
-			Lesson R10\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R10\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 Next time we must ask to have you make them just as he does.\D
 (2) Balanced Keyboard Drill\I
 ite ith ine nce tio she hou how ime ibl ece muc out oth our
@@ -504,12 +508,12 @@ With a moon, I can name no event to equal a boat and water.\P
 It is good drill to keep going in even time for ten minutes.\D
 *
 *R11*
-			Lesson R11\B
+                        Lesson R11
 
-¤³¤Î¥ì¥Ã¥¹¥ó¤Ç¤Ï¡¢¿ô»ú¤ä¤¤¤í¤¤¤í¤Êµ­¹æ¤¬ÇÛÃÖ¤µ¤ì¤Æ¤¤¤ë¡¢¥­¡¼¥Ü¡¼¥É¤Î°ìÈÖ
-¾å¤ÎÎó¤Ë¤Ä¤¤¤ÆÎı½¬¤·¤Ş¤¹¡£F¤Î»Ø¤¬4¤È5¤ò²¡¤·¡¢J¤Î¥­¡¼¤¬6¤È7¤Î¥­¡¼¤ò²¡¤¹¤³
-¤È¤ËÃí°Õ¤·¤Æ²¼¤µ¤¤¡£\T
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+‚±‚ÌƒŒƒbƒXƒ“‚Å‚ÍA”š‚â‚¢‚ë‚¢‚ë‚È‹L†‚ª”z’u‚³‚ê‚Ä‚¢‚éAƒL[ƒ{[ƒh‚Ìˆê”Ô
+ã‚Ì—ñ‚É‚Â‚¢‚Ä—ûK‚µ‚Ü‚·BF‚Ìw‚ª4‚Æ5‚ğ‰Ÿ‚µAJ‚ÌƒL[‚ª6‚Æ7‚ÌƒL[‚ğ‰Ÿ‚·‚±
+‚Æ‚É’ˆÓ‚µ‚Ä‰º‚³‚¢B\T
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 She can tell us all there is to say on her side and what to do.\D
 (2) Rhythm and Keyboard Drill\I
 ki9 de3 ju8 fr4 ju7 fr5 jy6 ft6 lo0 sw2 ju7 fr5 jy6 ft6 ;p-
@@ -534,19 +538,19 @@ cent of all those at work had clerical jobs; today, about 8
 per cent have such jobs.  Does it interest you that of all
 paid typists only 3 per cent are more than 44 years of age?
 Most of the 810,000 typists in the last census are young.\D
-(8-9)\I
+(8)\I
 To throw a carriage do you take 6 or 7 times--or to shift for
 a capital, 2 or 3 times--as long as to hit one letter?  And
 do you know the common keys?  One common pair of letters is used
 for every 3 or 4 other pairs, even though there are more than
 600 other pairs.  The digits are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
 You will spell these out more often than you will type them.\P
-(10) Rhythmic Review\I
+(9) Rhythmic Review\I
 I am vexed if my prize went to my old address, 55 Fifth Avenue.\D
 *
 *R12*
-			Lesson R12\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R12\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 I should like to arrange to have you see me here next week.\D
 (2) Rhythm and Keyboard Drill\I
 k9 d3 j8 f4 j7 f5 f6 j6 10 s2 j8 f4 j7 f5 f6 j6 k9 d3 ;- s2
@@ -572,7 +576,7 @@ a minute, boys only 22 words.  At the end of 34 weeks these
 usual scores might be 29 or 31 or 34.  Indeed, 25 to 33 per
 cent of the students may type less than 20 words per minute.\D
 (8) Pointed Paragraph (n v)\I
-     Eleven invitiations for Thanksgiving vacation arrived in
+     Eleven invitations for Thanksgiving vacation arrived in
 advance of November.  In vain have a dozen relatives invited
 me to visit Vermont, Virginia, and Nevada.  I love being
 invited and I believe in never avoiding an invitation to any
@@ -592,10 +596,43 @@ may mean 158 pounds.  It is better to be a little over-weight.\P
 In order to park on Sixth at 11:05 we have to beat 135 cars!\D
 *
 *R13*
-			Lesson R13
+                        Lesson R13
 
-¤³¤Î¥ì¥Ã¥¹¥ó¤Ç¤Ï¡¢¥­¡¼¥Ü¡¼¥É¾å¤ÎÂ¾¤ÎÆÃ¼ì¤Êµ­¹æ¤Ë¤Ä¤¤¤Æ³Ø¤Ó¤Ş¤¹¡£\T
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+‚±‚ÌƒŒƒbƒXƒ“‚Å‚ÍAƒL[ƒ{[ƒhã‚Ì‘¼‚Ì“Áê‚È‹L†‚É‚Â‚¢‚ÄŠw‚Ñ‚Ü‚·B\T
+                        ƒL[ƒ{[ƒh‚Ìİ’è
+
+ƒL[ƒ{[ƒh‚É‚Í‚¢‚­‚Â‚©‚Ìí—Ş‚ª‚ ‚è‚Ü‚·‚ªATypist ‚Í‚»‚Ì‚¤‚¿A‰pŒêŒ—‚Å
+ˆê”Ê“I‚È 101ƒL[ƒ{[ƒh‚ÆA“ú–{Œê—p‚Ì JIS106 ƒL[ƒ{[ƒh‚É‘Î‰‚µ‚Ä‚¢‚Ü‚·B
+
+#if e
+Œ»İA101ƒL[ƒ{[ƒh‚Ìİ’è‚Å“®ì‚µ‚Ä‚¢‚Ü‚·B
+
+‚±‚ÌƒL[ƒ{[ƒh‚Å‚ÍA‰üsƒL[‚Ì‹ß‚­‚É '[' ‚Æ ']' ‚ª—×‚è‡‚Á‚Ä”z’u‚³‚êA”
+š‚Ì '2' ‚ÆƒVƒtƒgƒL[‚Å '@' ‚ª“ü—Í‚Å‚«‚é‚Í‚¸‚Å‚·B
+#else
+Œ»İA106ƒL[ƒ{[ƒh‚Ìİ’è‚Å“®ì‚µ‚Ä‚¢‚Ü‚·B
+
+‚±‚ÌƒL[ƒ{[ƒh‚Å‚ÍA‰üsƒL[‚Ì‹ß‚­‚É '[' ‚Æ ']' ‚ªc‚É•À‚ñ‚Å”z’u‚³‚êA”
+š‚Ì '2' ‚ÆƒVƒtƒgƒL[‚Å '"' ‚ª“ü—Í‚Å‚«‚é‚Í‚¸‚Å‚·B
+#endif
+‚»‚¤‚Å‚È‚¢ê‡AƒL[ƒ{[ƒh‚Ìƒ^ƒCƒv‚ğ -k ƒIƒvƒVƒ‡ƒ“‚Åw’è‚µ‚ÄA Typist‚ğ
+‹N“®‚µ’¼‚·•K—v‚ª‚ ‚è‚Ü‚·B
+
+@@@@-kj     106ƒL[ƒ{[ƒhiJIS‚É€‹’j
+@@@@-ke     101ƒL[ƒ{[ƒhiå‚É‘ŠOƒ[ƒJj
+
+#if j
+—á‚¦‚ÎA101ƒL[ƒ{[ƒh‚Ìİ’è‚É‚·‚é‚É‚ÍAŸ‚Ì‚æ‚¤‚ÈƒRƒ}ƒ“ƒh‚Å‹N“®‚µ‚Ü‚·B
+	typist -ke
+#else
+—á‚¦‚ÎA106ƒL[ƒ{[ƒh‚Ìİ’è‚É‚·‚é‚É‚ÍAŸ‚Ì‚æ‚¤‚ÈƒRƒ}ƒ“ƒh‚Å‹N“®‚µ‚Ü‚·B
+	typist -kj
+#endif
+‚±‚Ìİ’è‚Íˆê‰ñs‚¦‚ÎAİ’è—pƒtƒ@ƒCƒ‹‚É‹L˜^‚³‚ê‚Ü‚·‚Ì‚ÅAŸ‰ñ‚©‚ç‚Íw’è‚·
+‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB
+
+¡‚·‚® Typist ‚ğI—¹‚µ‚½‚¢ê‡‚É‚ÍAControl-C ‚ğ“ü—Í‚µ‚Ä‰º‚³‚¢B\T
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 If you do not hear soon, I want you to write again and again.\D
 (2) Rhythm and Keyboard Drill\I
 #if e
@@ -610,15 +647,15 @@ k) d# j( f$ j' f% j& f& l0 s" ;= s" ;{ d# ;@ f% ;? f& j& s"
 Send at once:  Form #93* @ $18.50 per dozen, 12% discount.\D
 (4)\I
 Sold to Smith & Sons, terms 1%, 10 days; 8 doz. 3" screws @
-5.25 cents, 42 cents; 16 files @ 5-3/8 cents, 86 cents; 3 #9 drills
-@ 75 cents, $2.75.\D
+5.25 cents, 42 cents; 16 files @ 5-3/8 cents, 86 cents; 3 #9
+drills @ 75 cents, $2.75.\D
 (5)\I
 Arrange to have A. C. Whitman & Co. deliver to our Seattle
-office, Wednesday, October, 26:  30 reams white paper, #99,
-@ 75 cents, $22.50; 4 files, Style 6**, @ $9 each, $26.....$58.50.\D
+office, Wednesday, October, 26:  30 reams white paper,
+#99, @ 75 cents, $22.50; 4 files, Style 6**, @ $9 each,
+$26.....$58.50.\D
 (6)\I
 In his speech on "Can a Business Man Be Honest?" he proved:
-
 (1) There are may ways, some hardly honest, to make money.
 (2) It may pay to treat fairly a business rival or employee.
 (3) Saving time and material often leads to a large profit.
@@ -648,8 +685,8 @@ Very truly yours,\P
 He said, "I long to get home after seven days in the country."\D
 *
 *R14*
-			Lesson R14\B
-(1) ¥¦¥©¡¼¥ß¥ó¥°¥¢¥Ã¥×\I
+                        Lesson R14\B
+(1) ƒEƒH[ƒ~ƒ“ƒOƒAƒbƒv\I
 I trust that you will be able to call upon us very soon.\D
 (2) Rhythm and Keyboard Drill\I
 #if e
