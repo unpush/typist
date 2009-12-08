@@ -1,0 +1,79 @@
+.TH TYPIST 1 "April 21, 1997"
+.ds ]W Kobe Univ.
+.SH NAME
+typist \- typing tutor
+.SH SYNOPSIS
+.B typist
+[ \-q ] [ \-V ] [
+.RI \-L dir
+] [
+.RI \-k t
+] [
+.I lesson
+]
+.sp
+.SH DESCRIPTION
+.PP
+.B Typist
+provides typing drills and maintains statistics for learning to type.
+The initial menu provides following lessons:
+.nf
+.na
+	Quick QWERTY course (q1 - q5)
+	Long QWERTY course  (r1 - r14)
+	QWERTY touch typing (t1 - t16)
+	Yet Another QWERTY  (v1 - v20)
+	QWERTY Review       (u1 - u13)
+	Typing drills       (m1 - m11)
+	Speed drills        (s1 - s4)
+	Calculator keypad   (n1 - n3)
+.ad
+.fi
+Specifying a lesson on command line, you can start the lesson
+immediately.
+If Japanese version is installed, Kana typing lessons are also available.
+.PP
+Your history of exercises can be saved when typist exits.
+.sp
+.SH OPTIONS
+.PP
+.TP
+.B \-q
+Prevents click sound.
+.TP
+.B \-V
+Print version information.
+.TP
+.BI \-L dir
+Specify
+.I dir
+as the directory which has lesson files.
+.TP
+.BI \-k t
+Specify the type of the keyboard.
+Argument
+.I t
+should be
+.I j
+or
+.I
+e,
+to specify Japanese or English type keyboard.
+.sp
+.SH FILES
+.ta \w'/usr/local/lib/typist/typist.idx\ \ 'u
+/usr/local/lib/typist/typist.idx	lesson index
+.br
+/usr/local/lib/typist/*.typ	lesson files
+.br
+/usr/local/lib/typist/*.map	keymap data
+.br
+~/.typistrc	lesson history file
+.sp
+.SH AUTHOR
+.PP
+Original author is D. Jason Penney (penneyj@slc.com).
+.PP
+Original man page by George Ferguson (ferguson@cs.rochester.edu).
+.PP
+Typist Japanese version by Takeshi Ogihara (ogihara@rd.ecip.osaka-u.ac.jp).

@@ -1,0 +1,38 @@
+From servio!SLC.COM!penneyj@uunet.UU.NET Tue Nov 26 10:06:55 1991
+Date: Tue, 26 Nov 91 06:42:32 PST
+From: penneyj@SLC.COM (D. Jason Penney)
+To: ferguson@cs.rochester.edu
+Subject: typist.c
+
+Hi, I thought I'd write and take a little credit for what you put on your
+ftp archive.
+
+I found this program originally many years ago on a DECUS tape, written for
+VAX/VMS BASIC.  The author was someone at Harris, Corp. (Ft. Lauderdale, FL).
+I forget the name, sorry.
+
+I rewrote the program to run under Microsoft BASICA, and packaged it with a
+keyboard driver for the IBM-PC.  (The keyboard driver extends typeahead,
+allows switching of keyboard layouts at any time, and other neat features.)
+
+One day in a fit of pique, I rewrote the BASICA program to use Unix curses,
+which I had the misfortune of being somewhat familiar with at the time.
+At the same time, I made a few embellishments, i.e. to permit you to interrupt
+lessons, etc.
+
+I also take credit for the Sun console keyboard driver.  Since I have a
+SPARCstation-1 at my desk, of COURSE I had to get it to speek Dvorak.
+
+All of this software plus some other things (i.e., an X11r4 xmodmap for
+a dvorak keyboard, etc.) is available from my MBAS (mail-based archive
+server).  Sorry, no FTP access, at least this year.  Write if you are
+interested.
+
+A year or two ago a fellow at Emory University took my stuff and posted it
+on a bulletin board.  This is probably where you found it.
+
+Yours truly,
+D. Jason Penney           Ph: (503) 629-8383
+Beaverton, OR 97006       uucp: ...uunet!servio!penneyj (penneyj@slc.com)
+"Talking about music is like dancing about architecture." -- Steve Martin
+
